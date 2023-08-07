@@ -1,0 +1,63 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="HtmlUnknownAttribute" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="myValues">
+        <value>
+          <list size="1">
+            <item index="0" class="java.lang.String" itemvalue="type" />
+          </list>
+        </value>
+      </option>
+      <option name="myCustomValuesEnabled" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="20">
+            <item index="0" class="java.lang.String" itemvalue="ubuntu-drivers-common" />
+            <item index="1" class="java.lang.String" itemvalue="defer" />
+            <item index="2" class="java.lang.String" itemvalue="duplicity" />
+            <item index="3" class="java.lang.String" itemvalue="ufw" />
+            <item index="4" class="java.lang.String" itemvalue="pycups" />
+            <item index="5" class="java.lang.String" itemvalue="pycairo" />
+            <item index="6" class="java.lang.String" itemvalue="python-apt" />
+            <item index="7" class="java.lang.String" itemvalue="PyGObject" />
+            <item index="8" class="java.lang.String" itemvalue="ubuntu-advantage-tools" />
+            <item index="9" class="java.lang.String" itemvalue="python-debian" />
+            <item index="10" class="java.lang.String" itemvalue="distro-info" />
+            <item index="11" class="java.lang.String" itemvalue="systemd-python" />
+            <item index="12" class="java.lang.String" itemvalue="dbus-python" />
+            <item index="13" class="java.lang.String" itemvalue="louis" />
+            <item index="14" class="java.lang.String" itemvalue="usb-creator" />
+            <item index="15" class="java.lang.String" itemvalue="command-not-found" />
+            <item index="16" class="java.lang.String" itemvalue="language-selector" />
+            <item index="17" class="java.lang.String" itemvalue="unattended-upgrades" />
+            <item index="18" class="java.lang.String" itemvalue="uwsgi" />
+            <item index="19" class="java.lang.String" itemvalue="t2o_apis" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingBuiltinsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredNames">
+        <list>
+          <option value="iter" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="name" />
+          <option value="tuple.sol" />
+          <option value="tuple.y" />
+          <option value="tuple.t" />
+          <option value="str.shape" />
+          <option value="str.size" />
+          <option value="bool.all" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
