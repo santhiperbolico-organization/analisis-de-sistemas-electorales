@@ -163,6 +163,84 @@ def hare_coefficient(
     return df_rep
 
 
+def droop_coefficient(
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
+) -> pd.DataFrame:
+    """
+    Función que aplica la distribución de escaños usando el coeficiente de Droop.
+
+    Parameters
+    ----------
+    votes: pd.DataFrame
+        Tabla con los votos por partido y regiones.
+    regions: pd.DataFrame
+        Tabla con el reparto de escaños por regiones.
+    electoral_barrier: float
+        Valor de la barrera electoral
+
+    Returns
+    -------
+    df_rep: pd.DataFrame
+        Tabla con el reparto de escaños por partído.
+    """
+    df_rep = votes.groupby("party").sum()[["votes"]]
+    df_rep.insert(1, "n_rep", 0)
+    for _, reg_row in regions.iterrows():
+        votes_reg = votes[votes.region == reg_row["reg_el_id"]].copy()
+        votes_reg = votes_reg[votes_reg.votes >= electoral_barrier * votes_reg.votes.sum()]
+        coeff_droop = 1 + votes_reg.votes.sum() // (reg_row["n_rep"] + 1)
+        votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_droop)
+        votes_reg.insert(
+            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_droop
+        )
+        votes_reg = votes_reg.sort_values("rest_votes", ascending=False).reset_index(drop=True)
+        rest_n_rep = reg_row["n_rep"] - votes_reg.n_rep.sum()
+        for i in range(rest_n_rep):
+            votes_reg.loc[i, "n_rep"] += 1
+        df_rep.loc[votes_reg.party, "n_rep"] += votes_reg["n_rep"].values
+    df_rep = df_rep.sort_values("n_rep", ascending=False).reset_index()
+    return df_rep
+
+
+def hagenbach_coefficient(
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
+) -> pd.DataFrame:
+    """
+    Función que aplica la distribución de escaños usando el coeficiente de Hagenbach-Bischoff.
+
+    Parameters
+    ----------
+    votes: pd.DataFrame
+        Tabla con los votos por partido y regiones.
+    regions: pd.DataFrame
+        Tabla con el reparto de escaños por regiones.
+    electoral_barrier: float
+        Valor de la barrera electoral
+
+    Returns
+    -------
+    df_rep: pd.DataFrame
+        Tabla con el reparto de escaños por partído.
+    """
+    df_rep = votes.groupby("party").sum()[["votes"]]
+    df_rep.insert(1, "n_rep", 0)
+    for _, reg_row in regions.iterrows():
+        votes_reg = votes[votes.region == reg_row["reg_el_id"]].copy()
+        votes_reg = votes_reg[votes_reg.votes >= electoral_barrier * votes_reg.votes.sum()]
+        coeff_hagenbach = votes_reg.votes.sum() // (reg_row["n_rep"] + 1)
+        votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_hagenbach)
+        votes_reg.insert(
+            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hagenbach
+        )
+        votes_reg = votes_reg.sort_values("rest_votes", ascending=False).reset_index(drop=True)
+        rest_n_rep = reg_row["n_rep"] - votes_reg.n_rep.sum()
+        for i in range(rest_n_rep):
+            votes_reg.loc[i, "n_rep"] += 1
+        df_rep.loc[votes_reg.party, "n_rep"] += votes_reg["n_rep"].values
+    df_rep = df_rep.sort_values("n_rep", ascending=False).reset_index()
+    return df_rep
+
+
 def imperiali_coefficient(
     votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
@@ -188,10 +266,10 @@ def imperiali_coefficient(
     for _, reg_row in regions.iterrows():
         votes_reg = votes[votes.region == reg_row["reg_el_id"]].copy()
         votes_reg = votes_reg[votes_reg.votes >= electoral_barrier * votes_reg.votes.sum()]
-        coeff_hare = votes_reg.votes.sum() // (reg_row["n_rep"] + 2)
-        votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_hare)
+        coeff_imperiali = votes_reg.votes.sum() // (reg_row["n_rep"] + 2)
+        votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_imperiali)
         votes_reg.insert(
-            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hare
+            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_imperiali
         )
         votes_reg = votes_reg.sort_values("rest_votes", ascending=False).reset_index(drop=True)
         rest_n_rep = reg_row["n_rep"] - votes_reg.n_rep.sum()
@@ -224,6 +302,8 @@ def get_distribution_formula(formula_name: str) -> FormulaFunction:
         "sainte_lague_modificado": sainte_lague_modificado,
         "hare": hare_coefficient,
         "imperiali": imperiali_coefficient,
+        "droop": droop_coefficient,
+        "hagenbach": hagenbach_coefficient,
     }
 
     try:
