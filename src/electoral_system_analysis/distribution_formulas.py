@@ -1,7 +1,7 @@
 from typing import Callable
 
+import numpy as np
 import pandas as pd
-
 
 FormulaFunction = Callable[[pd.DataFrame, pd.DataFrame, float], pd.DataFrame]
 
@@ -11,9 +11,7 @@ class FormulaDosntExist(Exception):
 
 
 def dhont_rule(
-        votes: pd.DataFrame,
-        regions: pd.DataFrame,
-        electoral_barrier: float
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
     """
     Función que aplica la distribución de escaños usando la ley D'Hont.
@@ -50,9 +48,7 @@ def dhont_rule(
 
 
 def sainte_lague(
-        votes: pd.DataFrame,
-        regions: pd.DataFrame,
-        electoral_barrier: float
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
     """
     Función que aplica la distribución de escaños usando la ley Sainte Lague.
@@ -81,7 +77,7 @@ def sainte_lague(
         votes_reg = votes_reg.sort_values("vot_s", ascending=False).reset_index(drop=True)
         for i in range(reg_row["n_rep"]):
             votes_reg.loc[0, "n_rep"] += 1
-            votes_reg.vot_s = votes_reg.votes // (2*votes_reg.n_rep + 1)
+            votes_reg.vot_s = votes_reg.votes // (2 * votes_reg.n_rep + 1)
             votes_reg = votes_reg.sort_values("vot_s", ascending=False).reset_index(drop=True)
         df_rep.loc[votes_reg.party, "n_rep"] += votes_reg["n_rep"].values
     df_rep = df_rep.sort_values("n_rep", ascending=False).reset_index()
@@ -89,9 +85,7 @@ def sainte_lague(
 
 
 def sainte_lague_modificado(
-        votes: pd.DataFrame,
-        regions: pd.DataFrame,
-        electoral_barrier: float
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
     """
     Función que aplica la distribución de escaños usando la ley Sainte Lague Modificado.
@@ -120,8 +114,10 @@ def sainte_lague_modificado(
         votes_reg = votes_reg.sort_values("vot_s", ascending=False).reset_index(drop=True)
         for i in range(reg_row["n_rep"]):
             votes_reg.loc[0, "n_rep"] += 1
-            votes_reg.loc[0, "vot_s"] = votes_reg.loc[0, "votes"] // (2*votes_reg.loc[0, "n_rep"] + 1)
-            votes_reg.vot_s = votes_reg.votes // (2*votes_reg.n_rep + 1)
+            votes_reg.loc[0, "vot_s"] = votes_reg.loc[0, "votes"] // (
+                2 * votes_reg.loc[0, "n_rep"] + 1
+            )
+            votes_reg.vot_s = votes_reg.votes // (2 * votes_reg.n_rep + 1)
             votes_reg = votes_reg.sort_values("vot_s", ascending=False).reset_index(drop=True)
         df_rep.loc[votes_reg.party, "n_rep"] += votes_reg["n_rep"].values
     df_rep = df_rep.sort_values("n_rep", ascending=False).reset_index()
@@ -129,9 +125,7 @@ def sainte_lague_modificado(
 
 
 def hare_coefficient(
-        votes: pd.DataFrame,
-        regions: pd.DataFrame,
-        electoral_barrier: float
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
     """
     Función que aplica la distribución de escaños usando el coeficiente de Hare.
@@ -157,7 +151,9 @@ def hare_coefficient(
         votes_reg = votes_reg[votes_reg.votes >= electoral_barrier * votes_reg.votes.sum()]
         coeff_hare = votes_reg.votes.sum() // reg_row["n_rep"]
         votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_hare)
-        votes_reg.insert(votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hare)
+        votes_reg.insert(
+            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hare
+        )
         votes_reg = votes_reg.sort_values("rest_votes", ascending=False).reset_index(drop=True)
         rest_n_rep = reg_row["n_rep"] - votes_reg.n_rep.sum()
         for i in range(rest_n_rep):
@@ -166,10 +162,9 @@ def hare_coefficient(
     df_rep = df_rep.sort_values("n_rep", ascending=False).reset_index()
     return df_rep
 
+
 def imperiali_coefficient(
-        votes: pd.DataFrame,
-        regions: pd.DataFrame,
-        electoral_barrier: float
+    votes: pd.DataFrame, regions: pd.DataFrame, electoral_barrier: float
 ) -> pd.DataFrame:
     """
     Función que aplica la distribución de escaños usando el coeficiente de Imperiali.
@@ -195,7 +190,9 @@ def imperiali_coefficient(
         votes_reg = votes_reg[votes_reg.votes >= electoral_barrier * votes_reg.votes.sum()]
         coeff_hare = votes_reg.votes.sum() // (reg_row["n_rep"] + 2)
         votes_reg.insert(votes_reg.shape[1], "n_rep", votes_reg.votes // coeff_hare)
-        votes_reg.insert(votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hare)
+        votes_reg.insert(
+            votes_reg.shape[1], "rest_votes", votes_reg.votes - votes_reg.n_rep * coeff_hare
+        )
         votes_reg = votes_reg.sort_values("rest_votes", ascending=False).reset_index(drop=True)
         rest_n_rep = reg_row["n_rep"] - votes_reg.n_rep.sum()
         for i in range(rest_n_rep):
@@ -226,14 +223,15 @@ def get_distribution_formula(formula_name: str) -> FormulaFunction:
         "sainte_lague": sainte_lague,
         "sainte_lague_modificado": sainte_lague_modificado,
         "hare": hare_coefficient,
-        "imperiali": imperiali_coefficient
+        "imperiali": imperiali_coefficient,
     }
 
     try:
         return dic_methods[formula_name]
     except KeyError:
-        raise FormulaDosntExist(f"El método {formula_name} no existe. "
-                                f"Prueba con {list(dic_methods.keys())}.")
+        raise FormulaDosntExist(
+            f"El método {formula_name} no existe. " f"Prueba con {list(dic_methods.keys())}."
+        )
 
 
 def score_proportionality(representative: pd.Series, votes: pd.Series) -> float:

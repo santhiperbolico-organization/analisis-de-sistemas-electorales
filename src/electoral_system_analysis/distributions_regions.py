@@ -3,9 +3,7 @@ import pandas as pd
 
 
 def get_representative_by_regions(
-        df_regions: pd.DataFrame,
-        n_representative: int,
-        min_representative: int
+    df_regions: pd.DataFrame, n_representative: int, min_representative: int
 ) -> pd.DataFrame:
     df_regions.insert(1, "n_rep", 1)
     mask_prov = df_regions.type_reg == "prov"
