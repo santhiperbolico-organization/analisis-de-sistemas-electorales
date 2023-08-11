@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="electoral_system_analysis",
-    version="0.0.9",
+    version="0.0.10",
     author="Santiago Arranz Sanz",
     description="Repositorio que recoge diferentes elementos de sistemas electorales "
     "para su comparación, dentro de los marcos de la constitución española de 1978.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    packages=setuptools.find_packages(),
+    packages=setuptools.find_packages(where="src"),
     url="https://github.com/santhiperbolico/analisis-de-sistemas-electorales",
     classifiers=[
         "Programming Language :: Python :: 3",

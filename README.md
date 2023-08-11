@@ -1,4 +1,4 @@
-# Electoral Systems Analsis
+# Electoral Systems Analysis
 
 Conjunto de funciones asociadas al reparto de representantes de un sistema electoral, dentro del marco implementado por la constitución española de 1978.  
 
