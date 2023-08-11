@@ -29,43 +29,49 @@ def format_serie_values(values: pd.Series) -> pd.Series:
     return values
 
 
-def create_region_table(path_2019_file: str = None) -> pd.DataFrame:
+def create_region_table_2019(file_2019: str, path_to_write: str) -> pd.DataFrame:
     """
     Función que crea la tabla de regiones sacada de la información de 2019.
 
     Parameters
     ----------
-    path_2019_file: str, default None
+    file_2019: str, default None
         Ruta del archivo con los datos electorales de 2019 descargados desde
         https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
+
+    path_to_write: str
+        Ruta donde se quiere guardar los resultados.
 
     Returns
     -------
     region_table: pd.DataFrame
+        Tabla con la información de las regiones.
     """
-    if path_2019_file is None:
-        path_2019_file = "electoral_data/raw_data/2019_noviembre/PROV_02_201911_1.xlsx"
-
-    region_table = pd.read_excel(path_2019_file, skiprows=5, skipfooter=2, usecols=[2])
+    region_table = pd.read_excel(file_2019, skiprows=5, skipfooter=2, usecols=[2])
     region_table.columns = ["name"]
     region_table.name = region_table.name.str.strip()
     region_table["codename"] = format_serie_values(region_table.name)
     region_table["type_reg"] = "prov"
     region_table.loc[region_table.codename.isin(["ceuta", "melilla"]), "type_reg"] = "caut"
     region_table = region_table.reset_index(names="id")
+    region_table.to_csv(os.path.join(path_to_write, "region_table_2019.csv"))
     return region_table
 
 
-def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
+def clean_2019(file_2019: str, path_to_write: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
-    Función que limpia los datos electorales de las elecciones generales de 2019. Los datos
-    electorales descargados desde:
+    Función que limpia los datos electorales de las elecciones generales de 2019
+    ( tanto de abril y noviembre). Los datos electorales descargados desde:
     https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
 
     Parameters
     ----------
-    month: str, ["april", "november"]
-        Mes de las elecciones
+    file_2019: str, default None
+        Ruta del archivo con los datos electorales de 2019 descargados desde
+        https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
+
+    path_to_write: str
+        Ruta donde se quiere guardar los resultados.
 
     Returns
     -------
@@ -74,19 +80,9 @@ def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     df_parties: pd.DataFrame
         Tabla con los datos de diputados y votos de los partidos.
     """
-    if month == "november":
-        election_id = 0
-        path_file = "electoral_data/raw_data/2019_noviembre/PROV_02_201911_1.xlsx"
-        path_to_write = "electoral_data/clean_data/2019_noviembre/"
-    elif month == "april":
-        election_id = 2
-        path_file = "electoral_data/raw_data/2019_abril/PROV_02_201904_1.xlsx"
-        path_to_write = "electoral_data/clean_data/2019_abril/"
-    else:
-        raise ValueError(f"El mes {month} no tiene elecciones. Usa 'april' o 'november'")
 
     # Formateo de columnas
-    raw_data = pd.read_excel(path_file, skiprows=3, skipfooter=2)
+    raw_data = pd.read_excel(file_2019, skiprows=3, skipfooter=2)
     political_parties = raw_data.loc[0].fillna(method="ffill")
     header = raw_data.loc[1]
     header[~political_parties.isna()] = (
@@ -99,7 +95,6 @@ def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     raw_data["Diputados"] = raw_data[diputados_cols].sum(1)
     df_region = raw_data[["Nombre de Provincia", "Total censo electoral", "Diputados"]]
     df_region.columns = ["codename", "size", "n_representative"]
-    df_region["election_id"] = election_id
     df_region.loc[:, "codename"] = format_serie_values(df_region.codename)
 
     # Carga de los votos.
@@ -113,7 +108,6 @@ def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     df_parties = pd.melt(
         df_parties, id_vars=["codename"], value_name="votes", var_name="political_parties"
     )
-    df_parties["election_id"] = election_id
 
     if not os.path.exists(path_to_write):
         os.mkdir(path_to_write)
@@ -123,7 +117,7 @@ def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     return df_region, df_parties
 
 
-def read_data_2023(path: str) -> pd.DataFrame:
+def read_data_2023(path: str, path_to_write: str) -> pd.DataFrame:
     """
     Función que lee los datos electorales de julio de 2023 de un pdf y los convierte a
     tabla:
@@ -136,6 +130,9 @@ def read_data_2023(path: str) -> pd.DataFrame:
     path: str
         Ruta del archivo congreso.pdf descargado de:
         https://resultados.generales23j.es/assets/files/congreso.pdf
+
+    path_to_write: str
+        Ruta donde se quiere guardar los resultados.
 
     Returns
     -------
@@ -156,7 +153,7 @@ def read_data_2023(path: str) -> pd.DataFrame:
         result_reg = format_pdf_data_2023(text)
         result = pd.concat((result, result_reg)).reset_index(drop=True)
 
-    result.to_csv("electoral_data/clean_data/2023_julio/pre_clean_congreso.csv")
+    result.to_csv(os.path.join(path_to_write, "pre_clean_congreso.csv"))
     return result
 
 

@@ -1,3485 +1,3485 @@
-,codename,political_parties,votes,election_id
-0,almeria,PSOE,89295,0
-1,cadiz,PSOE,188271,0
-2,cordoba,PSOE,146761,0
-3,granada,PSOE,160190,0
-4,huelva,PSOE,91656,0
-5,jaen,PSOE,141737,0
-6,malaga,PSOE,226831,0
-7,sevilla,PSOE,380385,0
-8,huesca,PSOE,38101,0
-9,teruel,PSOE,18934,0
-10,zaragoza,PSOE,158326,0
-11,asturias,PSOE,186211,0
-12,illesbalears,PSOE,115567,0
-13,laspalmas,PSOE,141078,0
-14,santacruzdetenerife,PSOE,132518,0
-15,cantabria,PSOE,76028,0
-16,albacete,PSOE,69848,0
-17,ciudadreal,PSOE,92046,0
-18,cuenca,PSOE,40670,0
-19,guadalajara,PSOE,41167,0
-20,toledo,PSOE,116282,0
-21,avila,PSOE,24474,0
-22,burgos,PSOE,64182,0
-23,leon,PSOE,87896,0
-24,palencia,PSOE,31847,0
-25,salamanca,PSOE,57481,0
-26,segovia,PSOE,25233,0
-27,soria,PSOE,16043,0
-28,valladolid,PSOE,94384,0
-29,zamora,PSOE,32747,0
-30,barcelona,PSOE,638319,0
-31,girona,PSOE,52723,0
-32,lleida,PSOE,29983,0
-33,tarragona,PSOE,73641,0
-34,badajoz,PSOE,142312,0
-35,caceres,PSOE,85135,0
-36,acoruña,PSOE,184178,0
-37,lugo,PSOE,57537,0
-38,ourense,PSOE,56934,0
-39,pontevedra,PSOE,166377,0
-40,madrid,PSOE,957401,0
-41,navarra,PSOE,83734,0
-42,araba_alava,PSOE,37488,0
-43,gipuzkoa,PSOE,69342,0
-44,bizkaia,PSOE,120566,0
-45,murcia,PSOE,177154,0
-46,larioja,PSOE,57485,0
-47,alicante_alacant,PSOE,240202,0
-48,castellon_castello,PSOE,84078,0
-49,valencia_valencia,PSOE,375879,0
-50,ceuta,PSOE,10455,0
-51,melilla,PSOE,5087,0
-52,almeria,PP,78072,0
-53,cadiz,PP,111089,0
-54,cordoba,PP,99999,0
-55,granada,PP,105192,0
-56,huelva,PP,49452,0
-57,jaen,PP,82055,0
-58,malaga,PP,163177,0
-59,sevilla,PP,188166,0
-60,huesca,PP,29804,0
-61,teruel,PP,17520,0
-62,zaragoza,PP,119909,0
-63,asturias,PP,129945,0
-64,illesbalears,PP,103722,0
-65,laspalmas,PP,103375,0
-66,santacruzdetenerife,PP,93434,0
-67,cantabria,PP,84583,0
-68,albacete,PP,58835,0
-69,ciudadreal,PP,74835,0
-70,cuenca,PP,33721,0
-71,guadalajara,PP,30443,0
-72,toledo,PP,94378,0
-73,avila,PP,32527,0
-74,burgos,PP,61228,0
-75,leon,PP,74672,0
-76,palencia,PP,34195,0
-77,salamanca,PP,67715,0
-78,segovia,PP,28057,0
-79,soria,PP,15247,0
-80,valladolid,PP,91857,0
-81,zamora,PP,33495,0
-82,barcelona,PP,225645,0
-83,girona,PP,17449,0
-84,lleida,PP,14697,0
-85,tarragona,PP,29923,0
-86,badajoz,PP,92742,0
-87,caceres,PP,61527,0
-88,acoruña,PP,187127,0
-89,lugo,PP,68530,0
-90,ourense,PP,67580,0
-91,pontevedra,PP,151961,0
-92,madrid,PP,887474,0
-93,navarra,PP,0,0
-94,araba_alava,PP,25506,0
-95,gipuzkoa,PP,23619,0
-96,bizkaia,PP,55621,0
-97,murcia,PP,189500,0
-98,larioja,PP,56450,0
-99,alicante_alacant,PP,207310,0
-100,castellon_castello,PP,70176,0
-101,valencia_valencia,PP,306929,0
-102,ceuta,PP,7439,0
-103,melilla,PP,9136,0
-104,almeria,VOX,80714,0
-105,cadiz,VOX,131205,0
-106,cordoba,VOX,82534,0
-107,granada,VOX,99928,0
-108,huelva,VOX,52485,0
-109,jaen,VOX,71950,0
-110,malaga,VOX,162280,0
-111,sevilla,VOX,188813,0
-112,huesca,VOX,17237,0
-113,teruel,VOX,9346,0
-114,zaragoza,VOX,92353,0
-115,asturias,VOX,88788,0
-116,illesbalears,VOX,77520,0
-117,laspalmas,VOX,64515,0
-118,santacruzdetenerife,VOX,53491,0
-119,cantabria,VOX,48827,0
-120,albacete,VOX,44306,0
-121,ciudadreal,VOX,56050,0
-122,cuenca,VOX,20108,0
-123,guadalajara,VOX,31683,0
-124,toledo,VOX,86049,0
-125,avila,VOX,17313,0
-126,burgos,VOX,29579,0
-127,leon,VOX,40884,0
-128,palencia,VOX,13816,0
-129,salamanca,VOX,34929,0
-130,segovia,VOX,14569,0
-131,soria,VOX,6264,0
-132,valladolid,VOX,56353,0
-133,zamora,VOX,17036,0
-134,barcelona,VOX,184715,0
-135,girona,VOX,18489,0
-136,lleida,VOX,9312,0
-137,tarragona,VOX,31124,0
-138,badajoz,VOX,64016,0
-139,caceres,VOX,35807,0
-140,acoruña,VOX,50325,0
-141,lugo,VOX,14652,0
-142,ourense,VOX,13285,0
-143,pontevedra,VOX,38119,0
-144,madrid,VOX,653476,0
-145,navarra,VOX,19440,0
-146,araba_alava,VOX,6421,0
-147,gipuzkoa,VOX,7274,0
-148,bizkaia,VOX,15284,0
-149,murcia,VOX,199829,0
-150,larioja,VOX,18908,0
-151,alicante_alacant,VOX,167395,0
-152,castellon_castello,VOX,54849,0
-153,valencia_valencia,VOX,245890,0
-154,ceuta,VOX,11752,0
-155,melilla,VOX,5692,0
-156,almeria,PODEMOS-IU,24400,0
-157,cadiz,PODEMOS-IU,93541,0
-158,cordoba,PODEMOS-IU,64769,0
-159,granada,PODEMOS-IU,59331,0
-160,huelva,PODEMOS-IU,30389,0
-161,jaen,PODEMOS-IU,35962,0
-162,malaga,PODEMOS-IU,97801,0
-163,sevilla,PODEMOS-IU,153435,0
-164,huesca,PODEMOS-IU,14035,0
-165,teruel,PODEMOS-IU,3982,0
-166,zaragoza,PODEMOS-IU,57875,0
-167,asturias,PODEMOS-IU,89301,0
-168,illesbalears,PODEMOS-IU,82225,0
-169,laspalmas,PODEMOS-IU,74648,0
-170,santacruzdetenerife,PODEMOS-IU,64613,0
-171,cantabria,PODEMOS-IU,28376,0
-172,albacete,PODEMOS-IU,20771,0
-173,ciudadreal,PODEMOS-IU,22250,0
-174,cuenca,PODEMOS-IU,7529,0
-175,guadalajara,PODEMOS-IU,14897,0
-176,toledo,PODEMOS-IU,34837,0
-177,avila,PODEMOS-IU,6059,0
-178,burgos,PODEMOS-IU,22058,0
-179,leon,PODEMOS-IU,27478,0
-180,palencia,PODEMOS-IU,7746,0
-181,salamanca,PODEMOS-IU,13608,0
-182,segovia,PODEMOS-IU,7901,0
-183,soria,PODEMOS-IU,3517,0
-184,valladolid,PODEMOS-IU,34313,0
-185,zamora,PODEMOS-IU,7001,0
-186,barcelona,PODEMOS-IU,0,0
-187,girona,PODEMOS-IU,0,0
-188,lleida,PODEMOS-IU,0,0
-189,tarragona,PODEMOS-IU,0,0
-190,badajoz,PODEMOS-IU,33971,0
-191,caceres,PODEMOS-IU,20101,0
-192,acoruña,PODEMOS-IU,0,0
-193,lugo,PODEMOS-IU,0,0
-194,ourense,PODEMOS-IU,0,0
-195,pontevedra,PODEMOS-IU,0,0
-196,madrid,PODEMOS-IU,463629,0
-197,navarra,PODEMOS-IU,55498,0
-198,araba_alava,PODEMOS-IU,28186,0
-199,gipuzkoa,PODEMOS-IU,57363,0
-200,bizkaia,PODEMOS-IU,97125,0
-201,murcia,PODEMOS-IU,63461,0
-202,larioja,PODEMOS-IU,16273,0
-203,alicante_alacant,PODEMOS-IU,108533,0
-204,castellon_castello,PODEMOS-IU,39251,0
-205,valencia_valencia,PODEMOS-IU,191812,0
-206,ceuta,PODEMOS-IU,1300,0
-207,melilla,PODEMOS-IU,809,0
-208,almeria,ERC-SOBIRANISTES,0,0
-209,cadiz,ERC-SOBIRANISTES,0,0
-210,cordoba,ERC-SOBIRANISTES,0,0
-211,granada,ERC-SOBIRANISTES,0,0
-212,huelva,ERC-SOBIRANISTES,0,0
-213,jaen,ERC-SOBIRANISTES,0,0
-214,malaga,ERC-SOBIRANISTES,0,0
-215,sevilla,ERC-SOBIRANISTES,0,0
-216,huesca,ERC-SOBIRANISTES,0,0
-217,teruel,ERC-SOBIRANISTES,0,0
-218,zaragoza,ERC-SOBIRANISTES,0,0
-219,asturias,ERC-SOBIRANISTES,0,0
-220,illesbalears,ERC-SOBIRANISTES,0,0
-221,laspalmas,ERC-SOBIRANISTES,0,0
-222,santacruzdetenerife,ERC-SOBIRANISTES,0,0
-223,cantabria,ERC-SOBIRANISTES,0,0
-224,albacete,ERC-SOBIRANISTES,0,0
-225,ciudadreal,ERC-SOBIRANISTES,0,0
-226,cuenca,ERC-SOBIRANISTES,0,0
-227,guadalajara,ERC-SOBIRANISTES,0,0
-228,toledo,ERC-SOBIRANISTES,0,0
-229,avila,ERC-SOBIRANISTES,0,0
-230,burgos,ERC-SOBIRANISTES,0,0
-231,leon,ERC-SOBIRANISTES,0,0
-232,palencia,ERC-SOBIRANISTES,0,0
-233,salamanca,ERC-SOBIRANISTES,0,0
-234,segovia,ERC-SOBIRANISTES,0,0
-235,soria,ERC-SOBIRANISTES,0,0
-236,valladolid,ERC-SOBIRANISTES,0,0
-237,zamora,ERC-SOBIRANISTES,0,0
-238,barcelona,ERC-SOBIRANISTES,618909,0
-239,girona,ERC-SOBIRANISTES,91932,0
-240,lleida,ERC-SOBIRANISTES,65236,0
-241,tarragona,ERC-SOBIRANISTES,98782,0
-242,badajoz,ERC-SOBIRANISTES,0,0
-243,caceres,ERC-SOBIRANISTES,0,0
-244,acoruña,ERC-SOBIRANISTES,0,0
-245,lugo,ERC-SOBIRANISTES,0,0
-246,ourense,ERC-SOBIRANISTES,0,0
-247,pontevedra,ERC-SOBIRANISTES,0,0
-248,madrid,ERC-SOBIRANISTES,0,0
-249,navarra,ERC-SOBIRANISTES,0,0
-250,araba_alava,ERC-SOBIRANISTES,0,0
-251,gipuzkoa,ERC-SOBIRANISTES,0,0
-252,bizkaia,ERC-SOBIRANISTES,0,0
-253,murcia,ERC-SOBIRANISTES,0,0
-254,larioja,ERC-SOBIRANISTES,0,0
-255,alicante_alacant,ERC-SOBIRANISTES,0,0
-256,castellon_castello,ERC-SOBIRANISTES,0,0
-257,valencia_valencia,ERC-SOBIRANISTES,0,0
-258,ceuta,ERC-SOBIRANISTES,0,0
-259,melilla,ERC-SOBIRANISTES,0,0
-260,almeria,Cs,22835,0
-261,cadiz,Cs,55490,0
-262,cordoba,Cs,36229,0
-263,granada,Cs,37772,0
-264,huelva,Cs,18382,0
-265,jaen,Cs,24816,0
-266,malaga,Cs,66995,0
-267,sevilla,Cs,83575,0
-268,huesca,Cs,9244,0
-269,teruel,Cs,3732,0
-270,zaragoza,Cs,47001,0
-271,asturias,Cs,37374,0
-272,illesbalears,Cs,33451,0
-273,laspalmas,Cs,28018,0
-274,santacruzdetenerife,Cs,22979,0
-275,cantabria,Cs,15609,0
-276,albacete,Cs,15947,0
-277,ciudadreal,Cs,18337,0
-278,cuenca,Cs,5094,0
-279,guadalajara,Cs,10169,0
-280,toledo,Cs,24871,0
-281,avila,Cs,6119,0
-282,burgos,Cs,16214,0
-283,leon,Cs,16731,0
-284,palencia,Cs,5937,0
-285,salamanca,Cs,16886,0
-286,segovia,Cs,6861,0
-287,soria,Cs,2670,0
-288,valladolid,Cs,26947,0
-289,zamora,Cs,6835,0
-290,barcelona,Cs,174124,0
-291,girona,Cs,13869,0
-292,lleida,Cs,7128,0
-293,tarragona,Cs,22814,0
-294,badajoz,Cs,29520,0
-295,caceres,Cs,15533,0
-296,acoruña,Cs,28469,0
-297,lugo,Cs,5811,0
-298,ourense,Cs,6397,0
-299,pontevedra,Cs,23984,0
-300,madrid,Cs,323076,0
-301,navarra,Cs,0,0
-302,araba_alava,Cs,2526,0
-303,gipuzkoa,Cs,3824,0
-304,bizkaia,Cs,6929,0
-305,murcia,Cs,53201,0
-306,larioja,Cs,11673,0
-307,alicante_alacant,Cs,69143,0
-308,castellon_castello,Cs,20302,0
-309,valencia_valencia,Cs,106820,0
-310,ceuta,Cs,1138,0
-311,melilla,Cs,917,0
-312,almeria,JxCAT-JUNTS,0,0
-313,cadiz,JxCAT-JUNTS,0,0
-314,cordoba,JxCAT-JUNTS,0,0
-315,granada,JxCAT-JUNTS,0,0
-316,huelva,JxCAT-JUNTS,0,0
-317,jaen,JxCAT-JUNTS,0,0
-318,malaga,JxCAT-JUNTS,0,0
-319,sevilla,JxCAT-JUNTS,0,0
-320,huesca,JxCAT-JUNTS,0,0
-321,teruel,JxCAT-JUNTS,0,0
-322,zaragoza,JxCAT-JUNTS,0,0
-323,asturias,JxCAT-JUNTS,0,0
-324,illesbalears,JxCAT-JUNTS,0,0
-325,laspalmas,JxCAT-JUNTS,0,0
-326,santacruzdetenerife,JxCAT-JUNTS,0,0
-327,cantabria,JxCAT-JUNTS,0,0
-328,albacete,JxCAT-JUNTS,0,0
-329,ciudadreal,JxCAT-JUNTS,0,0
-330,cuenca,JxCAT-JUNTS,0,0
-331,guadalajara,JxCAT-JUNTS,0,0
-332,toledo,JxCAT-JUNTS,0,0
-333,avila,JxCAT-JUNTS,0,0
-334,burgos,JxCAT-JUNTS,0,0
-335,leon,JxCAT-JUNTS,0,0
-336,palencia,JxCAT-JUNTS,0,0
-337,salamanca,JxCAT-JUNTS,0,0
-338,segovia,JxCAT-JUNTS,0,0
-339,soria,JxCAT-JUNTS,0,0
-340,valladolid,JxCAT-JUNTS,0,0
-341,zamora,JxCAT-JUNTS,0,0
-342,barcelona,JxCAT-JUNTS,343931,0
-343,girona,JxCAT-JUNTS,88060,0
-344,lleida,JxCAT-JUNTS,46773,0
-345,tarragona,JxCAT-JUNTS,51461,0
-346,badajoz,JxCAT-JUNTS,0,0
-347,caceres,JxCAT-JUNTS,0,0
-348,acoruña,JxCAT-JUNTS,0,0
-349,lugo,JxCAT-JUNTS,0,0
-350,ourense,JxCAT-JUNTS,0,0
-351,pontevedra,JxCAT-JUNTS,0,0
-352,madrid,JxCAT-JUNTS,0,0
-353,navarra,JxCAT-JUNTS,0,0
-354,araba_alava,JxCAT-JUNTS,0,0
-355,gipuzkoa,JxCAT-JUNTS,0,0
-356,bizkaia,JxCAT-JUNTS,0,0
-357,murcia,JxCAT-JUNTS,0,0
-358,larioja,JxCAT-JUNTS,0,0
-359,alicante_alacant,JxCAT-JUNTS,0,0
-360,castellon_castello,JxCAT-JUNTS,0,0
-361,valencia_valencia,JxCAT-JUNTS,0,0
-362,ceuta,JxCAT-JUNTS,0,0
-363,melilla,JxCAT-JUNTS,0,0
-364,almeria,ECP-GUANYEM EL CANVI,0,0
-365,cadiz,ECP-GUANYEM EL CANVI,0,0
-366,cordoba,ECP-GUANYEM EL CANVI,0,0
-367,granada,ECP-GUANYEM EL CANVI,0,0
-368,huelva,ECP-GUANYEM EL CANVI,0,0
-369,jaen,ECP-GUANYEM EL CANVI,0,0
-370,malaga,ECP-GUANYEM EL CANVI,0,0
-371,sevilla,ECP-GUANYEM EL CANVI,0,0
-372,huesca,ECP-GUANYEM EL CANVI,0,0
-373,teruel,ECP-GUANYEM EL CANVI,0,0
-374,zaragoza,ECP-GUANYEM EL CANVI,0,0
-375,asturias,ECP-GUANYEM EL CANVI,0,0
-376,illesbalears,ECP-GUANYEM EL CANVI,0,0
-377,laspalmas,ECP-GUANYEM EL CANVI,0,0
-378,santacruzdetenerife,ECP-GUANYEM EL CANVI,0,0
-379,cantabria,ECP-GUANYEM EL CANVI,0,0
-380,albacete,ECP-GUANYEM EL CANVI,0,0
-381,ciudadreal,ECP-GUANYEM EL CANVI,0,0
-382,cuenca,ECP-GUANYEM EL CANVI,0,0
-383,guadalajara,ECP-GUANYEM EL CANVI,0,0
-384,toledo,ECP-GUANYEM EL CANVI,0,0
-385,avila,ECP-GUANYEM EL CANVI,0,0
-386,burgos,ECP-GUANYEM EL CANVI,0,0
-387,leon,ECP-GUANYEM EL CANVI,0,0
-388,palencia,ECP-GUANYEM EL CANVI,0,0
-389,salamanca,ECP-GUANYEM EL CANVI,0,0
-390,segovia,ECP-GUANYEM EL CANVI,0,0
-391,soria,ECP-GUANYEM EL CANVI,0,0
-392,valladolid,ECP-GUANYEM EL CANVI,0,0
-393,zamora,ECP-GUANYEM EL CANVI,0,0
-394,barcelona,ECP-GUANYEM EL CANVI,452482,0
-395,girona,ECP-GUANYEM EL CANVI,33710,0
-396,lleida,ECP-GUANYEM EL CANVI,16337,0
-397,tarragona,ECP-GUANYEM EL CANVI,46644,0
-398,badajoz,ECP-GUANYEM EL CANVI,0,0
-399,caceres,ECP-GUANYEM EL CANVI,0,0
-400,acoruña,ECP-GUANYEM EL CANVI,0,0
-401,lugo,ECP-GUANYEM EL CANVI,0,0
-402,ourense,ECP-GUANYEM EL CANVI,0,0
-403,pontevedra,ECP-GUANYEM EL CANVI,0,0
-404,madrid,ECP-GUANYEM EL CANVI,0,0
-405,navarra,ECP-GUANYEM EL CANVI,0,0
-406,araba_alava,ECP-GUANYEM EL CANVI,0,0
-407,gipuzkoa,ECP-GUANYEM EL CANVI,0,0
-408,bizkaia,ECP-GUANYEM EL CANVI,0,0
-409,murcia,ECP-GUANYEM EL CANVI,0,0
-410,larioja,ECP-GUANYEM EL CANVI,0,0
-411,alicante_alacant,ECP-GUANYEM EL CANVI,0,0
-412,castellon_castello,ECP-GUANYEM EL CANVI,0,0
-413,valencia_valencia,ECP-GUANYEM EL CANVI,0,0
-414,ceuta,ECP-GUANYEM EL CANVI,0,0
-415,melilla,ECP-GUANYEM EL CANVI,0,0
-416,almeria,EAJ-PNV,0,0
-417,cadiz,EAJ-PNV,0,0
-418,cordoba,EAJ-PNV,0,0
-419,granada,EAJ-PNV,0,0
-420,huelva,EAJ-PNV,0,0
-421,jaen,EAJ-PNV,0,0
-422,malaga,EAJ-PNV,0,0
-423,sevilla,EAJ-PNV,0,0
-424,huesca,EAJ-PNV,0,0
-425,teruel,EAJ-PNV,0,0
-426,zaragoza,EAJ-PNV,0,0
-427,asturias,EAJ-PNV,0,0
-428,illesbalears,EAJ-PNV,0,0
-429,laspalmas,EAJ-PNV,0,0
-430,santacruzdetenerife,EAJ-PNV,0,0
-431,cantabria,EAJ-PNV,0,0
-432,albacete,EAJ-PNV,0,0
-433,ciudadreal,EAJ-PNV,0,0
-434,cuenca,EAJ-PNV,0,0
-435,guadalajara,EAJ-PNV,0,0
-436,toledo,EAJ-PNV,0,0
-437,avila,EAJ-PNV,0,0
-438,burgos,EAJ-PNV,0,0
-439,leon,EAJ-PNV,0,0
-440,palencia,EAJ-PNV,0,0
-441,salamanca,EAJ-PNV,0,0
-442,segovia,EAJ-PNV,0,0
-443,soria,EAJ-PNV,0,0
-444,valladolid,EAJ-PNV,0,0
-445,zamora,EAJ-PNV,0,0
-446,barcelona,EAJ-PNV,0,0
-447,girona,EAJ-PNV,0,0
-448,lleida,EAJ-PNV,0,0
-449,tarragona,EAJ-PNV,0,0
-450,badajoz,EAJ-PNV,0,0
-451,caceres,EAJ-PNV,0,0
-452,acoruña,EAJ-PNV,0,0
-453,lugo,EAJ-PNV,0,0
-454,ourense,EAJ-PNV,0,0
-455,pontevedra,EAJ-PNV,0,0
-456,madrid,EAJ-PNV,0,0
-457,navarra,EAJ-PNV,0,0
-458,araba_alava,EAJ-PNV,40262,0
-459,gipuzkoa,EAJ-PNV,116761,0
-460,bizkaia,EAJ-PNV,221979,0
-461,murcia,EAJ-PNV,0,0
-462,larioja,EAJ-PNV,0,0
-463,alicante_alacant,EAJ-PNV,0,0
-464,castellon_castello,EAJ-PNV,0,0
-465,valencia_valencia,EAJ-PNV,0,0
-466,ceuta,EAJ-PNV,0,0
-467,melilla,EAJ-PNV,0,0
-468,almeria,EH Bildu,0,0
-469,cadiz,EH Bildu,0,0
-470,cordoba,EH Bildu,0,0
-471,granada,EH Bildu,0,0
-472,huelva,EH Bildu,0,0
-473,jaen,EH Bildu,0,0
-474,malaga,EH Bildu,0,0
-475,sevilla,EH Bildu,0,0
-476,huesca,EH Bildu,0,0
-477,teruel,EH Bildu,0,0
-478,zaragoza,EH Bildu,0,0
-479,asturias,EH Bildu,0,0
-480,illesbalears,EH Bildu,0,0
-481,laspalmas,EH Bildu,0,0
-482,santacruzdetenerife,EH Bildu,0,0
-483,cantabria,EH Bildu,0,0
-484,albacete,EH Bildu,0,0
-485,ciudadreal,EH Bildu,0,0
-486,cuenca,EH Bildu,0,0
-487,guadalajara,EH Bildu,0,0
-488,toledo,EH Bildu,0,0
-489,avila,EH Bildu,0,0
-490,burgos,EH Bildu,0,0
-491,leon,EH Bildu,0,0
-492,palencia,EH Bildu,0,0
-493,salamanca,EH Bildu,0,0
-494,segovia,EH Bildu,0,0
-495,soria,EH Bildu,0,0
-496,valladolid,EH Bildu,0,0
-497,zamora,EH Bildu,0,0
-498,barcelona,EH Bildu,0,0
-499,girona,EH Bildu,0,0
-500,lleida,EH Bildu,0,0
-501,tarragona,EH Bildu,0,0
-502,badajoz,EH Bildu,0,0
-503,caceres,EH Bildu,0,0
-504,acoruña,EH Bildu,0,0
-505,lugo,EH Bildu,0,0
-506,ourense,EH Bildu,0,0
-507,pontevedra,EH Bildu,0,0
-508,madrid,EH Bildu,0,0
-509,navarra,EH Bildu,56548,0
-510,araba_alava,EH Bildu,27453,0
-511,gipuzkoa,EH Bildu,98951,0
-512,bizkaia,EH Bildu,94669,0
-513,murcia,EH Bildu,0,0
-514,larioja,EH Bildu,0,0
-515,alicante_alacant,EH Bildu,0,0
-516,castellon_castello,EH Bildu,0,0
-517,valencia_valencia,EH Bildu,0,0
-518,ceuta,EH Bildu,0,0
-519,melilla,EH Bildu,0,0
-520,almeria,MÁS PAÍS-EQUO,0,0
-521,cadiz,MÁS PAÍS-EQUO,11316,0
-522,cordoba,MÁS PAÍS-EQUO,0,0
-523,granada,MÁS PAÍS-EQUO,8629,0
-524,huelva,MÁS PAÍS-EQUO,0,0
-525,jaen,MÁS PAÍS-EQUO,0,0
-526,malaga,MÁS PAÍS-EQUO,14112,0
-527,sevilla,MÁS PAÍS-EQUO,22388,0
-528,huesca,MÁS PAÍS-EQUO,0,0
-529,teruel,MÁS PAÍS-EQUO,0,0
-530,zaragoza,MÁS PAÍS-EQUO,0,0
-531,asturias,MÁS PAÍS-EQUO,12732,0
-532,illesbalears,MÁS PAÍS-EQUO,0,0
-533,laspalmas,MÁS PAÍS-EQUO,8389,0
-534,santacruzdetenerife,MÁS PAÍS-EQUO,6583,0
-535,cantabria,MÁS PAÍS-EQUO,0,0
-536,albacete,MÁS PAÍS-EQUO,0,0
-537,ciudadreal,MÁS PAÍS-EQUO,0,0
-538,cuenca,MÁS PAÍS-EQUO,0,0
-539,guadalajara,MÁS PAÍS-EQUO,0,0
-540,toledo,MÁS PAÍS-EQUO,0,0
-541,avila,MÁS PAÍS-EQUO,0,0
-542,burgos,MÁS PAÍS-EQUO,0,0
-543,leon,MÁS PAÍS-EQUO,0,0
-544,palencia,MÁS PAÍS-EQUO,0,0
-545,salamanca,MÁS PAÍS-EQUO,0,0
-546,segovia,MÁS PAÍS-EQUO,0,0
-547,soria,MÁS PAÍS-EQUO,0,0
-548,valladolid,MÁS PAÍS-EQUO,0,0
-549,zamora,MÁS PAÍS-EQUO,0,0
-550,barcelona,MÁS PAÍS-EQUO,0,0
-551,girona,MÁS PAÍS-EQUO,0,0
-552,lleida,MÁS PAÍS-EQUO,0,0
-553,tarragona,MÁS PAÍS-EQUO,0,0
-554,badajoz,MÁS PAÍS-EQUO,0,0
-555,caceres,MÁS PAÍS-EQUO,0,0
-556,acoruña,MÁS PAÍS-EQUO,12619,0
-557,lugo,MÁS PAÍS-EQUO,0,0
-558,ourense,MÁS PAÍS-EQUO,0,0
-559,pontevedra,MÁS PAÍS-EQUO,10207,0
-560,madrid,MÁS PAÍS-EQUO,201389,0
-561,navarra,MÁS PAÍS-EQUO,0,0
-562,araba_alava,MÁS PAÍS-EQUO,0,0
-563,gipuzkoa,MÁS PAÍS-EQUO,0,0
-564,bizkaia,MÁS PAÍS-EQUO,8542,0
-565,murcia,MÁS PAÍS-EQUO,13439,0
-566,larioja,MÁS PAÍS-EQUO,0,0
-567,alicante_alacant,MÁS PAÍS-EQUO,0,0
-568,castellon_castello,MÁS PAÍS-EQUO,0,0
-569,valencia_valencia,MÁS PAÍS-EQUO,0,0
-570,ceuta,MÁS PAÍS-EQUO,0,0
-571,melilla,MÁS PAÍS-EQUO,0,0
-572,almeria,CUP-PR,0,0
-573,cadiz,CUP-PR,0,0
-574,cordoba,CUP-PR,0,0
-575,granada,CUP-PR,0,0
-576,huelva,CUP-PR,0,0
-577,jaen,CUP-PR,0,0
-578,malaga,CUP-PR,0,0
-579,sevilla,CUP-PR,0,0
-580,huesca,CUP-PR,0,0
-581,teruel,CUP-PR,0,0
-582,zaragoza,CUP-PR,0,0
-583,asturias,CUP-PR,0,0
-584,illesbalears,CUP-PR,0,0
-585,laspalmas,CUP-PR,0,0
-586,santacruzdetenerife,CUP-PR,0,0
-587,cantabria,CUP-PR,0,0
-588,albacete,CUP-PR,0,0
-589,ciudadreal,CUP-PR,0,0
-590,cuenca,CUP-PR,0,0
-591,guadalajara,CUP-PR,0,0
-592,toledo,CUP-PR,0,0
-593,avila,CUP-PR,0,0
-594,burgos,CUP-PR,0,0
-595,leon,CUP-PR,0,0
-596,palencia,CUP-PR,0,0
-597,salamanca,CUP-PR,0,0
-598,segovia,CUP-PR,0,0
-599,soria,CUP-PR,0,0
-600,valladolid,CUP-PR,0,0
-601,zamora,CUP-PR,0,0
-602,barcelona,CUP-PR,179041,0
-603,girona,CUP-PR,31703,0
-604,lleida,CUP-PR,14098,0
-605,tarragona,CUP-PR,22129,0
-606,badajoz,CUP-PR,0,0
-607,caceres,CUP-PR,0,0
-608,acoruña,CUP-PR,0,0
-609,lugo,CUP-PR,0,0
-610,ourense,CUP-PR,0,0
-611,pontevedra,CUP-PR,0,0
-612,madrid,CUP-PR,0,0
-613,navarra,CUP-PR,0,0
-614,araba_alava,CUP-PR,0,0
-615,gipuzkoa,CUP-PR,0,0
-616,bizkaia,CUP-PR,0,0
-617,murcia,CUP-PR,0,0
-618,larioja,CUP-PR,0,0
-619,alicante_alacant,CUP-PR,0,0
-620,castellon_castello,CUP-PR,0,0
-621,valencia_valencia,CUP-PR,0,0
-622,ceuta,CUP-PR,0,0
-623,melilla,CUP-PR,0,0
-624,almeria,PODEMOS-EU,0,0
-625,cadiz,PODEMOS-EU,0,0
-626,cordoba,PODEMOS-EU,0,0
-627,granada,PODEMOS-EU,0,0
-628,huelva,PODEMOS-EU,0,0
-629,jaen,PODEMOS-EU,0,0
-630,malaga,PODEMOS-EU,0,0
-631,sevilla,PODEMOS-EU,0,0
-632,huesca,PODEMOS-EU,0,0
-633,teruel,PODEMOS-EU,0,0
-634,zaragoza,PODEMOS-EU,0,0
-635,asturias,PODEMOS-EU,0,0
-636,illesbalears,PODEMOS-EU,0,0
-637,laspalmas,PODEMOS-EU,0,0
-638,santacruzdetenerife,PODEMOS-EU,0,0
-639,cantabria,PODEMOS-EU,0,0
-640,albacete,PODEMOS-EU,0,0
-641,ciudadreal,PODEMOS-EU,0,0
-642,cuenca,PODEMOS-EU,0,0
-643,guadalajara,PODEMOS-EU,0,0
-644,toledo,PODEMOS-EU,0,0
-645,avila,PODEMOS-EU,0,0
-646,burgos,PODEMOS-EU,0,0
-647,leon,PODEMOS-EU,0,0
-648,palencia,PODEMOS-EU,0,0
-649,salamanca,PODEMOS-EU,0,0
-650,segovia,PODEMOS-EU,0,0
-651,soria,PODEMOS-EU,0,0
-652,valladolid,PODEMOS-EU,0,0
-653,zamora,PODEMOS-EU,0,0
-654,barcelona,PODEMOS-EU,0,0
-655,girona,PODEMOS-EU,0,0
-656,lleida,PODEMOS-EU,0,0
-657,tarragona,PODEMOS-EU,0,0
-658,badajoz,PODEMOS-EU,0,0
-659,caceres,PODEMOS-EU,0,0
-660,acoruña,PODEMOS-EU,77069,0
-661,lugo,PODEMOS-EU,16548,0
-662,ourense,PODEMOS-EU,13573,0
-663,pontevedra,PODEMOS-EU,81041,0
-664,madrid,PODEMOS-EU,0,0
-665,navarra,PODEMOS-EU,0,0
-666,araba_alava,PODEMOS-EU,0,0
-667,gipuzkoa,PODEMOS-EU,0,0
-668,bizkaia,PODEMOS-EU,0,0
-669,murcia,PODEMOS-EU,0,0
-670,larioja,PODEMOS-EU,0,0
-671,alicante_alacant,PODEMOS-EU,0,0
-672,castellon_castello,PODEMOS-EU,0,0
-673,valencia_valencia,PODEMOS-EU,0,0
-674,ceuta,PODEMOS-EU,0,0
-675,melilla,PODEMOS-EU,0,0
-676,almeria,CCa-PNC-NC,0,0
-677,cadiz,CCa-PNC-NC,0,0
-678,cordoba,CCa-PNC-NC,0,0
-679,granada,CCa-PNC-NC,0,0
-680,huelva,CCa-PNC-NC,0,0
-681,jaen,CCa-PNC-NC,0,0
-682,malaga,CCa-PNC-NC,0,0
-683,sevilla,CCa-PNC-NC,0,0
-684,huesca,CCa-PNC-NC,0,0
-685,teruel,CCa-PNC-NC,0,0
-686,zaragoza,CCa-PNC-NC,0,0
-687,asturias,CCa-PNC-NC,0,0
-688,illesbalears,CCa-PNC-NC,0,0
-689,laspalmas,CCa-PNC-NC,48028,0
-690,santacruzdetenerife,CCa-PNC-NC,76261,0
-691,cantabria,CCa-PNC-NC,0,0
-692,albacete,CCa-PNC-NC,0,0
-693,ciudadreal,CCa-PNC-NC,0,0
-694,cuenca,CCa-PNC-NC,0,0
-695,guadalajara,CCa-PNC-NC,0,0
-696,toledo,CCa-PNC-NC,0,0
-697,avila,CCa-PNC-NC,0,0
-698,burgos,CCa-PNC-NC,0,0
-699,leon,CCa-PNC-NC,0,0
-700,palencia,CCa-PNC-NC,0,0
-701,salamanca,CCa-PNC-NC,0,0
-702,segovia,CCa-PNC-NC,0,0
-703,soria,CCa-PNC-NC,0,0
-704,valladolid,CCa-PNC-NC,0,0
-705,zamora,CCa-PNC-NC,0,0
-706,barcelona,CCa-PNC-NC,0,0
-707,girona,CCa-PNC-NC,0,0
-708,lleida,CCa-PNC-NC,0,0
-709,tarragona,CCa-PNC-NC,0,0
-710,badajoz,CCa-PNC-NC,0,0
-711,caceres,CCa-PNC-NC,0,0
-712,acoruña,CCa-PNC-NC,0,0
-713,lugo,CCa-PNC-NC,0,0
-714,ourense,CCa-PNC-NC,0,0
-715,pontevedra,CCa-PNC-NC,0,0
-716,madrid,CCa-PNC-NC,0,0
-717,navarra,CCa-PNC-NC,0,0
-718,araba_alava,CCa-PNC-NC,0,0
-719,gipuzkoa,CCa-PNC-NC,0,0
-720,bizkaia,CCa-PNC-NC,0,0
-721,murcia,CCa-PNC-NC,0,0
-722,larioja,CCa-PNC-NC,0,0
-723,alicante_alacant,CCa-PNC-NC,0,0
-724,castellon_castello,CCa-PNC-NC,0,0
-725,valencia_valencia,CCa-PNC-NC,0,0
-726,ceuta,CCa-PNC-NC,0,0
-727,melilla,CCa-PNC-NC,0,0
-728,almeria,NA+,0,0
-729,cadiz,NA+,0,0
-730,cordoba,NA+,0,0
-731,granada,NA+,0,0
-732,huelva,NA+,0,0
-733,jaen,NA+,0,0
-734,malaga,NA+,0,0
-735,sevilla,NA+,0,0
-736,huesca,NA+,0,0
-737,teruel,NA+,0,0
-738,zaragoza,NA+,0,0
-739,asturias,NA+,0,0
-740,illesbalears,NA+,0,0
-741,laspalmas,NA+,0,0
-742,santacruzdetenerife,NA+,0,0
-743,cantabria,NA+,0,0
-744,albacete,NA+,0,0
-745,ciudadreal,NA+,0,0
-746,cuenca,NA+,0,0
-747,guadalajara,NA+,0,0
-748,toledo,NA+,0,0
-749,avila,NA+,0,0
-750,burgos,NA+,0,0
-751,leon,NA+,0,0
-752,palencia,NA+,0,0
-753,salamanca,NA+,0,0
-754,segovia,NA+,0,0
-755,soria,NA+,0,0
-756,valladolid,NA+,0,0
-757,zamora,NA+,0,0
-758,barcelona,NA+,0,0
-759,girona,NA+,0,0
-760,lleida,NA+,0,0
-761,tarragona,NA+,0,0
-762,badajoz,NA+,0,0
-763,caceres,NA+,0,0
-764,acoruña,NA+,0,0
-765,lugo,NA+,0,0
-766,ourense,NA+,0,0
-767,pontevedra,NA+,0,0
-768,madrid,NA+,0,0
-769,navarra,NA+,99078,0
-770,araba_alava,NA+,0,0
-771,gipuzkoa,NA+,0,0
-772,bizkaia,NA+,0,0
-773,murcia,NA+,0,0
-774,larioja,NA+,0,0
-775,alicante_alacant,NA+,0,0
-776,castellon_castello,NA+,0,0
-777,valencia_valencia,NA+,0,0
-778,ceuta,NA+,0,0
-779,melilla,NA+,0,0
-780,almeria,MÉS COMPROMÍS,0,0
-781,cadiz,MÉS COMPROMÍS,0,0
-782,cordoba,MÉS COMPROMÍS,0,0
-783,granada,MÉS COMPROMÍS,0,0
-784,huelva,MÉS COMPROMÍS,0,0
-785,jaen,MÉS COMPROMÍS,0,0
-786,malaga,MÉS COMPROMÍS,0,0
-787,sevilla,MÉS COMPROMÍS,0,0
-788,huesca,MÉS COMPROMÍS,0,0
-789,teruel,MÉS COMPROMÍS,0,0
-790,zaragoza,MÉS COMPROMÍS,0,0
-791,asturias,MÉS COMPROMÍS,0,0
-792,illesbalears,MÉS COMPROMÍS,0,0
-793,laspalmas,MÉS COMPROMÍS,0,0
-794,santacruzdetenerife,MÉS COMPROMÍS,0,0
-795,cantabria,MÉS COMPROMÍS,0,0
-796,albacete,MÉS COMPROMÍS,0,0
-797,ciudadreal,MÉS COMPROMÍS,0,0
-798,cuenca,MÉS COMPROMÍS,0,0
-799,guadalajara,MÉS COMPROMÍS,0,0
-800,toledo,MÉS COMPROMÍS,0,0
-801,avila,MÉS COMPROMÍS,0,0
-802,burgos,MÉS COMPROMÍS,0,0
-803,leon,MÉS COMPROMÍS,0,0
-804,palencia,MÉS COMPROMÍS,0,0
-805,salamanca,MÉS COMPROMÍS,0,0
-806,segovia,MÉS COMPROMÍS,0,0
-807,soria,MÉS COMPROMÍS,0,0
-808,valladolid,MÉS COMPROMÍS,0,0
-809,zamora,MÉS COMPROMÍS,0,0
-810,barcelona,MÉS COMPROMÍS,0,0
-811,girona,MÉS COMPROMÍS,0,0
-812,lleida,MÉS COMPROMÍS,0,0
-813,tarragona,MÉS COMPROMÍS,0,0
-814,badajoz,MÉS COMPROMÍS,0,0
-815,caceres,MÉS COMPROMÍS,0,0
-816,acoruña,MÉS COMPROMÍS,0,0
-817,lugo,MÉS COMPROMÍS,0,0
-818,ourense,MÉS COMPROMÍS,0,0
-819,pontevedra,MÉS COMPROMÍS,0,0
-820,madrid,MÉS COMPROMÍS,0,0
-821,navarra,MÉS COMPROMÍS,0,0
-822,araba_alava,MÉS COMPROMÍS,0,0
-823,gipuzkoa,MÉS COMPROMÍS,0,0
-824,bizkaia,MÉS COMPROMÍS,0,0
-825,murcia,MÉS COMPROMÍS,0,0
-826,larioja,MÉS COMPROMÍS,0,0
-827,alicante_alacant,MÉS COMPROMÍS,35612,0
-828,castellon_castello,MÉS COMPROMÍS,18140,0
-829,valencia_valencia,MÉS COMPROMÍS,122535,0
-830,ceuta,MÉS COMPROMÍS,0,0
-831,melilla,MÉS COMPROMÍS,0,0
-832,almeria,BNG,0,0
-833,cadiz,BNG,0,0
-834,cordoba,BNG,0,0
-835,granada,BNG,0,0
-836,huelva,BNG,0,0
-837,jaen,BNG,0,0
-838,malaga,BNG,0,0
-839,sevilla,BNG,0,0
-840,huesca,BNG,0,0
-841,teruel,BNG,0,0
-842,zaragoza,BNG,0,0
-843,asturias,BNG,0,0
-844,illesbalears,BNG,0,0
-845,laspalmas,BNG,0,0
-846,santacruzdetenerife,BNG,0,0
-847,cantabria,BNG,0,0
-848,albacete,BNG,0,0
-849,ciudadreal,BNG,0,0
-850,cuenca,BNG,0,0
-851,guadalajara,BNG,0,0
-852,toledo,BNG,0,0
-853,avila,BNG,0,0
-854,burgos,BNG,0,0
-855,leon,BNG,0,0
-856,palencia,BNG,0,0
-857,salamanca,BNG,0,0
-858,segovia,BNG,0,0
-859,soria,BNG,0,0
-860,valladolid,BNG,0,0
-861,zamora,BNG,0,0
-862,barcelona,BNG,0,0
-863,girona,BNG,0,0
-864,lleida,BNG,0,0
-865,tarragona,BNG,0,0
-866,badajoz,BNG,0,0
-867,caceres,BNG,0,0
-868,acoruña,BNG,58135,0
-869,lugo,BNG,12940,0
-870,ourense,BNG,10256,0
-871,pontevedra,BNG,39125,0
-872,madrid,BNG,0,0
-873,navarra,BNG,0,0
-874,araba_alava,BNG,0,0
-875,gipuzkoa,BNG,0,0
-876,bizkaia,BNG,0,0
-877,murcia,BNG,0,0
-878,larioja,BNG,0,0
-879,alicante_alacant,BNG,0,0
-880,castellon_castello,BNG,0,0
-881,valencia_valencia,BNG,0,0
-882,ceuta,BNG,0,0
-883,melilla,BNG,0,0
-884,almeria,PRC,0,0
-885,cadiz,PRC,0,0
-886,cordoba,PRC,0,0
-887,granada,PRC,0,0
-888,huelva,PRC,0,0
-889,jaen,PRC,0,0
-890,malaga,PRC,0,0
-891,sevilla,PRC,0,0
-892,huesca,PRC,0,0
-893,teruel,PRC,0,0
-894,zaragoza,PRC,0,0
-895,asturias,PRC,0,0
-896,illesbalears,PRC,0,0
-897,laspalmas,PRC,0,0
-898,santacruzdetenerife,PRC,0,0
-899,cantabria,PRC,68830,0
-900,albacete,PRC,0,0
-901,ciudadreal,PRC,0,0
-902,cuenca,PRC,0,0
-903,guadalajara,PRC,0,0
-904,toledo,PRC,0,0
-905,avila,PRC,0,0
-906,burgos,PRC,0,0
-907,leon,PRC,0,0
-908,palencia,PRC,0,0
-909,salamanca,PRC,0,0
-910,segovia,PRC,0,0
-911,soria,PRC,0,0
-912,valladolid,PRC,0,0
-913,zamora,PRC,0,0
-914,barcelona,PRC,0,0
-915,girona,PRC,0,0
-916,lleida,PRC,0,0
-917,tarragona,PRC,0,0
-918,badajoz,PRC,0,0
-919,caceres,PRC,0,0
-920,acoruña,PRC,0,0
-921,lugo,PRC,0,0
-922,ourense,PRC,0,0
-923,pontevedra,PRC,0,0
-924,madrid,PRC,0,0
-925,navarra,PRC,0,0
-926,araba_alava,PRC,0,0
-927,gipuzkoa,PRC,0,0
-928,bizkaia,PRC,0,0
-929,murcia,PRC,0,0
-930,larioja,PRC,0,0
-931,alicante_alacant,PRC,0,0
-932,castellon_castello,PRC,0,0
-933,valencia_valencia,PRC,0,0
-934,ceuta,PRC,0,0
-935,melilla,PRC,0,0
-936,almeria,¡TERUEL EXISTE!,0,0
-937,cadiz,¡TERUEL EXISTE!,0,0
-938,cordoba,¡TERUEL EXISTE!,0,0
-939,granada,¡TERUEL EXISTE!,0,0
-940,huelva,¡TERUEL EXISTE!,0,0
-941,jaen,¡TERUEL EXISTE!,0,0
-942,malaga,¡TERUEL EXISTE!,0,0
-943,sevilla,¡TERUEL EXISTE!,0,0
-944,huesca,¡TERUEL EXISTE!,0,0
-945,teruel,¡TERUEL EXISTE!,19761,0
-946,zaragoza,¡TERUEL EXISTE!,0,0
-947,asturias,¡TERUEL EXISTE!,0,0
-948,illesbalears,¡TERUEL EXISTE!,0,0
-949,laspalmas,¡TERUEL EXISTE!,0,0
-950,santacruzdetenerife,¡TERUEL EXISTE!,0,0
-951,cantabria,¡TERUEL EXISTE!,0,0
-952,albacete,¡TERUEL EXISTE!,0,0
-953,ciudadreal,¡TERUEL EXISTE!,0,0
-954,cuenca,¡TERUEL EXISTE!,0,0
-955,guadalajara,¡TERUEL EXISTE!,0,0
-956,toledo,¡TERUEL EXISTE!,0,0
-957,avila,¡TERUEL EXISTE!,0,0
-958,burgos,¡TERUEL EXISTE!,0,0
-959,leon,¡TERUEL EXISTE!,0,0
-960,palencia,¡TERUEL EXISTE!,0,0
-961,salamanca,¡TERUEL EXISTE!,0,0
-962,segovia,¡TERUEL EXISTE!,0,0
-963,soria,¡TERUEL EXISTE!,0,0
-964,valladolid,¡TERUEL EXISTE!,0,0
-965,zamora,¡TERUEL EXISTE!,0,0
-966,barcelona,¡TERUEL EXISTE!,0,0
-967,girona,¡TERUEL EXISTE!,0,0
-968,lleida,¡TERUEL EXISTE!,0,0
-969,tarragona,¡TERUEL EXISTE!,0,0
-970,badajoz,¡TERUEL EXISTE!,0,0
-971,caceres,¡TERUEL EXISTE!,0,0
-972,acoruña,¡TERUEL EXISTE!,0,0
-973,lugo,¡TERUEL EXISTE!,0,0
-974,ourense,¡TERUEL EXISTE!,0,0
-975,pontevedra,¡TERUEL EXISTE!,0,0
-976,madrid,¡TERUEL EXISTE!,0,0
-977,navarra,¡TERUEL EXISTE!,0,0
-978,araba_alava,¡TERUEL EXISTE!,0,0
-979,gipuzkoa,¡TERUEL EXISTE!,0,0
-980,bizkaia,¡TERUEL EXISTE!,0,0
-981,murcia,¡TERUEL EXISTE!,0,0
-982,larioja,¡TERUEL EXISTE!,0,0
-983,alicante_alacant,¡TERUEL EXISTE!,0,0
-984,castellon_castello,¡TERUEL EXISTE!,0,0
-985,valencia_valencia,¡TERUEL EXISTE!,0,0
-986,ceuta,¡TERUEL EXISTE!,0,0
-987,melilla,¡TERUEL EXISTE!,0,0
-988,almeria,PACMA,2582,0
-989,cadiz,PACMA,8437,0
-990,cordoba,PACMA,3946,0
-991,granada,PACMA,4095,0
-992,huelva,PACMA,2535,0
-993,jaen,PACMA,2766,0
-994,malaga,PACMA,11089,0
-995,sevilla,PACMA,12035,0
-996,huesca,PACMA,735,0
-997,teruel,PACMA,212,0
-998,zaragoza,PACMA,3618,0
-999,asturias,PACMA,4412,0
-1000,illesbalears,PACMA,6207,0
-1001,laspalmas,PACMA,5796,0
-1002,santacruzdetenerife,PACMA,6150,0
-1003,cantabria,PACMA,1856,0
-1004,albacete,PACMA,1651,0
-1005,ciudadreal,PACMA,1788,0
-1006,cuenca,PACMA,545,0
-1007,guadalajara,PACMA,1266,0
-1008,toledo,PACMA,2680,0
-1009,avila,PACMA,432,0
-1010,burgos,PACMA,1415,0
-1011,leon,PACMA,1505,0
-1012,palencia,PACMA,582,0
-1013,salamanca,PACMA,964,0
-1014,segovia,PACMA,462,0
-1015,soria,PACMA,205,0
-1016,valladolid,PACMA,2088,0
-1017,zamora,PACMA,432,0
-1018,barcelona,PACMA,34752,0
-1019,girona,PACMA,3724,0
-1020,lleida,PACMA,1521,0
-1021,tarragona,PACMA,4588,0
-1022,badajoz,PACMA,2400,0
-1023,caceres,PACMA,1276,0
-1024,acoruña,PACMA,4572,0
-1025,lugo,PACMA,1190,0
-1026,ourense,PACMA,1094,0
-1027,pontevedra,PACMA,4619,0
-1028,madrid,PACMA,31983,0
-1029,navarra,PACMA,2250,0
-1030,araba_alava,PACMA,1152,0
-1031,gipuzkoa,PACMA,2070,0
-1032,bizkaia,PACMA,3783,0
-1033,murcia,PACMA,7005,0
-1034,larioja,PACMA,1096,0
-1035,alicante_alacant,PACMA,9417,0
-1036,castellon_castello,PACMA,2483,0
-1037,valencia_valencia,PACMA,15395,0
-1038,ceuta,PACMA,0,0
-1039,melilla,PACMA,0,0
-1040,almeria,MÁS PAÍS,0,0
-1041,cadiz,MÁS PAÍS,0,0
-1042,cordoba,MÁS PAÍS,0,0
-1043,granada,MÁS PAÍS,0,0
-1044,huelva,MÁS PAÍS,0,0
-1045,jaen,MÁS PAÍS,0,0
-1046,malaga,MÁS PAÍS,0,0
-1047,sevilla,MÁS PAÍS,0,0
-1048,huesca,MÁS PAÍS,0,0
-1049,teruel,MÁS PAÍS,0,0
-1050,zaragoza,MÁS PAÍS,0,0
-1051,asturias,MÁS PAÍS,0,0
-1052,illesbalears,MÁS PAÍS,10652,0
-1053,laspalmas,MÁS PAÍS,0,0
-1054,santacruzdetenerife,MÁS PAÍS,0,0
-1055,cantabria,MÁS PAÍS,0,0
-1056,albacete,MÁS PAÍS,0,0
-1057,ciudadreal,MÁS PAÍS,0,0
-1058,cuenca,MÁS PAÍS,0,0
-1059,guadalajara,MÁS PAÍS,0,0
-1060,toledo,MÁS PAÍS,0,0
-1061,avila,MÁS PAÍS,0,0
-1062,burgos,MÁS PAÍS,0,0
-1063,leon,MÁS PAÍS,0,0
-1064,palencia,MÁS PAÍS,0,0
-1065,salamanca,MÁS PAÍS,0,0
-1066,segovia,MÁS PAÍS,0,0
-1067,soria,MÁS PAÍS,0,0
-1068,valladolid,MÁS PAÍS,0,0
-1069,zamora,MÁS PAÍS,0,0
-1070,barcelona,MÁS PAÍS,41826,0
-1071,girona,MÁS PAÍS,0,0
-1072,lleida,MÁS PAÍS,0,0
-1073,tarragona,MÁS PAÍS,0,0
-1074,badajoz,MÁS PAÍS,0,0
-1075,caceres,MÁS PAÍS,0,0
-1076,acoruña,MÁS PAÍS,0,0
-1077,lugo,MÁS PAÍS,0,0
-1078,ourense,MÁS PAÍS,0,0
-1079,pontevedra,MÁS PAÍS,0,0
-1080,madrid,MÁS PAÍS,0,0
-1081,navarra,MÁS PAÍS,0,0
-1082,araba_alava,MÁS PAÍS,0,0
-1083,gipuzkoa,MÁS PAÍS,0,0
-1084,bizkaia,MÁS PAÍS,0,0
-1085,murcia,MÁS PAÍS,0,0
-1086,larioja,MÁS PAÍS,0,0
-1087,alicante_alacant,MÁS PAÍS,0,0
-1088,castellon_castello,MÁS PAÍS,0,0
-1089,valencia_valencia,MÁS PAÍS,0,0
-1090,ceuta,MÁS PAÍS,0,0
-1091,melilla,MÁS PAÍS,0,0
-1092,almeria,RECORTES CERO-GV,360,0
-1093,cadiz,RECORTES CERO-GV,915,0
-1094,cordoba,RECORTES CERO-GV,549,0
-1095,granada,RECORTES CERO-GV,545,0
-1096,huelva,RECORTES CERO-GV,495,0
-1097,jaen,RECORTES CERO-GV,464,0
-1098,malaga,RECORTES CERO-GV,1261,0
-1099,sevilla,RECORTES CERO-GV,1456,0
-1100,huesca,RECORTES CERO-GV,198,0
-1101,teruel,RECORTES CERO-GV,0,0
-1102,zaragoza,RECORTES CERO-GV,861,0
-1103,asturias,RECORTES CERO-GV,732,0
-1104,illesbalears,RECORTES CERO-GV,947,0
-1105,laspalmas,RECORTES CERO-GV,505,0
-1106,santacruzdetenerife,RECORTES CERO-GV,489,0
-1107,cantabria,RECORTES CERO-GV,232,0
-1108,albacete,RECORTES CERO-GV,222,0
-1109,ciudadreal,RECORTES CERO-GV,447,0
-1110,cuenca,RECORTES CERO-GV,125,0
-1111,guadalajara,RECORTES CERO-GV,287,0
-1112,toledo,RECORTES CERO-GV,556,0
-1113,avila,RECORTES CERO-GV,105,0
-1114,burgos,RECORTES CERO-GV,645,0
-1115,leon,RECORTES CERO-GV,178,0
-1116,palencia,RECORTES CERO-GV,256,0
-1117,salamanca,RECORTES CERO-GV,306,0
-1118,segovia,RECORTES CERO-GV,191,0
-1119,soria,RECORTES CERO-GV,95,0
-1120,valladolid,RECORTES CERO-GV,594,0
-1121,zamora,RECORTES CERO-GV,129,0
-1122,barcelona,RECORTES CERO-GV,4698,0
-1123,girona,RECORTES CERO-GV,508,0
-1124,lleida,RECORTES CERO-GV,183,0
-1125,tarragona,RECORTES CERO-GV,533,0
-1126,badajoz,RECORTES CERO-GV,674,0
-1127,caceres,RECORTES CERO-GV,342,0
-1128,acoruña,RECORTES CERO-GV,925,0
-1129,lugo,RECORTES CERO-GV,237,0
-1130,ourense,RECORTES CERO-GV,221,0
-1131,pontevedra,RECORTES CERO-GV,790,0
-1132,madrid,RECORTES CERO-GV,5129,0
-1133,navarra,RECORTES CERO-GV,965,0
-1134,araba_alava,RECORTES CERO-GV,409,0
-1135,gipuzkoa,RECORTES CERO-GV,510,0
-1136,bizkaia,RECORTES CERO-GV,753,0
-1137,murcia,RECORTES CERO-GV,881,0
-1138,larioja,RECORTES CERO-GV,307,0
-1139,alicante_alacant,RECORTES CERO-GV,891,0
-1140,castellon_castello,RECORTES CERO-GV,257,0
-1141,valencia_valencia,RECORTES CERO-GV,1540,0
-1142,ceuta,RECORTES CERO-GV,125,0
-1143,melilla,RECORTES CERO-GV,19,0
-1144,almeria,PUM+J,371,0
-1145,cadiz,PUM+J,707,0
-1146,cordoba,PUM+J,478,0
-1147,granada,PUM+J,624,0
-1148,huelva,PUM+J,351,0
-1149,jaen,PUM+J,419,0
-1150,malaga,PUM+J,904,0
-1151,sevilla,PUM+J,1402,0
-1152,huesca,PUM+J,153,0
-1153,teruel,PUM+J,35,0
-1154,zaragoza,PUM+J,485,0
-1155,asturias,PUM+J,487,0
-1156,illesbalears,PUM+J,573,0
-1157,laspalmas,PUM+J,552,0
-1158,santacruzdetenerife,PUM+J,319,0
-1159,cantabria,PUM+J,187,0
-1160,albacete,PUM+J,375,0
-1161,ciudadreal,PUM+J,484,0
-1162,cuenca,PUM+J,129,0
-1163,guadalajara,PUM+J,284,0
-1164,toledo,PUM+J,661,0
-1165,avila,PUM+J,102,0
-1166,burgos,PUM+J,620,0
-1167,leon,PUM+J,317,0
-1168,palencia,PUM+J,209,0
-1169,salamanca,PUM+J,266,0
-1170,segovia,PUM+J,133,0
-1171,soria,PUM+J,95,0
-1172,valladolid,PUM+J,586,0
-1173,zamora,PUM+J,143,0
-1174,barcelona,PUM+J,1577,0
-1175,girona,PUM+J,339,0
-1176,lleida,PUM+J,169,0
-1177,tarragona,PUM+J,351,0
-1178,badajoz,PUM+J,925,0
-1179,caceres,PUM+J,295,0
-1180,acoruña,PUM+J,607,0
-1181,lugo,PUM+J,221,0
-1182,ourense,PUM+J,307,0
-1183,pontevedra,PUM+J,447,0
-1184,madrid,PUM+J,4305,0
-1185,navarra,PUM+J,928,0
-1186,araba_alava,PUM+J,326,0
-1187,gipuzkoa,PUM+J,401,0
-1188,bizkaia,PUM+J,494,0
-1189,murcia,PUM+J,431,0
-1190,larioja,PUM+J,297,0
-1191,alicante_alacant,PUM+J,948,0
-1192,castellon_castello,PUM+J,370,0
-1193,valencia_valencia,PUM+J,1009,0
-1194,ceuta,PUM+J,43,0
-1195,melilla,PUM+J,31,0
-1196,almeria,M PAÍS-CHA-EQUO,0,0
-1197,cadiz,M PAÍS-CHA-EQUO,0,0
-1198,cordoba,M PAÍS-CHA-EQUO,0,0
-1199,granada,M PAÍS-CHA-EQUO,0,0
-1200,huelva,M PAÍS-CHA-EQUO,0,0
-1201,jaen,M PAÍS-CHA-EQUO,0,0
-1202,malaga,M PAÍS-CHA-EQUO,0,0
-1203,sevilla,M PAÍS-CHA-EQUO,0,0
-1204,huesca,M PAÍS-CHA-EQUO,0,0
-1205,teruel,M PAÍS-CHA-EQUO,0,0
-1206,zaragoza,M PAÍS-CHA-EQUO,23196,0
-1207,asturias,M PAÍS-CHA-EQUO,0,0
-1208,illesbalears,M PAÍS-CHA-EQUO,0,0
-1209,laspalmas,M PAÍS-CHA-EQUO,0,0
-1210,santacruzdetenerife,M PAÍS-CHA-EQUO,0,0
-1211,cantabria,M PAÍS-CHA-EQUO,0,0
-1212,albacete,M PAÍS-CHA-EQUO,0,0
-1213,ciudadreal,M PAÍS-CHA-EQUO,0,0
-1214,cuenca,M PAÍS-CHA-EQUO,0,0
-1215,guadalajara,M PAÍS-CHA-EQUO,0,0
-1216,toledo,M PAÍS-CHA-EQUO,0,0
-1217,avila,M PAÍS-CHA-EQUO,0,0
-1218,burgos,M PAÍS-CHA-EQUO,0,0
-1219,leon,M PAÍS-CHA-EQUO,0,0
-1220,palencia,M PAÍS-CHA-EQUO,0,0
-1221,salamanca,M PAÍS-CHA-EQUO,0,0
-1222,segovia,M PAÍS-CHA-EQUO,0,0
-1223,soria,M PAÍS-CHA-EQUO,0,0
-1224,valladolid,M PAÍS-CHA-EQUO,0,0
-1225,zamora,M PAÍS-CHA-EQUO,0,0
-1226,barcelona,M PAÍS-CHA-EQUO,0,0
-1227,girona,M PAÍS-CHA-EQUO,0,0
-1228,lleida,M PAÍS-CHA-EQUO,0,0
-1229,tarragona,M PAÍS-CHA-EQUO,0,0
-1230,badajoz,M PAÍS-CHA-EQUO,0,0
-1231,caceres,M PAÍS-CHA-EQUO,0,0
-1232,acoruña,M PAÍS-CHA-EQUO,0,0
-1233,lugo,M PAÍS-CHA-EQUO,0,0
-1234,ourense,M PAÍS-CHA-EQUO,0,0
-1235,pontevedra,M PAÍS-CHA-EQUO,0,0
-1236,madrid,M PAÍS-CHA-EQUO,0,0
-1237,navarra,M PAÍS-CHA-EQUO,0,0
-1238,araba_alava,M PAÍS-CHA-EQUO,0,0
-1239,gipuzkoa,M PAÍS-CHA-EQUO,0,0
-1240,bizkaia,M PAÍS-CHA-EQUO,0,0
-1241,murcia,M PAÍS-CHA-EQUO,0,0
-1242,larioja,M PAÍS-CHA-EQUO,0,0
-1243,alicante_alacant,M PAÍS-CHA-EQUO,0,0
-1244,castellon_castello,M PAÍS-CHA-EQUO,0,0
-1245,valencia_valencia,M PAÍS-CHA-EQUO,0,0
-1246,ceuta,M PAÍS-CHA-EQUO,0,0
-1247,melilla,M PAÍS-CHA-EQUO,0,0
-1248,almeria,MÉS-ESQUERRA,0,0
-1249,cadiz,MÉS-ESQUERRA,0,0
-1250,cordoba,MÉS-ESQUERRA,0,0
-1251,granada,MÉS-ESQUERRA,0,0
-1252,huelva,MÉS-ESQUERRA,0,0
-1253,jaen,MÉS-ESQUERRA,0,0
-1254,malaga,MÉS-ESQUERRA,0,0
-1255,sevilla,MÉS-ESQUERRA,0,0
-1256,huesca,MÉS-ESQUERRA,0,0
-1257,teruel,MÉS-ESQUERRA,0,0
-1258,zaragoza,MÉS-ESQUERRA,0,0
-1259,asturias,MÉS-ESQUERRA,0,0
-1260,illesbalears,MÉS-ESQUERRA,18295,0
-1261,laspalmas,MÉS-ESQUERRA,0,0
-1262,santacruzdetenerife,MÉS-ESQUERRA,0,0
-1263,cantabria,MÉS-ESQUERRA,0,0
-1264,albacete,MÉS-ESQUERRA,0,0
-1265,ciudadreal,MÉS-ESQUERRA,0,0
-1266,cuenca,MÉS-ESQUERRA,0,0
-1267,guadalajara,MÉS-ESQUERRA,0,0
-1268,toledo,MÉS-ESQUERRA,0,0
-1269,avila,MÉS-ESQUERRA,0,0
-1270,burgos,MÉS-ESQUERRA,0,0
-1271,leon,MÉS-ESQUERRA,0,0
-1272,palencia,MÉS-ESQUERRA,0,0
-1273,salamanca,MÉS-ESQUERRA,0,0
-1274,segovia,MÉS-ESQUERRA,0,0
-1275,soria,MÉS-ESQUERRA,0,0
-1276,valladolid,MÉS-ESQUERRA,0,0
-1277,zamora,MÉS-ESQUERRA,0,0
-1278,barcelona,MÉS-ESQUERRA,0,0
-1279,girona,MÉS-ESQUERRA,0,0
-1280,lleida,MÉS-ESQUERRA,0,0
-1281,tarragona,MÉS-ESQUERRA,0,0
-1282,badajoz,MÉS-ESQUERRA,0,0
-1283,caceres,MÉS-ESQUERRA,0,0
-1284,acoruña,MÉS-ESQUERRA,0,0
-1285,lugo,MÉS-ESQUERRA,0,0
-1286,ourense,MÉS-ESQUERRA,0,0
-1287,pontevedra,MÉS-ESQUERRA,0,0
-1288,madrid,MÉS-ESQUERRA,0,0
-1289,navarra,MÉS-ESQUERRA,0,0
-1290,araba_alava,MÉS-ESQUERRA,0,0
-1291,gipuzkoa,MÉS-ESQUERRA,0,0
-1292,bizkaia,MÉS-ESQUERRA,0,0
-1293,murcia,MÉS-ESQUERRA,0,0
-1294,larioja,MÉS-ESQUERRA,0,0
-1295,alicante_alacant,MÉS-ESQUERRA,0,0
-1296,castellon_castello,MÉS-ESQUERRA,0,0
-1297,valencia_valencia,MÉS-ESQUERRA,0,0
-1298,ceuta,MÉS-ESQUERRA,0,0
-1299,melilla,MÉS-ESQUERRA,0,0
-1300,almeria,AxSÍ,318,0
-1301,cadiz,AxSÍ,3509,0
-1302,cordoba,AxSÍ,1019,0
-1303,granada,AxSÍ,619,0
-1304,huelva,AxSÍ,856,0
-1305,jaen,AxSÍ,856,0
-1306,malaga,AxSÍ,1686,0
-1307,sevilla,AxSÍ,5183,0
-1308,huesca,AxSÍ,0,0
-1309,teruel,AxSÍ,0,0
-1310,zaragoza,AxSÍ,0,0
-1311,asturias,AxSÍ,0,0
-1312,illesbalears,AxSÍ,0,0
-1313,laspalmas,AxSÍ,0,0
-1314,santacruzdetenerife,AxSÍ,0,0
-1315,cantabria,AxSÍ,0,0
-1316,albacete,AxSÍ,0,0
-1317,ciudadreal,AxSÍ,0,0
-1318,cuenca,AxSÍ,0,0
-1319,guadalajara,AxSÍ,0,0
-1320,toledo,AxSÍ,0,0
-1321,avila,AxSÍ,0,0
-1322,burgos,AxSÍ,0,0
-1323,leon,AxSÍ,0,0
-1324,palencia,AxSÍ,0,0
-1325,salamanca,AxSÍ,0,0
-1326,segovia,AxSÍ,0,0
-1327,soria,AxSÍ,0,0
-1328,valladolid,AxSÍ,0,0
-1329,zamora,AxSÍ,0,0
-1330,barcelona,AxSÍ,0,0
-1331,girona,AxSÍ,0,0
-1332,lleida,AxSÍ,0,0
-1333,tarragona,AxSÍ,0,0
-1334,badajoz,AxSÍ,0,0
-1335,caceres,AxSÍ,0,0
-1336,acoruña,AxSÍ,0,0
-1337,lugo,AxSÍ,0,0
-1338,ourense,AxSÍ,0,0
-1339,pontevedra,AxSÍ,0,0
-1340,madrid,AxSÍ,0,0
-1341,navarra,AxSÍ,0,0
-1342,araba_alava,AxSÍ,0,0
-1343,gipuzkoa,AxSÍ,0,0
-1344,bizkaia,AxSÍ,0,0
-1345,murcia,AxSÍ,0,0
-1346,larioja,AxSÍ,0,0
-1347,alicante_alacant,AxSÍ,0,0
-1348,castellon_castello,AxSÍ,0,0
-1349,valencia_valencia,AxSÍ,0,0
-1350,ceuta,AxSÍ,0,0
-1351,melilla,AxSÍ,0,0
-1352,almeria,PCPE,303,0
-1353,cadiz,PCPE,639,0
-1354,cordoba,PCPE,544,0
-1355,granada,PCPE,371,0
-1356,huelva,PCPE,159,0
-1357,jaen,PCPE,0,0
-1358,malaga,PCPE,581,0
-1359,sevilla,PCPE,842,0
-1360,huesca,PCPE,100,0
-1361,teruel,PCPE,45,0
-1362,zaragoza,PCPE,331,0
-1363,asturias,PCPE,626,0
-1364,illesbalears,PCPE,0,0
-1365,laspalmas,PCPE,728,0
-1366,santacruzdetenerife,PCPE,464,0
-1367,cantabria,PCPE,262,0
-1368,albacete,PCPE,177,0
-1369,ciudadreal,PCPE,0,0
-1370,cuenca,PCPE,83,0
-1371,guadalajara,PCPE,87,0
-1372,toledo,PCPE,282,0
-1373,avila,PCPE,0,0
-1374,burgos,PCPE,0,0
-1375,leon,PCPE,0,0
-1376,palencia,PCPE,0,0
-1377,salamanca,PCPE,0,0
-1378,segovia,PCPE,0,0
-1379,soria,PCPE,0,0
-1380,valladolid,PCPE,223,0
-1381,zamora,PCPE,0,0
-1382,barcelona,PCPE,1509,0
-1383,girona,PCPE,327,0
-1384,lleida,PCPE,129,0
-1385,tarragona,PCPE,180,0
-1386,badajoz,PCPE,0,0
-1387,caceres,PCPE,0,0
-1388,acoruña,PCPE,0,0
-1389,lugo,PCPE,0,0
-1390,ourense,PCPE,0,0
-1391,pontevedra,PCPE,0,0
-1392,madrid,PCPE,2099,0
-1393,navarra,PCPE,0,0
-1394,araba_alava,PCPE,0,0
-1395,gipuzkoa,PCPE,0,0
-1396,bizkaia,PCPE,0,0
-1397,murcia,PCPE,490,0
-1398,larioja,PCPE,0,0
-1399,alicante_alacant,PCPE,911,0
-1400,castellon_castello,PCPE,194,0
-1401,valencia_valencia,PCPE,1142,0
-1402,ceuta,PCPE,0,0
-1403,melilla,PCPE,0,0
-1404,almeria,PCTE,0,0
-1405,cadiz,PCTE,0,0
-1406,cordoba,PCTE,321,0
-1407,granada,PCTE,322,0
-1408,huelva,PCTE,112,0
-1409,jaen,PCTE,471,0
-1410,malaga,PCTE,381,0
-1411,sevilla,PCTE,550,0
-1412,huesca,PCTE,86,0
-1413,teruel,PCTE,0,0
-1414,zaragoza,PCTE,414,0
-1415,asturias,PCTE,843,0
-1416,illesbalears,PCTE,0,0
-1417,laspalmas,PCTE,0,0
-1418,santacruzdetenerife,PCTE,0,0
-1419,cantabria,PCTE,247,0
-1420,albacete,PCTE,153,0
-1421,ciudadreal,PCTE,0,0
-1422,cuenca,PCTE,66,0
-1423,guadalajara,PCTE,106,0
-1424,toledo,PCTE,217,0
-1425,avila,PCTE,101,0
-1426,burgos,PCTE,404,0
-1427,leon,PCTE,379,0
-1428,palencia,PCTE,106,0
-1429,salamanca,PCTE,196,0
-1430,segovia,PCTE,67,0
-1431,soria,PCTE,87,0
-1432,valladolid,PCTE,281,0
-1433,zamora,PCTE,120,0
-1434,barcelona,PCTE,1587,0
-1435,girona,PCTE,316,0
-1436,lleida,PCTE,126,0
-1437,tarragona,PCTE,191,0
-1438,badajoz,PCTE,0,0
-1439,caceres,PCTE,0,0
-1440,acoruña,PCTE,472,0
-1441,lugo,PCTE,135,0
-1442,ourense,PCTE,158,0
-1443,pontevedra,PCTE,493,0
-1444,madrid,PCTE,1895,0
-1445,navarra,PCTE,381,0
-1446,araba_alava,PCTE,215,0
-1447,gipuzkoa,PCTE,276,0
-1448,bizkaia,PCTE,491,0
-1449,murcia,PCTE,0,0
-1450,larioja,PCTE,263,0
-1451,alicante_alacant,PCTE,0,0
-1452,castellon_castello,PCTE,0,0
-1453,valencia_valencia,PCTE,0,0
-1454,ceuta,PCTE,0,0
-1455,melilla,PCTE,0,0
-1456,almeria,GBAI,0,0
-1457,cadiz,GBAI,0,0
-1458,cordoba,GBAI,0,0
-1459,granada,GBAI,0,0
-1460,huelva,GBAI,0,0
-1461,jaen,GBAI,0,0
-1462,malaga,GBAI,0,0
-1463,sevilla,GBAI,0,0
-1464,huesca,GBAI,0,0
-1465,teruel,GBAI,0,0
-1466,zaragoza,GBAI,0,0
-1467,asturias,GBAI,0,0
-1468,illesbalears,GBAI,0,0
-1469,laspalmas,GBAI,0,0
-1470,santacruzdetenerife,GBAI,0,0
-1471,cantabria,GBAI,0,0
-1472,albacete,GBAI,0,0
-1473,ciudadreal,GBAI,0,0
-1474,cuenca,GBAI,0,0
-1475,guadalajara,GBAI,0,0
-1476,toledo,GBAI,0,0
-1477,avila,GBAI,0,0
-1478,burgos,GBAI,0,0
-1479,leon,GBAI,0,0
-1480,palencia,GBAI,0,0
-1481,salamanca,GBAI,0,0
-1482,segovia,GBAI,0,0
-1483,soria,GBAI,0,0
-1484,valladolid,GBAI,0,0
-1485,zamora,GBAI,0,0
-1486,barcelona,GBAI,0,0
-1487,girona,GBAI,0,0
-1488,lleida,GBAI,0,0
-1489,tarragona,GBAI,0,0
-1490,badajoz,GBAI,0,0
-1491,caceres,GBAI,0,0
-1492,acoruña,GBAI,0,0
-1493,lugo,GBAI,0,0
-1494,ourense,GBAI,0,0
-1495,pontevedra,GBAI,0,0
-1496,madrid,GBAI,0,0
-1497,navarra,GBAI,12709,0
-1498,araba_alava,GBAI,0,0
-1499,gipuzkoa,GBAI,0,0
-1500,bizkaia,GBAI,0,0
-1501,murcia,GBAI,0,0
-1502,larioja,GBAI,0,0
-1503,alicante_alacant,GBAI,0,0
-1504,castellon_castello,GBAI,0,0
-1505,valencia_valencia,GBAI,0,0
-1506,ceuta,GBAI,0,0
-1507,melilla,GBAI,0,0
-1508,almeria,UPL,0,0
-1509,cadiz,UPL,0,0
-1510,cordoba,UPL,0,0
-1511,granada,UPL,0,0
-1512,huelva,UPL,0,0
-1513,jaen,UPL,0,0
-1514,malaga,UPL,0,0
-1515,sevilla,UPL,0,0
-1516,huesca,UPL,0,0
-1517,teruel,UPL,0,0
-1518,zaragoza,UPL,0,0
-1519,asturias,UPL,0,0
-1520,illesbalears,UPL,0,0
-1521,laspalmas,UPL,0,0
-1522,santacruzdetenerife,UPL,0,0
-1523,cantabria,UPL,0,0
-1524,albacete,UPL,0,0
-1525,ciudadreal,UPL,0,0
-1526,cuenca,UPL,0,0
-1527,guadalajara,UPL,0,0
-1528,toledo,UPL,0,0
-1529,avila,UPL,0,0
-1530,burgos,UPL,0,0
-1531,leon,UPL,9588,0
-1532,palencia,UPL,0,0
-1533,salamanca,UPL,286,0
-1534,segovia,UPL,0,0
-1535,soria,UPL,0,0
-1536,valladolid,UPL,0,0
-1537,zamora,UPL,369,0
-1538,barcelona,UPL,0,0
-1539,girona,UPL,0,0
-1540,lleida,UPL,0,0
-1541,tarragona,UPL,0,0
-1542,badajoz,UPL,0,0
-1543,caceres,UPL,0,0
-1544,acoruña,UPL,0,0
-1545,lugo,UPL,0,0
-1546,ourense,UPL,0,0
-1547,pontevedra,UPL,0,0
-1548,madrid,UPL,0,0
-1549,navarra,UPL,0,0
-1550,araba_alava,UPL,0,0
-1551,gipuzkoa,UPL,0,0
-1552,bizkaia,UPL,0,0
-1553,murcia,UPL,0,0
-1554,larioja,UPL,0,0
-1555,alicante_alacant,UPL,0,0
-1556,castellon_castello,UPL,0,0
-1557,valencia_valencia,UPL,0,0
-1558,ceuta,UPL,0,0
-1559,melilla,UPL,0,0
-1560,almeria,PCOE,0,0
-1561,cadiz,PCOE,1739,0
-1562,cordoba,PCOE,1062,0
-1563,granada,PCOE,0,0
-1564,huelva,PCOE,464,0
-1565,jaen,PCOE,0,0
-1566,malaga,PCOE,1265,0
-1567,sevilla,PCOE,1495,0
-1568,huesca,PCOE,0,0
-1569,teruel,PCOE,96,0
-1570,zaragoza,PCOE,0,0
-1571,asturias,PCOE,0,0
-1572,illesbalears,PCOE,0,0
-1573,laspalmas,PCOE,0,0
-1574,santacruzdetenerife,PCOE,0,0
-1575,cantabria,PCOE,0,0
-1576,albacete,PCOE,0,0
-1577,ciudadreal,PCOE,0,0
-1578,cuenca,PCOE,0,0
-1579,guadalajara,PCOE,195,0
-1580,toledo,PCOE,0,0
-1581,avila,PCOE,0,0
-1582,burgos,PCOE,0,0
-1583,leon,PCOE,0,0
-1584,palencia,PCOE,0,0
-1585,salamanca,PCOE,0,0
-1586,segovia,PCOE,173,0
-1587,soria,PCOE,0,0
-1588,valladolid,PCOE,0,0
-1589,zamora,PCOE,0,0
-1590,barcelona,PCOE,0,0
-1591,girona,PCOE,0,0
-1592,lleida,PCOE,0,0
-1593,tarragona,PCOE,0,0
-1594,badajoz,PCOE,0,0
-1595,caceres,PCOE,0,0
-1596,acoruña,PCOE,1689,0
-1597,lugo,PCOE,178,0
-1598,ourense,PCOE,0,0
-1599,pontevedra,PCOE,0,0
-1600,madrid,PCOE,0,0
-1601,navarra,PCOE,0,0
-1602,araba_alava,PCOE,0,0
-1603,gipuzkoa,PCOE,0,0
-1604,bizkaia,PCOE,0,0
-1605,murcia,PCOE,990,0
-1606,larioja,PCOE,0,0
-1607,alicante_alacant,PCOE,0,0
-1608,castellon_castello,PCOE,379,0
-1609,valencia_valencia,PCOE,0,0
-1610,ceuta,PCOE,0,0
-1611,melilla,PCOE,0,0
-1612,almeria,CpM,0,0
-1613,cadiz,CpM,0,0
-1614,cordoba,CpM,0,0
-1615,granada,CpM,0,0
-1616,huelva,CpM,0,0
-1617,jaen,CpM,0,0
-1618,malaga,CpM,0,0
-1619,sevilla,CpM,0,0
-1620,huesca,CpM,0,0
-1621,teruel,CpM,0,0
-1622,zaragoza,CpM,0,0
-1623,asturias,CpM,0,0
-1624,illesbalears,CpM,0,0
-1625,laspalmas,CpM,0,0
-1626,santacruzdetenerife,CpM,0,0
-1627,cantabria,CpM,0,0
-1628,albacete,CpM,0,0
-1629,ciudadreal,CpM,0,0
-1630,cuenca,CpM,0,0
-1631,guadalajara,CpM,0,0
-1632,toledo,CpM,0,0
-1633,avila,CpM,0,0
-1634,burgos,CpM,0,0
-1635,leon,CpM,0,0
-1636,palencia,CpM,0,0
-1637,salamanca,CpM,0,0
-1638,segovia,CpM,0,0
-1639,soria,CpM,0,0
-1640,valladolid,CpM,0,0
-1641,zamora,CpM,0,0
-1642,barcelona,CpM,0,0
-1643,girona,CpM,0,0
-1644,lleida,CpM,0,0
-1645,tarragona,CpM,0,0
-1646,badajoz,CpM,0,0
-1647,caceres,CpM,0,0
-1648,acoruña,CpM,0,0
-1649,lugo,CpM,0,0
-1650,ourense,CpM,0,0
-1651,pontevedra,CpM,0,0
-1652,madrid,CpM,0,0
-1653,navarra,CpM,0,0
-1654,araba_alava,CpM,0,0
-1655,gipuzkoa,CpM,0,0
-1656,bizkaia,CpM,0,0
-1657,murcia,CpM,0,0
-1658,larioja,CpM,0,0
-1659,alicante_alacant,CpM,0,0
-1660,castellon_castello,CpM,0,0
-1661,valencia_valencia,CpM,0,0
-1662,ceuta,CpM,0,0
-1663,melilla,CpM,8955,0
-1664,almeria,EB,513,0
-1665,cadiz,EB,0,0
-1666,cordoba,EB,760,0
-1667,granada,EB,0,0
-1668,huelva,EB,0,0
-1669,jaen,EB,0,0
-1670,malaga,EB,0,0
-1671,sevilla,EB,0,0
-1672,huesca,EB,393,0
-1673,teruel,EB,0,0
-1674,zaragoza,EB,1940,0
-1675,asturias,EB,0,0
-1676,illesbalears,EB,0,0
-1677,laspalmas,EB,0,0
-1678,santacruzdetenerife,EB,418,0
-1679,cantabria,EB,259,0
-1680,albacete,EB,0,0
-1681,ciudadreal,EB,0,0
-1682,cuenca,EB,0,0
-1683,guadalajara,EB,0,0
-1684,toledo,EB,0,0
-1685,avila,EB,0,0
-1686,burgos,EB,0,0
-1687,leon,EB,0,0
-1688,palencia,EB,0,0
-1689,salamanca,EB,0,0
-1690,segovia,EB,0,0
-1691,soria,EB,0,0
-1692,valladolid,EB,0,0
-1693,zamora,EB,0,0
-1694,barcelona,EB,0,0
-1695,girona,EB,0,0
-1696,lleida,EB,0,0
-1697,tarragona,EB,0,0
-1698,badajoz,EB,0,0
-1699,caceres,EB,0,0
-1700,acoruña,EB,0,0
-1701,lugo,EB,0,0
-1702,ourense,EB,0,0
-1703,pontevedra,EB,692,0
-1704,madrid,EB,0,0
-1705,navarra,EB,0,0
-1706,araba_alava,EB,0,0
-1707,gipuzkoa,EB,570,0
-1708,bizkaia,EB,0,0
-1709,murcia,EB,0,0
-1710,larioja,EB,425,0
-1711,alicante_alacant,EB,0,0
-1712,castellon_castello,EB,0,0
-1713,valencia_valencia,EB,0,0
-1714,ceuta,EB,0,0
-1715,melilla,EB,0,0
-1716,almeria,ERPV,0,0
-1717,cadiz,ERPV,0,0
-1718,cordoba,ERPV,0,0
-1719,granada,ERPV,0,0
-1720,huelva,ERPV,0,0
-1721,jaen,ERPV,0,0
-1722,malaga,ERPV,0,0
-1723,sevilla,ERPV,0,0
-1724,huesca,ERPV,0,0
-1725,teruel,ERPV,0,0
-1726,zaragoza,ERPV,0,0
-1727,asturias,ERPV,0,0
-1728,illesbalears,ERPV,0,0
-1729,laspalmas,ERPV,0,0
-1730,santacruzdetenerife,ERPV,0,0
-1731,cantabria,ERPV,0,0
-1732,albacete,ERPV,0,0
-1733,ciudadreal,ERPV,0,0
-1734,cuenca,ERPV,0,0
-1735,guadalajara,ERPV,0,0
-1736,toledo,ERPV,0,0
-1737,avila,ERPV,0,0
-1738,burgos,ERPV,0,0
-1739,leon,ERPV,0,0
-1740,palencia,ERPV,0,0
-1741,salamanca,ERPV,0,0
-1742,segovia,ERPV,0,0
-1743,soria,ERPV,0,0
-1744,valladolid,ERPV,0,0
-1745,zamora,ERPV,0,0
-1746,barcelona,ERPV,0,0
-1747,girona,ERPV,0,0
-1748,lleida,ERPV,0,0
-1749,tarragona,ERPV,0,0
-1750,badajoz,ERPV,0,0
-1751,caceres,ERPV,0,0
-1752,acoruña,ERPV,0,0
-1753,lugo,ERPV,0,0
-1754,ourense,ERPV,0,0
-1755,pontevedra,ERPV,0,0
-1756,madrid,ERPV,0,0
-1757,navarra,ERPV,0,0
-1758,araba_alava,ERPV,0,0
-1759,gipuzkoa,ERPV,0,0
-1760,bizkaia,ERPV,0,0
-1761,murcia,ERPV,0,0
-1762,larioja,ERPV,0,0
-1763,alicante_alacant,ERPV,1683,0
-1764,castellon_castello,ERPV,1106,0
-1765,valencia_valencia,ERPV,3086,0
-1766,ceuta,ERPV,0,0
-1767,melilla,ERPV,0,0
-1768,almeria,XAV,0,0
-1769,cadiz,XAV,0,0
-1770,cordoba,XAV,0,0
-1771,granada,XAV,0,0
-1772,huelva,XAV,0,0
-1773,jaen,XAV,0,0
-1774,malaga,XAV,0,0
-1775,sevilla,XAV,0,0
-1776,huesca,XAV,0,0
-1777,teruel,XAV,0,0
-1778,zaragoza,XAV,0,0
-1779,asturias,XAV,0,0
-1780,illesbalears,XAV,0,0
-1781,laspalmas,XAV,0,0
-1782,santacruzdetenerife,XAV,0,0
-1783,cantabria,XAV,0,0
-1784,albacete,XAV,0,0
-1785,ciudadreal,XAV,0,0
-1786,cuenca,XAV,0,0
-1787,guadalajara,XAV,0,0
-1788,toledo,XAV,0,0
-1789,avila,XAV,5416,0
-1790,burgos,XAV,0,0
-1791,leon,XAV,0,0
-1792,palencia,XAV,0,0
-1793,salamanca,XAV,0,0
-1794,segovia,XAV,0,0
-1795,soria,XAV,0,0
-1796,valladolid,XAV,0,0
-1797,zamora,XAV,0,0
-1798,barcelona,XAV,0,0
-1799,girona,XAV,0,0
-1800,lleida,XAV,0,0
-1801,tarragona,XAV,0,0
-1802,badajoz,XAV,0,0
-1803,caceres,XAV,0,0
-1804,acoruña,XAV,0,0
-1805,lugo,XAV,0,0
-1806,ourense,XAV,0,0
-1807,pontevedra,XAV,0,0
-1808,madrid,XAV,0,0
-1809,navarra,XAV,0,0
-1810,araba_alava,XAV,0,0
-1811,gipuzkoa,XAV,0,0
-1812,bizkaia,XAV,0,0
-1813,murcia,XAV,0,0
-1814,larioja,XAV,0,0
-1815,alicante_alacant,XAV,0,0
-1816,castellon_castello,XAV,0,0
-1817,valencia_valencia,XAV,0,0
-1818,ceuta,XAV,0,0
-1819,melilla,XAV,0,0
-1820,almeria,AVANT ADELANTE LOS VERDES,0,0
-1821,cadiz,AVANT ADELANTE LOS VERDES,0,0
-1822,cordoba,AVANT ADELANTE LOS VERDES,0,0
-1823,granada,AVANT ADELANTE LOS VERDES,0,0
-1824,huelva,AVANT ADELANTE LOS VERDES,0,0
-1825,jaen,AVANT ADELANTE LOS VERDES,0,0
-1826,malaga,AVANT ADELANTE LOS VERDES,0,0
-1827,sevilla,AVANT ADELANTE LOS VERDES,0,0
-1828,huesca,AVANT ADELANTE LOS VERDES,0,0
-1829,teruel,AVANT ADELANTE LOS VERDES,0,0
-1830,zaragoza,AVANT ADELANTE LOS VERDES,0,0
-1831,asturias,AVANT ADELANTE LOS VERDES,0,0
-1832,illesbalears,AVANT ADELANTE LOS VERDES,0,0
-1833,laspalmas,AVANT ADELANTE LOS VERDES,0,0
-1834,santacruzdetenerife,AVANT ADELANTE LOS VERDES,0,0
-1835,cantabria,AVANT ADELANTE LOS VERDES,0,0
-1836,albacete,AVANT ADELANTE LOS VERDES,0,0
-1837,ciudadreal,AVANT ADELANTE LOS VERDES,0,0
-1838,cuenca,AVANT ADELANTE LOS VERDES,0,0
-1839,guadalajara,AVANT ADELANTE LOS VERDES,0,0
-1840,toledo,AVANT ADELANTE LOS VERDES,0,0
-1841,avila,AVANT ADELANTE LOS VERDES,0,0
-1842,burgos,AVANT ADELANTE LOS VERDES,0,0
-1843,leon,AVANT ADELANTE LOS VERDES,0,0
-1844,palencia,AVANT ADELANTE LOS VERDES,0,0
-1845,salamanca,AVANT ADELANTE LOS VERDES,0,0
-1846,segovia,AVANT ADELANTE LOS VERDES,0,0
-1847,soria,AVANT ADELANTE LOS VERDES,0,0
-1848,valladolid,AVANT ADELANTE LOS VERDES,0,0
-1849,zamora,AVANT ADELANTE LOS VERDES,0,0
-1850,barcelona,AVANT ADELANTE LOS VERDES,0,0
-1851,girona,AVANT ADELANTE LOS VERDES,0,0
-1852,lleida,AVANT ADELANTE LOS VERDES,0,0
-1853,tarragona,AVANT ADELANTE LOS VERDES,0,0
-1854,badajoz,AVANT ADELANTE LOS VERDES,0,0
-1855,caceres,AVANT ADELANTE LOS VERDES,0,0
-1856,acoruña,AVANT ADELANTE LOS VERDES,0,0
-1857,lugo,AVANT ADELANTE LOS VERDES,0,0
-1858,ourense,AVANT ADELANTE LOS VERDES,0,0
-1859,pontevedra,AVANT ADELANTE LOS VERDES,0,0
-1860,madrid,AVANT ADELANTE LOS VERDES,0,0
-1861,navarra,AVANT ADELANTE LOS VERDES,0,0
-1862,araba_alava,AVANT ADELANTE LOS VERDES,0,0
-1863,gipuzkoa,AVANT ADELANTE LOS VERDES,0,0
-1864,bizkaia,AVANT ADELANTE LOS VERDES,0,0
-1865,murcia,AVANT ADELANTE LOS VERDES,0,0
-1866,larioja,AVANT ADELANTE LOS VERDES,0,0
-1867,alicante_alacant,AVANT ADELANTE LOS VERDES,2337,0
-1868,castellon_castello,AVANT ADELANTE LOS VERDES,405,0
-1869,valencia_valencia,AVANT ADELANTE LOS VERDES,2674,0
-1870,ceuta,AVANT ADELANTE LOS VERDES,0,0
-1871,melilla,AVANT ADELANTE LOS VERDES,0,0
-1872,almeria,VERDES,0,0
-1873,cadiz,VERDES,0,0
-1874,cordoba,VERDES,0,0
-1875,granada,VERDES,0,0
-1876,huelva,VERDES,0,0
-1877,jaen,VERDES,0,0
-1878,malaga,VERDES,0,0
-1879,sevilla,VERDES,0,0
-1880,huesca,VERDES,0,0
-1881,teruel,VERDES,0,0
-1882,zaragoza,VERDES,0,0
-1883,asturias,VERDES,0,0
-1884,illesbalears,VERDES,0,0
-1885,laspalmas,VERDES,1864,0
-1886,santacruzdetenerife,VERDES,1322,0
-1887,cantabria,VERDES,0,0
-1888,albacete,VERDES,0,0
-1889,ciudadreal,VERDES,0,0
-1890,cuenca,VERDES,0,0
-1891,guadalajara,VERDES,0,0
-1892,toledo,VERDES,0,0
-1893,avila,VERDES,0,0
-1894,burgos,VERDES,0,0
-1895,leon,VERDES,0,0
-1896,palencia,VERDES,0,0
-1897,salamanca,VERDES,0,0
-1898,segovia,VERDES,0,0
-1899,soria,VERDES,0,0
-1900,valladolid,VERDES,0,0
-1901,zamora,VERDES,0,0
-1902,barcelona,VERDES,0,0
-1903,girona,VERDES,0,0
-1904,lleida,VERDES,0,0
-1905,tarragona,VERDES,0,0
-1906,badajoz,VERDES,0,0
-1907,caceres,VERDES,0,0
-1908,acoruña,VERDES,0,0
-1909,lugo,VERDES,0,0
-1910,ourense,VERDES,0,0
-1911,pontevedra,VERDES,0,0
-1912,madrid,VERDES,0,0
-1913,navarra,VERDES,0,0
-1914,araba_alava,VERDES,0,0
-1915,gipuzkoa,VERDES,0,0
-1916,bizkaia,VERDES,0,0
-1917,murcia,VERDES,0,0
-1918,larioja,VERDES,0,0
-1919,alicante_alacant,VERDES,0,0
-1920,castellon_castello,VERDES,0,0
-1921,valencia_valencia,VERDES,0,0
-1922,ceuta,VERDES,0,0
-1923,melilla,VERDES,101,0
-1924,almeria,PH,0,0
-1925,cadiz,PH,0,0
-1926,cordoba,PH,0,0
-1927,granada,PH,0,0
-1928,huelva,PH,0,0
-1929,jaen,PH,0,0
-1930,malaga,PH,0,0
-1931,sevilla,PH,0,0
-1932,huesca,PH,0,0
-1933,teruel,PH,0,0
-1934,zaragoza,PH,0,0
-1935,asturias,PH,366,0
-1936,illesbalears,PH,0,0
-1937,laspalmas,PH,276,0
-1938,santacruzdetenerife,PH,0,0
-1939,cantabria,PH,0,0
-1940,albacete,PH,0,0
-1941,ciudadreal,PH,0,0
-1942,cuenca,PH,0,0
-1943,guadalajara,PH,0,0
-1944,toledo,PH,0,0
-1945,avila,PH,0,0
-1946,burgos,PH,0,0
-1947,leon,PH,0,0
-1948,palencia,PH,0,0
-1949,salamanca,PH,0,0
-1950,segovia,PH,0,0
-1951,soria,PH,0,0
-1952,valladolid,PH,0,0
-1953,zamora,PH,0,0
-1954,barcelona,PH,0,0
-1955,girona,PH,0,0
-1956,lleida,PH,0,0
-1957,tarragona,PH,0,0
-1958,badajoz,PH,0,0
-1959,caceres,PH,0,0
-1960,acoruña,PH,0,0
-1961,lugo,PH,0,0
-1962,ourense,PH,0,0
-1963,pontevedra,PH,0,0
-1964,madrid,PH,2508,0
-1965,navarra,PH,0,0
-1966,araba_alava,PH,0,0
-1967,gipuzkoa,PH,0,0
-1968,bizkaia,PH,0,0
-1969,murcia,PH,0,0
-1970,larioja,PH,0,0
-1971,alicante_alacant,PH,0,0
-1972,castellon_castello,PH,0,0
-1973,valencia_valencia,PH,0,0
-1974,ceuta,PH,0,0
-1975,melilla,PH,0,0
-1976,almeria,I.Fem,0,0
-1977,cadiz,I.Fem,0,0
-1978,cordoba,I.Fem,0,0
-1979,granada,I.Fem,0,0
-1980,huelva,I.Fem,0,0
-1981,jaen,I.Fem,0,0
-1982,malaga,I.Fem,0,0
-1983,sevilla,I.Fem,0,0
-1984,huesca,I.Fem,0,0
-1985,teruel,I.Fem,0,0
-1986,zaragoza,I.Fem,0,0
-1987,asturias,I.Fem,0,0
-1988,illesbalears,I.Fem,0,0
-1989,laspalmas,I.Fem,0,0
-1990,santacruzdetenerife,I.Fem,0,0
-1991,cantabria,I.Fem,0,0
-1992,albacete,I.Fem,0,0
-1993,ciudadreal,I.Fem,0,0
-1994,cuenca,I.Fem,0,0
-1995,guadalajara,I.Fem,0,0
-1996,toledo,I.Fem,0,0
-1997,avila,I.Fem,0,0
-1998,burgos,I.Fem,0,0
-1999,leon,I.Fem,0,0
-2000,palencia,I.Fem,0,0
-2001,salamanca,I.Fem,0,0
-2002,segovia,I.Fem,0,0
-2003,soria,I.Fem,0,0
-2004,valladolid,I.Fem,0,0
-2005,zamora,I.Fem,0,0
-2006,barcelona,I.Fem,3005,0
-2007,girona,I.Fem,0,0
-2008,lleida,I.Fem,0,0
-2009,tarragona,I.Fem,0,0
-2010,badajoz,I.Fem,0,0
-2011,caceres,I.Fem,0,0
-2012,acoruña,I.Fem,0,0
-2013,lugo,I.Fem,0,0
-2014,ourense,I.Fem,0,0
-2015,pontevedra,I.Fem,0,0
-2016,madrid,I.Fem,0,0
-2017,navarra,I.Fem,0,0
-2018,araba_alava,I.Fem,0,0
-2019,gipuzkoa,I.Fem,0,0
-2020,bizkaia,I.Fem,0,0
-2021,murcia,I.Fem,0,0
-2022,larioja,I.Fem,0,0
-2023,alicante_alacant,I.Fem,0,0
-2024,castellon_castello,I.Fem,0,0
-2025,valencia_valencia,I.Fem,0,0
-2026,ceuta,I.Fem,0,0
-2027,melilla,I.Fem,0,0
-2028,almeria,UIG-SOM-CUIDES,0,0
-2029,cadiz,UIG-SOM-CUIDES,0,0
-2030,cordoba,UIG-SOM-CUIDES,0,0
-2031,granada,UIG-SOM-CUIDES,0,0
-2032,huelva,UIG-SOM-CUIDES,0,0
-2033,jaen,UIG-SOM-CUIDES,0,0
-2034,malaga,UIG-SOM-CUIDES,0,0
-2035,sevilla,UIG-SOM-CUIDES,0,0
-2036,huesca,UIG-SOM-CUIDES,0,0
-2037,teruel,UIG-SOM-CUIDES,0,0
-2038,zaragoza,UIG-SOM-CUIDES,0,0
-2039,asturias,UIG-SOM-CUIDES,0,0
-2040,illesbalears,UIG-SOM-CUIDES,0,0
-2041,laspalmas,UIG-SOM-CUIDES,0,0
-2042,santacruzdetenerife,UIG-SOM-CUIDES,0,0
-2043,cantabria,UIG-SOM-CUIDES,0,0
-2044,albacete,UIG-SOM-CUIDES,0,0
-2045,ciudadreal,UIG-SOM-CUIDES,0,0
-2046,cuenca,UIG-SOM-CUIDES,0,0
-2047,guadalajara,UIG-SOM-CUIDES,0,0
-2048,toledo,UIG-SOM-CUIDES,0,0
-2049,avila,UIG-SOM-CUIDES,0,0
-2050,burgos,UIG-SOM-CUIDES,0,0
-2051,leon,UIG-SOM-CUIDES,0,0
-2052,palencia,UIG-SOM-CUIDES,0,0
-2053,salamanca,UIG-SOM-CUIDES,0,0
-2054,segovia,UIG-SOM-CUIDES,0,0
-2055,soria,UIG-SOM-CUIDES,0,0
-2056,valladolid,UIG-SOM-CUIDES,0,0
-2057,zamora,UIG-SOM-CUIDES,0,0
-2058,barcelona,UIG-SOM-CUIDES,0,0
-2059,girona,UIG-SOM-CUIDES,0,0
-2060,lleida,UIG-SOM-CUIDES,0,0
-2061,tarragona,UIG-SOM-CUIDES,0,0
-2062,badajoz,UIG-SOM-CUIDES,0,0
-2063,caceres,UIG-SOM-CUIDES,0,0
-2064,acoruña,UIG-SOM-CUIDES,0,0
-2065,lugo,UIG-SOM-CUIDES,0,0
-2066,ourense,UIG-SOM-CUIDES,0,0
-2067,pontevedra,UIG-SOM-CUIDES,0,0
-2068,madrid,UIG-SOM-CUIDES,0,0
-2069,navarra,UIG-SOM-CUIDES,0,0
-2070,araba_alava,UIG-SOM-CUIDES,0,0
-2071,gipuzkoa,UIG-SOM-CUIDES,0,0
-2072,bizkaia,UIG-SOM-CUIDES,0,0
-2073,murcia,UIG-SOM-CUIDES,0,0
-2074,larioja,UIG-SOM-CUIDES,0,0
-2075,alicante_alacant,UIG-SOM-CUIDES,0,0
-2076,castellon_castello,UIG-SOM-CUIDES,0,0
-2077,valencia_valencia,UIG-SOM-CUIDES,2339,0
-2078,ceuta,UIG-SOM-CUIDES,0,0
-2079,melilla,UIG-SOM-CUIDES,0,0
-2080,almeria,SOMOS REGIÓN,0,0
-2081,cadiz,SOMOS REGIÓN,0,0
-2082,cordoba,SOMOS REGIÓN,0,0
-2083,granada,SOMOS REGIÓN,0,0
-2084,huelva,SOMOS REGIÓN,0,0
-2085,jaen,SOMOS REGIÓN,0,0
-2086,malaga,SOMOS REGIÓN,0,0
-2087,sevilla,SOMOS REGIÓN,0,0
-2088,huesca,SOMOS REGIÓN,0,0
-2089,teruel,SOMOS REGIÓN,0,0
-2090,zaragoza,SOMOS REGIÓN,0,0
-2091,asturias,SOMOS REGIÓN,0,0
-2092,illesbalears,SOMOS REGIÓN,0,0
-2093,laspalmas,SOMOS REGIÓN,0,0
-2094,santacruzdetenerife,SOMOS REGIÓN,0,0
-2095,cantabria,SOMOS REGIÓN,0,0
-2096,albacete,SOMOS REGIÓN,0,0
-2097,ciudadreal,SOMOS REGIÓN,0,0
-2098,cuenca,SOMOS REGIÓN,0,0
-2099,guadalajara,SOMOS REGIÓN,0,0
-2100,toledo,SOMOS REGIÓN,0,0
-2101,avila,SOMOS REGIÓN,0,0
-2102,burgos,SOMOS REGIÓN,0,0
-2103,leon,SOMOS REGIÓN,0,0
-2104,palencia,SOMOS REGIÓN,0,0
-2105,salamanca,SOMOS REGIÓN,0,0
-2106,segovia,SOMOS REGIÓN,0,0
-2107,soria,SOMOS REGIÓN,0,0
-2108,valladolid,SOMOS REGIÓN,0,0
-2109,zamora,SOMOS REGIÓN,0,0
-2110,barcelona,SOMOS REGIÓN,0,0
-2111,girona,SOMOS REGIÓN,0,0
-2112,lleida,SOMOS REGIÓN,0,0
-2113,tarragona,SOMOS REGIÓN,0,0
-2114,badajoz,SOMOS REGIÓN,0,0
-2115,caceres,SOMOS REGIÓN,0,0
-2116,acoruña,SOMOS REGIÓN,0,0
-2117,lugo,SOMOS REGIÓN,0,0
-2118,ourense,SOMOS REGIÓN,0,0
-2119,pontevedra,SOMOS REGIÓN,0,0
-2120,madrid,SOMOS REGIÓN,0,0
-2121,navarra,SOMOS REGIÓN,0,0
-2122,araba_alava,SOMOS REGIÓN,0,0
-2123,gipuzkoa,SOMOS REGIÓN,0,0
-2124,bizkaia,SOMOS REGIÓN,0,0
-2125,murcia,SOMOS REGIÓN,2328,0
-2126,larioja,SOMOS REGIÓN,0,0
-2127,alicante_alacant,SOMOS REGIÓN,0,0
-2128,castellon_castello,SOMOS REGIÓN,0,0
-2129,valencia_valencia,SOMOS REGIÓN,0,0
-2130,ceuta,SOMOS REGIÓN,0,0
-2131,melilla,SOMOS REGIÓN,0,0
-2132,almeria,IZQP,0,0
-2133,cadiz,IZQP,0,0
-2134,cordoba,IZQP,0,0
-2135,granada,IZQP,0,0
-2136,huelva,IZQP,0,0
-2137,jaen,IZQP,0,0
-2138,malaga,IZQP,0,0
-2139,sevilla,IZQP,0,0
-2140,huesca,IZQP,0,0
-2141,teruel,IZQP,0,0
-2142,zaragoza,IZQP,0,0
-2143,asturias,IZQP,0,0
-2144,illesbalears,IZQP,0,0
-2145,laspalmas,IZQP,0,0
-2146,santacruzdetenerife,IZQP,0,0
-2147,cantabria,IZQP,0,0
-2148,albacete,IZQP,0,0
-2149,ciudadreal,IZQP,0,0
-2150,cuenca,IZQP,0,0
-2151,guadalajara,IZQP,0,0
-2152,toledo,IZQP,0,0
-2153,avila,IZQP,0,0
-2154,burgos,IZQP,0,0
-2155,leon,IZQP,0,0
-2156,palencia,IZQP,0,0
-2157,salamanca,IZQP,0,0
-2158,segovia,IZQP,0,0
-2159,soria,IZQP,0,0
-2160,valladolid,IZQP,0,0
-2161,zamora,IZQP,0,0
-2162,barcelona,IZQP,1178,0
-2163,girona,IZQP,246,0
-2164,lleida,IZQP,124,0
-2165,tarragona,IZQP,343,0
-2166,badajoz,IZQP,0,0
-2167,caceres,IZQP,0,0
-2168,acoruña,IZQP,0,0
-2169,lugo,IZQP,0,0
-2170,ourense,IZQP,0,0
-2171,pontevedra,IZQP,0,0
-2172,madrid,IZQP,0,0
-2173,navarra,IZQP,0,0
-2174,araba_alava,IZQP,0,0
-2175,gipuzkoa,IZQP,0,0
-2176,bizkaia,IZQP,0,0
-2177,murcia,IZQP,434,0
-2178,larioja,IZQP,0,0
-2179,alicante_alacant,IZQP,0,0
-2180,castellon_castello,IZQP,0,0
-2181,valencia_valencia,IZQP,0,0
-2182,ceuta,IZQP,0,0
-2183,melilla,IZQP,0,0
-2184,almeria,AHORA CANARIAS,0,0
-2185,cadiz,AHORA CANARIAS,0,0
-2186,cordoba,AHORA CANARIAS,0,0
-2187,granada,AHORA CANARIAS,0,0
-2188,huelva,AHORA CANARIAS,0,0
-2189,jaen,AHORA CANARIAS,0,0
-2190,malaga,AHORA CANARIAS,0,0
-2191,sevilla,AHORA CANARIAS,0,0
-2192,huesca,AHORA CANARIAS,0,0
-2193,teruel,AHORA CANARIAS,0,0
-2194,zaragoza,AHORA CANARIAS,0,0
-2195,asturias,AHORA CANARIAS,0,0
-2196,illesbalears,AHORA CANARIAS,0,0
-2197,laspalmas,AHORA CANARIAS,1110,0
-2198,santacruzdetenerife,AHORA CANARIAS,922,0
-2199,cantabria,AHORA CANARIAS,0,0
-2200,albacete,AHORA CANARIAS,0,0
-2201,ciudadreal,AHORA CANARIAS,0,0
-2202,cuenca,AHORA CANARIAS,0,0
-2203,guadalajara,AHORA CANARIAS,0,0
-2204,toledo,AHORA CANARIAS,0,0
-2205,avila,AHORA CANARIAS,0,0
-2206,burgos,AHORA CANARIAS,0,0
-2207,leon,AHORA CANARIAS,0,0
-2208,palencia,AHORA CANARIAS,0,0
-2209,salamanca,AHORA CANARIAS,0,0
-2210,segovia,AHORA CANARIAS,0,0
-2211,soria,AHORA CANARIAS,0,0
-2212,valladolid,AHORA CANARIAS,0,0
-2213,zamora,AHORA CANARIAS,0,0
-2214,barcelona,AHORA CANARIAS,0,0
-2215,girona,AHORA CANARIAS,0,0
-2216,lleida,AHORA CANARIAS,0,0
-2217,tarragona,AHORA CANARIAS,0,0
-2218,badajoz,AHORA CANARIAS,0,0
-2219,caceres,AHORA CANARIAS,0,0
-2220,acoruña,AHORA CANARIAS,0,0
-2221,lugo,AHORA CANARIAS,0,0
-2222,ourense,AHORA CANARIAS,0,0
-2223,pontevedra,AHORA CANARIAS,0,0
-2224,madrid,AHORA CANARIAS,0,0
-2225,navarra,AHORA CANARIAS,0,0
-2226,araba_alava,AHORA CANARIAS,0,0
-2227,gipuzkoa,AHORA CANARIAS,0,0
-2228,bizkaia,AHORA CANARIAS,0,0
-2229,murcia,AHORA CANARIAS,0,0
-2230,larioja,AHORA CANARIAS,0,0
-2231,alicante_alacant,AHORA CANARIAS,0,0
-2232,castellon_castello,AHORA CANARIAS,0,0
-2233,valencia_valencia,AHORA CANARIAS,0,0
-2234,ceuta,AHORA CANARIAS,0,0
-2235,melilla,AHORA CANARIAS,0,0
-2236,almeria,CONTIGO,0,0
-2237,cadiz,CONTIGO,0,0
-2238,cordoba,CONTIGO,0,0
-2239,granada,CONTIGO,0,0
-2240,huelva,CONTIGO,0,0
-2241,jaen,CONTIGO,0,0
-2242,malaga,CONTIGO,0,0
-2243,sevilla,CONTIGO,0,0
-2244,huesca,CONTIGO,0,0
-2245,teruel,CONTIGO,0,0
-2246,zaragoza,CONTIGO,0,0
-2247,asturias,CONTIGO,0,0
-2248,illesbalears,CONTIGO,0,0
-2249,laspalmas,CONTIGO,358,0
-2250,santacruzdetenerife,CONTIGO,236,0
-2251,cantabria,CONTIGO,0,0
-2252,albacete,CONTIGO,0,0
-2253,ciudadreal,CONTIGO,0,0
-2254,cuenca,CONTIGO,0,0
-2255,guadalajara,CONTIGO,0,0
-2256,toledo,CONTIGO,0,0
-2257,avila,CONTIGO,0,0
-2258,burgos,CONTIGO,0,0
-2259,leon,CONTIGO,0,0
-2260,palencia,CONTIGO,0,0
-2261,salamanca,CONTIGO,229,0
-2262,segovia,CONTIGO,0,0
-2263,soria,CONTIGO,0,0
-2264,valladolid,CONTIGO,0,0
-2265,zamora,CONTIGO,0,0
-2266,barcelona,CONTIGO,0,0
-2267,girona,CONTIGO,0,0
-2268,lleida,CONTIGO,0,0
-2269,tarragona,CONTIGO,0,0
-2270,badajoz,CONTIGO,0,0
-2271,caceres,CONTIGO,0,0
-2272,acoruña,CONTIGO,0,0
-2273,lugo,CONTIGO,0,0
-2274,ourense,CONTIGO,0,0
-2275,pontevedra,CONTIGO,0,0
-2276,madrid,CONTIGO,0,0
-2277,navarra,CONTIGO,0,0
-2278,araba_alava,CONTIGO,0,0
-2279,gipuzkoa,CONTIGO,0,0
-2280,bizkaia,CONTIGO,0,0
-2281,murcia,CONTIGO,317,0
-2282,larioja,CONTIGO,0,0
-2283,alicante_alacant,CONTIGO,0,0
-2284,castellon_castello,CONTIGO,0,0
-2285,valencia_valencia,CONTIGO,875,0
-2286,ceuta,CONTIGO,0,0
-2287,melilla,CONTIGO,0,0
-2288,almeria,CHA,0,0
-2289,cadiz,CHA,0,0
-2290,cordoba,CHA,0,0
-2291,granada,CHA,0,0
-2292,huelva,CHA,0,0
-2293,jaen,CHA,0,0
-2294,malaga,CHA,0,0
-2295,sevilla,CHA,0,0
-2296,huesca,CHA,2000,0
-2297,teruel,CHA,0,0
-2298,zaragoza,CHA,0,0
-2299,asturias,CHA,0,0
-2300,illesbalears,CHA,0,0
-2301,laspalmas,CHA,0,0
-2302,santacruzdetenerife,CHA,0,0
-2303,cantabria,CHA,0,0
-2304,albacete,CHA,0,0
-2305,ciudadreal,CHA,0,0
-2306,cuenca,CHA,0,0
-2307,guadalajara,CHA,0,0
-2308,toledo,CHA,0,0
-2309,avila,CHA,0,0
-2310,burgos,CHA,0,0
-2311,leon,CHA,0,0
-2312,palencia,CHA,0,0
-2313,salamanca,CHA,0,0
-2314,segovia,CHA,0,0
-2315,soria,CHA,0,0
-2316,valladolid,CHA,0,0
-2317,zamora,CHA,0,0
-2318,barcelona,CHA,0,0
-2319,girona,CHA,0,0
-2320,lleida,CHA,0,0
-2321,tarragona,CHA,0,0
-2322,badajoz,CHA,0,0
-2323,caceres,CHA,0,0
-2324,acoruña,CHA,0,0
-2325,lugo,CHA,0,0
-2326,ourense,CHA,0,0
-2327,pontevedra,CHA,0,0
-2328,madrid,CHA,0,0
-2329,navarra,CHA,0,0
-2330,araba_alava,CHA,0,0
-2331,gipuzkoa,CHA,0,0
-2332,bizkaia,CHA,0,0
-2333,murcia,CHA,0,0
-2334,larioja,CHA,0,0
-2335,alicante_alacant,CHA,0,0
-2336,castellon_castello,CHA,0,0
-2337,valencia_valencia,CHA,0,0
-2338,ceuta,CHA,0,0
-2339,melilla,CHA,0,0
-2340,almeria,PPSO,0,0
-2341,cadiz,PPSO,0,0
-2342,cordoba,PPSO,0,0
-2343,granada,PPSO,0,0
-2344,huelva,PPSO,0,0
-2345,jaen,PPSO,0,0
-2346,malaga,PPSO,0,0
-2347,sevilla,PPSO,0,0
-2348,huesca,PPSO,0,0
-2349,teruel,PPSO,0,0
-2350,zaragoza,PPSO,0,0
-2351,asturias,PPSO,0,0
-2352,illesbalears,PPSO,0,0
-2353,laspalmas,PPSO,0,0
-2354,santacruzdetenerife,PPSO,0,0
-2355,cantabria,PPSO,0,0
-2356,albacete,PPSO,0,0
-2357,ciudadreal,PPSO,0,0
-2358,cuenca,PPSO,0,0
-2359,guadalajara,PPSO,0,0
-2360,toledo,PPSO,0,0
-2361,avila,PPSO,0,0
-2362,burgos,PPSO,0,0
-2363,leon,PPSO,0,0
-2364,palencia,PPSO,0,0
-2365,salamanca,PPSO,0,0
-2366,segovia,PPSO,0,0
-2367,soria,PPSO,1466,0
-2368,valladolid,PPSO,0,0
-2369,zamora,PPSO,0,0
-2370,barcelona,PPSO,0,0
-2371,girona,PPSO,0,0
-2372,lleida,PPSO,0,0
-2373,tarragona,PPSO,0,0
-2374,badajoz,PPSO,0,0
-2375,caceres,PPSO,0,0
-2376,acoruña,PPSO,0,0
-2377,lugo,PPSO,0,0
-2378,ourense,PPSO,0,0
-2379,pontevedra,PPSO,0,0
-2380,madrid,PPSO,0,0
-2381,navarra,PPSO,0,0
-2382,araba_alava,PPSO,0,0
-2383,gipuzkoa,PPSO,0,0
-2384,bizkaia,PPSO,0,0
-2385,murcia,PPSO,0,0
-2386,larioja,PPSO,0,0
-2387,alicante_alacant,PPSO,0,0
-2388,castellon_castello,PPSO,0,0
-2389,valencia_valencia,PPSO,0,0
-2390,ceuta,PPSO,0,0
-2391,melilla,PPSO,0,0
-2392,almeria,EXTREMADURA UNIDA,0,0
-2393,cadiz,EXTREMADURA UNIDA,0,0
-2394,cordoba,EXTREMADURA UNIDA,0,0
-2395,granada,EXTREMADURA UNIDA,0,0
-2396,huelva,EXTREMADURA UNIDA,0,0
-2397,jaen,EXTREMADURA UNIDA,0,0
-2398,malaga,EXTREMADURA UNIDA,0,0
-2399,sevilla,EXTREMADURA UNIDA,0,0
-2400,huesca,EXTREMADURA UNIDA,0,0
-2401,teruel,EXTREMADURA UNIDA,0,0
-2402,zaragoza,EXTREMADURA UNIDA,0,0
-2403,asturias,EXTREMADURA UNIDA,0,0
-2404,illesbalears,EXTREMADURA UNIDA,0,0
-2405,laspalmas,EXTREMADURA UNIDA,0,0
-2406,santacruzdetenerife,EXTREMADURA UNIDA,0,0
-2407,cantabria,EXTREMADURA UNIDA,0,0
-2408,albacete,EXTREMADURA UNIDA,0,0
-2409,ciudadreal,EXTREMADURA UNIDA,0,0
-2410,cuenca,EXTREMADURA UNIDA,0,0
-2411,guadalajara,EXTREMADURA UNIDA,0,0
-2412,toledo,EXTREMADURA UNIDA,0,0
-2413,avila,EXTREMADURA UNIDA,0,0
-2414,burgos,EXTREMADURA UNIDA,0,0
-2415,leon,EXTREMADURA UNIDA,0,0
-2416,palencia,EXTREMADURA UNIDA,0,0
-2417,salamanca,EXTREMADURA UNIDA,0,0
-2418,segovia,EXTREMADURA UNIDA,0,0
-2419,soria,EXTREMADURA UNIDA,0,0
-2420,valladolid,EXTREMADURA UNIDA,0,0
-2421,zamora,EXTREMADURA UNIDA,0,0
-2422,barcelona,EXTREMADURA UNIDA,0,0
-2423,girona,EXTREMADURA UNIDA,0,0
-2424,lleida,EXTREMADURA UNIDA,0,0
-2425,tarragona,EXTREMADURA UNIDA,0,0
-2426,badajoz,EXTREMADURA UNIDA,0,0
-2427,caceres,EXTREMADURA UNIDA,1347,0
-2428,acoruña,EXTREMADURA UNIDA,0,0
-2429,lugo,EXTREMADURA UNIDA,0,0
-2430,ourense,EXTREMADURA UNIDA,0,0
-2431,pontevedra,EXTREMADURA UNIDA,0,0
-2432,madrid,EXTREMADURA UNIDA,0,0
-2433,navarra,EXTREMADURA UNIDA,0,0
-2434,araba_alava,EXTREMADURA UNIDA,0,0
-2435,gipuzkoa,EXTREMADURA UNIDA,0,0
-2436,bizkaia,EXTREMADURA UNIDA,0,0
-2437,murcia,EXTREMADURA UNIDA,0,0
-2438,larioja,EXTREMADURA UNIDA,0,0
-2439,alicante_alacant,EXTREMADURA UNIDA,0,0
-2440,castellon_castello,EXTREMADURA UNIDA,0,0
-2441,valencia_valencia,EXTREMADURA UNIDA,0,0
-2442,ceuta,EXTREMADURA UNIDA,0,0
-2443,melilla,EXTREMADURA UNIDA,0,0
-2444,almeria,PDSJE,0,0
-2445,cadiz,PDSJE,0,0
-2446,cordoba,PDSJE,0,0
-2447,granada,PDSJE,0,0
-2448,huelva,PDSJE,0,0
-2449,jaen,PDSJE,0,0
-2450,malaga,PDSJE,0,0
-2451,sevilla,PDSJE,0,0
-2452,huesca,PDSJE,0,0
-2453,teruel,PDSJE,0,0
-2454,zaragoza,PDSJE,0,0
-2455,asturias,PDSJE,0,0
-2456,illesbalears,PDSJE,0,0
-2457,laspalmas,PDSJE,713,0
-2458,santacruzdetenerife,PDSJE,0,0
-2459,cantabria,PDSJE,0,0
-2460,albacete,PDSJE,197,0
-2461,ciudadreal,PDSJE,0,0
-2462,cuenca,PDSJE,0,0
-2463,guadalajara,PDSJE,234,0
-2464,toledo,PDSJE,0,0
-2465,avila,PDSJE,0,0
-2466,burgos,PDSJE,0,0
-2467,leon,PDSJE,0,0
-2468,palencia,PDSJE,0,0
-2469,salamanca,PDSJE,0,0
-2470,segovia,PDSJE,115,0
-2471,soria,PDSJE,0,0
-2472,valladolid,PDSJE,0,0
-2473,zamora,PDSJE,0,0
-2474,barcelona,PDSJE,0,0
-2475,girona,PDSJE,0,0
-2476,lleida,PDSJE,0,0
-2477,tarragona,PDSJE,0,0
-2478,badajoz,PDSJE,0,0
-2479,caceres,PDSJE,0,0
-2480,acoruña,PDSJE,0,0
-2481,lugo,PDSJE,0,0
-2482,ourense,PDSJE,0,0
-2483,pontevedra,PDSJE,0,0
-2484,madrid,PDSJE,0,0
-2485,navarra,PDSJE,0,0
-2486,araba_alava,PDSJE,0,0
-2487,gipuzkoa,PDSJE,0,0
-2488,bizkaia,PDSJE,0,0
-2489,murcia,PDSJE,0,0
-2490,larioja,PDSJE,0,0
-2491,alicante_alacant,PDSJE,0,0
-2492,castellon_castello,PDSJE,0,0
-2493,valencia_valencia,PDSJE,0,0
-2494,ceuta,PDSJE,0,0
-2495,melilla,PDSJE,0,0
-2496,almeria,P-LIB,0,0
-2497,cadiz,P-LIB,0,0
-2498,cordoba,P-LIB,0,0
-2499,granada,P-LIB,0,0
-2500,huelva,P-LIB,0,0
-2501,jaen,P-LIB,0,0
-2502,malaga,P-LIB,0,0
-2503,sevilla,P-LIB,0,0
-2504,huesca,P-LIB,0,0
-2505,teruel,P-LIB,0,0
-2506,zaragoza,P-LIB,0,0
-2507,asturias,P-LIB,0,0
-2508,illesbalears,P-LIB,372,0
-2509,laspalmas,P-LIB,0,0
-2510,santacruzdetenerife,P-LIB,0,0
-2511,cantabria,P-LIB,126,0
-2512,albacete,P-LIB,0,0
-2513,ciudadreal,P-LIB,0,0
-2514,cuenca,P-LIB,47,0
-2515,guadalajara,P-LIB,0,0
-2516,toledo,P-LIB,0,0
-2517,avila,P-LIB,32,0
-2518,burgos,P-LIB,0,0
-2519,leon,P-LIB,0,0
-2520,palencia,P-LIB,0,0
-2521,salamanca,P-LIB,0,0
-2522,segovia,P-LIB,38,0
-2523,soria,P-LIB,0,0
-2524,valladolid,P-LIB,0,0
-2525,zamora,P-LIB,0,0
-2526,barcelona,P-LIB,0,0
-2527,girona,P-LIB,0,0
-2528,lleida,P-LIB,0,0
-2529,tarragona,P-LIB,0,0
-2530,badajoz,P-LIB,0,0
-2531,caceres,P-LIB,0,0
-2532,acoruña,P-LIB,0,0
-2533,lugo,P-LIB,0,0
-2534,ourense,P-LIB,0,0
-2535,pontevedra,P-LIB,0,0
-2536,madrid,P-LIB,0,0
-2537,navarra,P-LIB,0,0
-2538,araba_alava,P-LIB,0,0
-2539,gipuzkoa,P-LIB,0,0
-2540,bizkaia,P-LIB,0,0
-2541,murcia,P-LIB,0,0
-2542,larioja,P-LIB,0,0
-2543,alicante_alacant,P-LIB,556,0
-2544,castellon_castello,P-LIB,0,0
-2545,valencia_valencia,P-LIB,0,0
-2546,ceuta,P-LIB,0,0
-2547,melilla,P-LIB,0,0
-2548,almeria,MAS,0,0
-2549,cadiz,MAS,0,0
-2550,cordoba,MAS,0,0
-2551,granada,MAS,0,0
-2552,huelva,MAS,0,0
-2553,jaen,MAS,0,0
-2554,malaga,MAS,0,0
-2555,sevilla,MAS,0,0
-2556,huesca,MAS,0,0
-2557,teruel,MAS,0,0
-2558,zaragoza,MAS,1068,0
-2559,asturias,MAS,0,0
-2560,illesbalears,MAS,0,0
-2561,laspalmas,MAS,0,0
-2562,santacruzdetenerife,MAS,0,0
-2563,cantabria,MAS,0,0
-2564,albacete,MAS,0,0
-2565,ciudadreal,MAS,0,0
-2566,cuenca,MAS,0,0
-2567,guadalajara,MAS,0,0
-2568,toledo,MAS,0,0
-2569,avila,MAS,0,0
-2570,burgos,MAS,0,0
-2571,leon,MAS,0,0
-2572,palencia,MAS,0,0
-2573,salamanca,MAS,0,0
-2574,segovia,MAS,0,0
-2575,soria,MAS,0,0
-2576,valladolid,MAS,0,0
-2577,zamora,MAS,0,0
-2578,barcelona,MAS,0,0
-2579,girona,MAS,0,0
-2580,lleida,MAS,0,0
-2581,tarragona,MAS,0,0
-2582,badajoz,MAS,0,0
-2583,caceres,MAS,0,0
-2584,acoruña,MAS,0,0
-2585,lugo,MAS,0,0
-2586,ourense,MAS,0,0
-2587,pontevedra,MAS,0,0
-2588,madrid,MAS,0,0
-2589,navarra,MAS,0,0
-2590,araba_alava,MAS,0,0
-2591,gipuzkoa,MAS,0,0
-2592,bizkaia,MAS,0,0
-2593,murcia,MAS,0,0
-2594,larioja,MAS,0,0
-2595,alicante_alacant,MAS,0,0
-2596,castellon_castello,MAS,0,0
-2597,valencia_valencia,MAS,0,0
-2598,ceuta,MAS,0,0
-2599,melilla,MAS,0,0
-2600,almeria,UNIDOS SÍ-ACPS-Def,0,0
-2601,cadiz,UNIDOS SÍ-ACPS-Def,0,0
-2602,cordoba,UNIDOS SÍ-ACPS-Def,0,0
-2603,granada,UNIDOS SÍ-ACPS-Def,0,0
-2604,huelva,UNIDOS SÍ-ACPS-Def,0,0
-2605,jaen,UNIDOS SÍ-ACPS-Def,0,0
-2606,malaga,UNIDOS SÍ-ACPS-Def,0,0
-2607,sevilla,UNIDOS SÍ-ACPS-Def,0,0
-2608,huesca,UNIDOS SÍ-ACPS-Def,0,0
-2609,teruel,UNIDOS SÍ-ACPS-Def,0,0
-2610,zaragoza,UNIDOS SÍ-ACPS-Def,0,0
-2611,asturias,UNIDOS SÍ-ACPS-Def,0,0
-2612,illesbalears,UNIDOS SÍ-ACPS-Def,0,0
-2613,laspalmas,UNIDOS SÍ-ACPS-Def,0,0
-2614,santacruzdetenerife,UNIDOS SÍ-ACPS-Def,0,0
-2615,cantabria,UNIDOS SÍ-ACPS-Def,0,0
-2616,albacete,UNIDOS SÍ-ACPS-Def,0,0
-2617,ciudadreal,UNIDOS SÍ-ACPS-Def,0,0
-2618,cuenca,UNIDOS SÍ-ACPS-Def,0,0
-2619,guadalajara,UNIDOS SÍ-ACPS-Def,0,0
-2620,toledo,UNIDOS SÍ-ACPS-Def,0,0
-2621,avila,UNIDOS SÍ-ACPS-Def,0,0
-2622,burgos,UNIDOS SÍ-ACPS-Def,0,0
-2623,leon,UNIDOS SÍ-ACPS-Def,0,0
-2624,palencia,UNIDOS SÍ-ACPS-Def,0,0
-2625,salamanca,UNIDOS SÍ-ACPS-Def,0,0
-2626,segovia,UNIDOS SÍ-ACPS-Def,0,0
-2627,soria,UNIDOS SÍ-ACPS-Def,0,0
-2628,valladolid,UNIDOS SÍ-ACPS-Def,0,0
-2629,zamora,UNIDOS SÍ-ACPS-Def,0,0
-2630,barcelona,UNIDOS SÍ-ACPS-Def,0,0
-2631,girona,UNIDOS SÍ-ACPS-Def,0,0
-2632,lleida,UNIDOS SÍ-ACPS-Def,0,0
-2633,tarragona,UNIDOS SÍ-ACPS-Def,0,0
-2634,badajoz,UNIDOS SÍ-ACPS-Def,0,0
-2635,caceres,UNIDOS SÍ-ACPS-Def,0,0
-2636,acoruña,UNIDOS SÍ-ACPS-Def,0,0
-2637,lugo,UNIDOS SÍ-ACPS-Def,0,0
-2638,ourense,UNIDOS SÍ-ACPS-Def,0,0
-2639,pontevedra,UNIDOS SÍ-ACPS-Def,0,0
-2640,madrid,UNIDOS SÍ-ACPS-Def,0,0
-2641,navarra,UNIDOS SÍ-ACPS-Def,0,0
-2642,araba_alava,UNIDOS SÍ-ACPS-Def,0,0
-2643,gipuzkoa,UNIDOS SÍ-ACPS-Def,0,0
-2644,bizkaia,UNIDOS SÍ-ACPS-Def,0,0
-2645,murcia,UNIDOS SÍ-ACPS-Def,0,0
-2646,larioja,UNIDOS SÍ-ACPS-Def,0,0
-2647,alicante_alacant,UNIDOS SÍ-ACPS-Def,0,0
-2648,castellon_castello,UNIDOS SÍ-ACPS-Def,0,0
-2649,valencia_valencia,UNIDOS SÍ-ACPS-Def,1067,0
-2650,ceuta,UNIDOS SÍ-ACPS-Def,0,0
-2651,melilla,UNIDOS SÍ-ACPS-Def,0,0
-2652,almeria,PREPAL,0,0
-2653,cadiz,PREPAL,0,0
-2654,cordoba,PREPAL,0,0
-2655,granada,PREPAL,0,0
-2656,huelva,PREPAL,0,0
-2657,jaen,PREPAL,0,0
-2658,malaga,PREPAL,0,0
-2659,sevilla,PREPAL,0,0
-2660,huesca,PREPAL,0,0
-2661,teruel,PREPAL,0,0
-2662,zaragoza,PREPAL,0,0
-2663,asturias,PREPAL,0,0
-2664,illesbalears,PREPAL,0,0
-2665,laspalmas,PREPAL,0,0
-2666,santacruzdetenerife,PREPAL,0,0
-2667,cantabria,PREPAL,0,0
-2668,albacete,PREPAL,0,0
-2669,ciudadreal,PREPAL,0,0
-2670,cuenca,PREPAL,0,0
-2671,guadalajara,PREPAL,0,0
-2672,toledo,PREPAL,0,0
-2673,avila,PREPAL,0,0
-2674,burgos,PREPAL,0,0
-2675,leon,PREPAL,341,0
-2676,palencia,PREPAL,0,0
-2677,salamanca,PREPAL,322,0
-2678,segovia,PREPAL,0,0
-2679,soria,PREPAL,0,0
-2680,valladolid,PREPAL,0,0
-2681,zamora,PREPAL,278,0
-2682,barcelona,PREPAL,0,0
-2683,girona,PREPAL,0,0
-2684,lleida,PREPAL,0,0
-2685,tarragona,PREPAL,0,0
-2686,badajoz,PREPAL,0,0
-2687,caceres,PREPAL,0,0
-2688,acoruña,PREPAL,0,0
-2689,lugo,PREPAL,0,0
-2690,ourense,PREPAL,0,0
-2691,pontevedra,PREPAL,0,0
-2692,madrid,PREPAL,0,0
-2693,navarra,PREPAL,0,0
-2694,araba_alava,PREPAL,0,0
-2695,gipuzkoa,PREPAL,0,0
-2696,bizkaia,PREPAL,0,0
-2697,murcia,PREPAL,0,0
-2698,larioja,PREPAL,0,0
-2699,alicante_alacant,PREPAL,0,0
-2700,castellon_castello,PREPAL,0,0
-2701,valencia_valencia,PREPAL,0,0
-2702,ceuta,PREPAL,0,0
-2703,melilla,PREPAL,0,0
-2704,almeria,ANDECHA,0,0
-2705,cadiz,ANDECHA,0,0
-2706,cordoba,ANDECHA,0,0
-2707,granada,ANDECHA,0,0
-2708,huelva,ANDECHA,0,0
-2709,jaen,ANDECHA,0,0
-2710,malaga,ANDECHA,0,0
-2711,sevilla,ANDECHA,0,0
-2712,huesca,ANDECHA,0,0
-2713,teruel,ANDECHA,0,0
-2714,zaragoza,ANDECHA,0,0
-2715,asturias,ANDECHA,887,0
-2716,illesbalears,ANDECHA,0,0
-2717,laspalmas,ANDECHA,0,0
-2718,santacruzdetenerife,ANDECHA,0,0
-2719,cantabria,ANDECHA,0,0
-2720,albacete,ANDECHA,0,0
-2721,ciudadreal,ANDECHA,0,0
-2722,cuenca,ANDECHA,0,0
-2723,guadalajara,ANDECHA,0,0
-2724,toledo,ANDECHA,0,0
-2725,avila,ANDECHA,0,0
-2726,burgos,ANDECHA,0,0
-2727,leon,ANDECHA,0,0
-2728,palencia,ANDECHA,0,0
-2729,salamanca,ANDECHA,0,0
-2730,segovia,ANDECHA,0,0
-2731,soria,ANDECHA,0,0
-2732,valladolid,ANDECHA,0,0
-2733,zamora,ANDECHA,0,0
-2734,barcelona,ANDECHA,0,0
-2735,girona,ANDECHA,0,0
-2736,lleida,ANDECHA,0,0
-2737,tarragona,ANDECHA,0,0
-2738,badajoz,ANDECHA,0,0
-2739,caceres,ANDECHA,0,0
-2740,acoruña,ANDECHA,0,0
-2741,lugo,ANDECHA,0,0
-2742,ourense,ANDECHA,0,0
-2743,pontevedra,ANDECHA,0,0
-2744,madrid,ANDECHA,0,0
-2745,navarra,ANDECHA,0,0
-2746,araba_alava,ANDECHA,0,0
-2747,gipuzkoa,ANDECHA,0,0
-2748,bizkaia,ANDECHA,0,0
-2749,murcia,ANDECHA,0,0
-2750,larioja,ANDECHA,0,0
-2751,alicante_alacant,ANDECHA,0,0
-2752,castellon_castello,ANDECHA,0,0
-2753,valencia_valencia,ANDECHA,0,0
-2754,ceuta,ANDECHA,0,0
-2755,melilla,ANDECHA,0,0
-2756,almeria,MDyC,0,0
-2757,cadiz,MDyC,0,0
-2758,cordoba,MDyC,0,0
-2759,granada,MDyC,0,0
-2760,huelva,MDyC,0,0
-2761,jaen,MDyC,0,0
-2762,malaga,MDyC,0,0
-2763,sevilla,MDyC,0,0
-2764,huesca,MDyC,0,0
-2765,teruel,MDyC,0,0
-2766,zaragoza,MDyC,0,0
-2767,asturias,MDyC,0,0
-2768,illesbalears,MDyC,0,0
-2769,laspalmas,MDyC,0,0
-2770,santacruzdetenerife,MDyC,0,0
-2771,cantabria,MDyC,0,0
-2772,albacete,MDyC,0,0
-2773,ciudadreal,MDyC,0,0
-2774,cuenca,MDyC,0,0
-2775,guadalajara,MDyC,0,0
-2776,toledo,MDyC,0,0
-2777,avila,MDyC,0,0
-2778,burgos,MDyC,0,0
-2779,leon,MDyC,0,0
-2780,palencia,MDyC,0,0
-2781,salamanca,MDyC,0,0
-2782,segovia,MDyC,0,0
-2783,soria,MDyC,0,0
-2784,valladolid,MDyC,0,0
-2785,zamora,MDyC,0,0
-2786,barcelona,MDyC,0,0
-2787,girona,MDyC,0,0
-2788,lleida,MDyC,0,0
-2789,tarragona,MDyC,0,0
-2790,badajoz,MDyC,0,0
-2791,caceres,MDyC,0,0
-2792,acoruña,MDyC,0,0
-2793,lugo,MDyC,0,0
-2794,ourense,MDyC,0,0
-2795,pontevedra,MDyC,0,0
-2796,madrid,MDyC,0,0
-2797,navarra,MDyC,0,0
-2798,araba_alava,MDyC,0,0
-2799,gipuzkoa,MDyC,0,0
-2800,bizkaia,MDyC,0,0
-2801,murcia,MDyC,0,0
-2802,larioja,MDyC,0,0
-2803,alicante_alacant,MDyC,0,0
-2804,castellon_castello,MDyC,0,0
-2805,valencia_valencia,MDyC,0,0
-2806,ceuta,MDyC,819,0
-2807,melilla,MDyC,0,0
-2808,almeria,PYLN,0,0
-2809,cadiz,PYLN,0,0
-2810,cordoba,PYLN,0,0
-2811,granada,PYLN,0,0
-2812,huelva,PYLN,0,0
-2813,jaen,PYLN,0,0
-2814,malaga,PYLN,0,0
-2815,sevilla,PYLN,0,0
-2816,huesca,PYLN,73,0
-2817,teruel,PYLN,25,0
-2818,zaragoza,PYLN,532,0
-2819,asturias,PYLN,0,0
-2820,illesbalears,PYLN,0,0
-2821,laspalmas,PYLN,0,0
-2822,santacruzdetenerife,PYLN,0,0
-2823,cantabria,PYLN,0,0
-2824,albacete,PYLN,0,0
-2825,ciudadreal,PYLN,0,0
-2826,cuenca,PYLN,0,0
-2827,guadalajara,PYLN,0,0
-2828,toledo,PYLN,0,0
-2829,avila,PYLN,0,0
-2830,burgos,PYLN,0,0
-2831,leon,PYLN,0,0
-2832,palencia,PYLN,0,0
-2833,salamanca,PYLN,0,0
-2834,segovia,PYLN,0,0
-2835,soria,PYLN,0,0
-2836,valladolid,PYLN,0,0
-2837,zamora,PYLN,0,0
-2838,barcelona,PYLN,0,0
-2839,girona,PYLN,0,0
-2840,lleida,PYLN,0,0
-2841,tarragona,PYLN,0,0
-2842,badajoz,PYLN,0,0
-2843,caceres,PYLN,0,0
-2844,acoruña,PYLN,0,0
-2845,lugo,PYLN,0,0
-2846,ourense,PYLN,0,0
-2847,pontevedra,PYLN,0,0
-2848,madrid,PYLN,0,0
-2849,navarra,PYLN,0,0
-2850,araba_alava,PYLN,0,0
-2851,gipuzkoa,PYLN,0,0
-2852,bizkaia,PYLN,0,0
-2853,murcia,PYLN,0,0
-2854,larioja,PYLN,0,0
-2855,alicante_alacant,PYLN,0,0
-2856,castellon_castello,PYLN,0,0
-2857,valencia_valencia,PYLN,0,0
-2858,ceuta,PYLN,0,0
-2859,melilla,PYLN,0,0
-2860,almeria,FE de las JONS,0,0
-2861,cadiz,FE de las JONS,0,0
-2862,cordoba,FE de las JONS,0,0
-2863,granada,FE de las JONS,0,0
-2864,huelva,FE de las JONS,0,0
-2865,jaen,FE de las JONS,0,0
-2866,malaga,FE de las JONS,0,0
-2867,sevilla,FE de las JONS,0,0
-2868,huesca,FE de las JONS,0,0
-2869,teruel,FE de las JONS,0,0
-2870,zaragoza,FE de las JONS,0,0
-2871,asturias,FE de las JONS,0,0
-2872,illesbalears,FE de las JONS,0,0
-2873,laspalmas,FE de las JONS,0,0
-2874,santacruzdetenerife,FE de las JONS,0,0
-2875,cantabria,FE de las JONS,0,0
-2876,albacete,FE de las JONS,0,0
-2877,ciudadreal,FE de las JONS,0,0
-2878,cuenca,FE de las JONS,0,0
-2879,guadalajara,FE de las JONS,188,0
-2880,toledo,FE de las JONS,0,0
-2881,avila,FE de las JONS,61,0
-2882,burgos,FE de las JONS,0,0
-2883,leon,FE de las JONS,0,0
-2884,palencia,FE de las JONS,79,0
-2885,salamanca,FE de las JONS,0,0
-2886,segovia,FE de las JONS,0,0
-2887,soria,FE de las JONS,0,0
-2888,valladolid,FE de las JONS,151,0
-2889,zamora,FE de las JONS,0,0
-2890,barcelona,FE de las JONS,0,0
-2891,girona,FE de las JONS,0,0
-2892,lleida,FE de las JONS,0,0
-2893,tarragona,FE de las JONS,0,0
-2894,badajoz,FE de las JONS,0,0
-2895,caceres,FE de las JONS,0,0
-2896,acoruña,FE de las JONS,0,0
-2897,lugo,FE de las JONS,0,0
-2898,ourense,FE de las JONS,0,0
-2899,pontevedra,FE de las JONS,0,0
-2900,madrid,FE de las JONS,0,0
-2901,navarra,FE de las JONS,0,0
-2902,araba_alava,FE de las JONS,0,0
-2903,gipuzkoa,FE de las JONS,0,0
-2904,bizkaia,FE de las JONS,0,0
-2905,murcia,FE de las JONS,0,0
-2906,larioja,FE de las JONS,0,0
-2907,alicante_alacant,FE de las JONS,0,0
-2908,castellon_castello,FE de las JONS,137,0
-2909,valencia_valencia,FE de las JONS,0,0
-2910,ceuta,FE de las JONS,0,0
-2911,melilla,FE de las JONS,0,0
-2912,almeria,AUNACV,0,0
-2913,cadiz,AUNACV,0,0
-2914,cordoba,AUNACV,0,0
-2915,granada,AUNACV,0,0
-2916,huelva,AUNACV,0,0
-2917,jaen,AUNACV,0,0
-2918,malaga,AUNACV,0,0
-2919,sevilla,AUNACV,0,0
-2920,huesca,AUNACV,0,0
-2921,teruel,AUNACV,13,0
-2922,zaragoza,AUNACV,0,0
-2923,asturias,AUNACV,0,0
-2924,illesbalears,AUNACV,0,0
-2925,laspalmas,AUNACV,0,0
-2926,santacruzdetenerife,AUNACV,0,0
-2927,cantabria,AUNACV,0,0
-2928,albacete,AUNACV,0,0
-2929,ciudadreal,AUNACV,0,0
-2930,cuenca,AUNACV,0,0
-2931,guadalajara,AUNACV,0,0
-2932,toledo,AUNACV,0,0
-2933,avila,AUNACV,0,0
-2934,burgos,AUNACV,0,0
-2935,leon,AUNACV,0,0
-2936,palencia,AUNACV,0,0
-2937,salamanca,AUNACV,0,0
-2938,segovia,AUNACV,0,0
-2939,soria,AUNACV,0,0
-2940,valladolid,AUNACV,0,0
-2941,zamora,AUNACV,0,0
-2942,barcelona,AUNACV,0,0
-2943,girona,AUNACV,0,0
-2944,lleida,AUNACV,0,0
-2945,tarragona,AUNACV,0,0
-2946,badajoz,AUNACV,0,0
-2947,caceres,AUNACV,0,0
-2948,acoruña,AUNACV,0,0
-2949,lugo,AUNACV,0,0
-2950,ourense,AUNACV,0,0
-2951,pontevedra,AUNACV,0,0
-2952,madrid,AUNACV,0,0
-2953,navarra,AUNACV,0,0
-2954,araba_alava,AUNACV,0,0
-2955,gipuzkoa,AUNACV,0,0
-2956,bizkaia,AUNACV,0,0
-2957,murcia,AUNACV,0,0
-2958,larioja,AUNACV,0,0
-2959,alicante_alacant,AUNACV,0,0
-2960,castellon_castello,AUNACV,104,0
-2961,valencia_valencia,AUNACV,468,0
-2962,ceuta,AUNACV,0,0
-2963,melilla,AUNACV,0,0
-2964,almeria,UNIÓN REGIONALISTA,0,0
-2965,cadiz,UNIÓN REGIONALISTA,0,0
-2966,cordoba,UNIÓN REGIONALISTA,0,0
-2967,granada,UNIÓN REGIONALISTA,0,0
-2968,huelva,UNIÓN REGIONALISTA,0,0
-2969,jaen,UNIÓN REGIONALISTA,0,0
-2970,malaga,UNIÓN REGIONALISTA,0,0
-2971,sevilla,UNIÓN REGIONALISTA,0,0
-2972,huesca,UNIÓN REGIONALISTA,0,0
-2973,teruel,UNIÓN REGIONALISTA,0,0
-2974,zaragoza,UNIÓN REGIONALISTA,0,0
-2975,asturias,UNIÓN REGIONALISTA,0,0
-2976,illesbalears,UNIÓN REGIONALISTA,0,0
-2977,laspalmas,UNIÓN REGIONALISTA,0,0
-2978,santacruzdetenerife,UNIÓN REGIONALISTA,0,0
-2979,cantabria,UNIÓN REGIONALISTA,0,0
-2980,albacete,UNIÓN REGIONALISTA,0,0
-2981,ciudadreal,UNIÓN REGIONALISTA,0,0
-2982,cuenca,UNIÓN REGIONALISTA,0,0
-2983,guadalajara,UNIÓN REGIONALISTA,0,0
-2984,toledo,UNIÓN REGIONALISTA,0,0
-2985,avila,UNIÓN REGIONALISTA,0,0
-2986,burgos,UNIÓN REGIONALISTA,0,0
-2987,leon,UNIÓN REGIONALISTA,0,0
-2988,palencia,UNIÓN REGIONALISTA,0,0
-2989,salamanca,UNIÓN REGIONALISTA,0,0
-2990,segovia,UNIÓN REGIONALISTA,0,0
-2991,soria,UNIÓN REGIONALISTA,0,0
-2992,valladolid,UNIÓN REGIONALISTA,530,0
-2993,zamora,UNIÓN REGIONALISTA,0,0
-2994,barcelona,UNIÓN REGIONALISTA,0,0
-2995,girona,UNIÓN REGIONALISTA,0,0
-2996,lleida,UNIÓN REGIONALISTA,0,0
-2997,tarragona,UNIÓN REGIONALISTA,0,0
-2998,badajoz,UNIÓN REGIONALISTA,0,0
-2999,caceres,UNIÓN REGIONALISTA,0,0
-3000,acoruña,UNIÓN REGIONALISTA,0,0
-3001,lugo,UNIÓN REGIONALISTA,0,0
-3002,ourense,UNIÓN REGIONALISTA,0,0
-3003,pontevedra,UNIÓN REGIONALISTA,0,0
-3004,madrid,UNIÓN REGIONALISTA,0,0
-3005,navarra,UNIÓN REGIONALISTA,0,0
-3006,araba_alava,UNIÓN REGIONALISTA,0,0
-3007,gipuzkoa,UNIÓN REGIONALISTA,0,0
-3008,bizkaia,UNIÓN REGIONALISTA,0,0
-3009,murcia,UNIÓN REGIONALISTA,0,0
-3010,larioja,UNIÓN REGIONALISTA,0,0
-3011,alicante_alacant,UNIÓN REGIONALISTA,0,0
-3012,castellon_castello,UNIÓN REGIONALISTA,0,0
-3013,valencia_valencia,UNIÓN REGIONALISTA,0,0
-3014,ceuta,UNIÓN REGIONALISTA,0,0
-3015,melilla,UNIÓN REGIONALISTA,0,0
-3016,almeria,Canda,0,0
-3017,cadiz,Canda,0,0
-3018,cordoba,Canda,0,0
-3019,granada,Canda,520,0
-3020,huelva,Canda,0,0
-3021,jaen,Canda,0,0
-3022,malaga,Canda,0,0
-3023,sevilla,Canda,0,0
-3024,huesca,Canda,0,0
-3025,teruel,Canda,0,0
-3026,zaragoza,Canda,0,0
-3027,asturias,Canda,0,0
-3028,illesbalears,Canda,0,0
-3029,laspalmas,Canda,0,0
-3030,santacruzdetenerife,Canda,0,0
-3031,cantabria,Canda,0,0
-3032,albacete,Canda,0,0
-3033,ciudadreal,Canda,0,0
-3034,cuenca,Canda,0,0
-3035,guadalajara,Canda,0,0
-3036,toledo,Canda,0,0
-3037,avila,Canda,0,0
-3038,burgos,Canda,0,0
-3039,leon,Canda,0,0
-3040,palencia,Canda,0,0
-3041,salamanca,Canda,0,0
-3042,segovia,Canda,0,0
-3043,soria,Canda,0,0
-3044,valladolid,Canda,0,0
-3045,zamora,Canda,0,0
-3046,barcelona,Canda,0,0
-3047,girona,Canda,0,0
-3048,lleida,Canda,0,0
-3049,tarragona,Canda,0,0
-3050,badajoz,Canda,0,0
-3051,caceres,Canda,0,0
-3052,acoruña,Canda,0,0
-3053,lugo,Canda,0,0
-3054,ourense,Canda,0,0
-3055,pontevedra,Canda,0,0
-3056,madrid,Canda,0,0
-3057,navarra,Canda,0,0
-3058,araba_alava,Canda,0,0
-3059,gipuzkoa,Canda,0,0
-3060,bizkaia,Canda,0,0
-3061,murcia,Canda,0,0
-3062,larioja,Canda,0,0
-3063,alicante_alacant,Canda,0,0
-3064,castellon_castello,Canda,0,0
-3065,valencia_valencia,Canda,0,0
-3066,ceuta,Canda,0,0
-3067,melilla,Canda,0,0
-3068,almeria,FIA,0,0
-3069,cadiz,FIA,0,0
-3070,cordoba,FIA,0,0
-3071,granada,FIA,0,0
-3072,huelva,FIA,0,0
-3073,jaen,FIA,0,0
-3074,malaga,FIA,0,0
-3075,sevilla,FIA,0,0
-3076,huesca,FIA,75,0
-3077,teruel,FIA,0,0
-3078,zaragoza,FIA,386,0
-3079,asturias,FIA,0,0
-3080,illesbalears,FIA,0,0
-3081,laspalmas,FIA,0,0
-3082,santacruzdetenerife,FIA,0,0
-3083,cantabria,FIA,0,0
-3084,albacete,FIA,0,0
-3085,ciudadreal,FIA,0,0
-3086,cuenca,FIA,0,0
-3087,guadalajara,FIA,0,0
-3088,toledo,FIA,0,0
-3089,avila,FIA,0,0
-3090,burgos,FIA,0,0
-3091,leon,FIA,0,0
-3092,palencia,FIA,0,0
-3093,salamanca,FIA,0,0
-3094,segovia,FIA,0,0
-3095,soria,FIA,0,0
-3096,valladolid,FIA,0,0
-3097,zamora,FIA,0,0
-3098,barcelona,FIA,0,0
-3099,girona,FIA,0,0
-3100,lleida,FIA,0,0
-3101,tarragona,FIA,0,0
-3102,badajoz,FIA,0,0
-3103,caceres,FIA,0,0
-3104,acoruña,FIA,0,0
-3105,lugo,FIA,0,0
-3106,ourense,FIA,0,0
-3107,pontevedra,FIA,0,0
-3108,madrid,FIA,0,0
-3109,navarra,FIA,0,0
-3110,araba_alava,FIA,0,0
-3111,gipuzkoa,FIA,0,0
-3112,bizkaia,FIA,0,0
-3113,murcia,FIA,0,0
-3114,larioja,FIA,0,0
-3115,alicante_alacant,FIA,0,0
-3116,castellon_castello,FIA,0,0
-3117,valencia_valencia,FIA,0,0
-3118,ceuta,FIA,0,0
-3119,melilla,FIA,0,0
-3120,almeria,SOLIDARIA,0,0
-3121,cadiz,SOLIDARIA,0,0
-3122,cordoba,SOLIDARIA,0,0
-3123,granada,SOLIDARIA,0,0
-3124,huelva,SOLIDARIA,0,0
-3125,jaen,SOLIDARIA,0,0
-3126,malaga,SOLIDARIA,0,0
-3127,sevilla,SOLIDARIA,0,0
-3128,huesca,SOLIDARIA,0,0
-3129,teruel,SOLIDARIA,0,0
-3130,zaragoza,SOLIDARIA,0,0
-3131,asturias,SOLIDARIA,0,0
-3132,illesbalears,SOLIDARIA,0,0
-3133,laspalmas,SOLIDARIA,0,0
-3134,santacruzdetenerife,SOLIDARIA,0,0
-3135,cantabria,SOLIDARIA,0,0
-3136,albacete,SOLIDARIA,0,0
-3137,ciudadreal,SOLIDARIA,0,0
-3138,cuenca,SOLIDARIA,0,0
-3139,guadalajara,SOLIDARIA,0,0
-3140,toledo,SOLIDARIA,0,0
-3141,avila,SOLIDARIA,0,0
-3142,burgos,SOLIDARIA,0,0
-3143,leon,SOLIDARIA,0,0
-3144,palencia,SOLIDARIA,0,0
-3145,salamanca,SOLIDARIA,0,0
-3146,segovia,SOLIDARIA,0,0
-3147,soria,SOLIDARIA,0,0
-3148,valladolid,SOLIDARIA,0,0
-3149,zamora,SOLIDARIA,0,0
-3150,barcelona,SOLIDARIA,0,0
-3151,girona,SOLIDARIA,0,0
-3152,lleida,SOLIDARIA,0,0
-3153,tarragona,SOLIDARIA,0,0
-3154,badajoz,SOLIDARIA,0,0
-3155,caceres,SOLIDARIA,0,0
-3156,acoruña,SOLIDARIA,0,0
-3157,lugo,SOLIDARIA,0,0
-3158,ourense,SOLIDARIA,0,0
-3159,pontevedra,SOLIDARIA,0,0
-3160,madrid,SOLIDARIA,0,0
-3161,navarra,SOLIDARIA,0,0
-3162,araba_alava,SOLIDARIA,0,0
-3163,gipuzkoa,SOLIDARIA,0,0
-3164,bizkaia,SOLIDARIA,270,0
-3165,murcia,SOLIDARIA,0,0
-3166,larioja,SOLIDARIA,0,0
-3167,alicante_alacant,SOLIDARIA,0,0
-3168,castellon_castello,SOLIDARIA,0,0
-3169,valencia_valencia,SOLIDARIA,0,0
-3170,ceuta,SOLIDARIA,0,0
-3171,melilla,SOLIDARIA,0,0
-3172,almeria,RISA,0,0
-3173,cadiz,RISA,0,0
-3174,cordoba,RISA,0,0
-3175,granada,RISA,0,0
-3176,huelva,RISA,0,0
-3177,jaen,RISA,249,0
-3178,malaga,RISA,0,0
-3179,sevilla,RISA,0,0
-3180,huesca,RISA,0,0
-3181,teruel,RISA,0,0
-3182,zaragoza,RISA,0,0
-3183,asturias,RISA,0,0
-3184,illesbalears,RISA,0,0
-3185,laspalmas,RISA,0,0
-3186,santacruzdetenerife,RISA,0,0
-3187,cantabria,RISA,0,0
-3188,albacete,RISA,0,0
-3189,ciudadreal,RISA,0,0
-3190,cuenca,RISA,0,0
-3191,guadalajara,RISA,0,0
-3192,toledo,RISA,0,0
-3193,avila,RISA,0,0
-3194,burgos,RISA,0,0
-3195,leon,RISA,0,0
-3196,palencia,RISA,0,0
-3197,salamanca,RISA,0,0
-3198,segovia,RISA,0,0
-3199,soria,RISA,0,0
-3200,valladolid,RISA,0,0
-3201,zamora,RISA,0,0
-3202,barcelona,RISA,0,0
-3203,girona,RISA,0,0
-3204,lleida,RISA,0,0
-3205,tarragona,RISA,0,0
-3206,badajoz,RISA,0,0
-3207,caceres,RISA,0,0
-3208,acoruña,RISA,0,0
-3209,lugo,RISA,0,0
-3210,ourense,RISA,0,0
-3211,pontevedra,RISA,0,0
-3212,madrid,RISA,0,0
-3213,navarra,RISA,0,0
-3214,araba_alava,RISA,0,0
-3215,gipuzkoa,RISA,0,0
-3216,bizkaia,RISA,0,0
-3217,murcia,RISA,0,0
-3218,larioja,RISA,0,0
-3219,alicante_alacant,RISA,0,0
-3220,castellon_castello,RISA,0,0
-3221,valencia_valencia,RISA,0,0
-3222,ceuta,RISA,0,0
-3223,melilla,RISA,0,0
-3224,almeria,centrados,0,0
-3225,cadiz,centrados,0,0
-3226,cordoba,centrados,0,0
-3227,granada,centrados,0,0
-3228,huelva,centrados,0,0
-3229,jaen,centrados,0,0
-3230,malaga,centrados,0,0
-3231,sevilla,centrados,0,0
-3232,huesca,centrados,0,0
-3233,teruel,centrados,0,0
-3234,zaragoza,centrados,0,0
-3235,asturias,centrados,0,0
-3236,illesbalears,centrados,0,0
-3237,laspalmas,centrados,0,0
-3238,santacruzdetenerife,centrados,0,0
-3239,cantabria,centrados,0,0
-3240,albacete,centrados,0,0
-3241,ciudadreal,centrados,0,0
-3242,cuenca,centrados,0,0
-3243,guadalajara,centrados,0,0
-3244,toledo,centrados,0,0
-3245,avila,centrados,0,0
-3246,burgos,centrados,0,0
-3247,leon,centrados,0,0
-3248,palencia,centrados,0,0
-3249,salamanca,centrados,0,0
-3250,segovia,centrados,234,0
-3251,soria,centrados,0,0
-3252,valladolid,centrados,0,0
-3253,zamora,centrados,0,0
-3254,barcelona,centrados,0,0
-3255,girona,centrados,0,0
-3256,lleida,centrados,0,0
-3257,tarragona,centrados,0,0
-3258,badajoz,centrados,0,0
-3259,caceres,centrados,0,0
-3260,acoruña,centrados,0,0
-3261,lugo,centrados,0,0
-3262,ourense,centrados,0,0
-3263,pontevedra,centrados,0,0
-3264,madrid,centrados,0,0
-3265,navarra,centrados,0,0
-3266,araba_alava,centrados,0,0
-3267,gipuzkoa,centrados,0,0
-3268,bizkaia,centrados,0,0
-3269,murcia,centrados,0,0
-3270,larioja,centrados,0,0
-3271,alicante_alacant,centrados,0,0
-3272,castellon_castello,centrados,0,0
-3273,valencia_valencia,centrados,0,0
-3274,ceuta,centrados,0,0
-3275,melilla,centrados,0,0
-3276,almeria,DPL,0,0
-3277,cadiz,DPL,0,0
-3278,cordoba,DPL,0,0
-3279,granada,DPL,0,0
-3280,huelva,DPL,0,0
-3281,jaen,DPL,0,0
-3282,malaga,DPL,0,0
-3283,sevilla,DPL,0,0
-3284,huesca,DPL,0,0
-3285,teruel,DPL,0,0
-3286,zaragoza,DPL,0,0
-3287,asturias,DPL,0,0
-3288,illesbalears,DPL,0,0
-3289,laspalmas,DPL,0,0
-3290,santacruzdetenerife,DPL,0,0
-3291,cantabria,DPL,0,0
-3292,albacete,DPL,0,0
-3293,ciudadreal,DPL,0,0
-3294,cuenca,DPL,0,0
-3295,guadalajara,DPL,0,0
-3296,toledo,DPL,0,0
-3297,avila,DPL,0,0
-3298,burgos,DPL,0,0
-3299,leon,DPL,0,0
-3300,palencia,DPL,0,0
-3301,salamanca,DPL,0,0
-3302,segovia,DPL,0,0
-3303,soria,DPL,0,0
-3304,valladolid,DPL,0,0
-3305,zamora,DPL,0,0
-3306,barcelona,DPL,0,0
-3307,girona,DPL,0,0
-3308,lleida,DPL,0,0
-3309,tarragona,DPL,0,0
-3310,badajoz,DPL,0,0
-3311,caceres,DPL,0,0
-3312,acoruña,DPL,0,0
-3313,lugo,DPL,0,0
-3314,ourense,DPL,0,0
-3315,pontevedra,DPL,0,0
-3316,madrid,DPL,0,0
-3317,navarra,DPL,0,0
-3318,araba_alava,DPL,0,0
-3319,gipuzkoa,DPL,0,0
-3320,bizkaia,DPL,0,0
-3321,murcia,DPL,214,0
-3322,larioja,DPL,0,0
-3323,alicante_alacant,DPL,0,0
-3324,castellon_castello,DPL,0,0
-3325,valencia_valencia,DPL,0,0
-3326,ceuta,DPL,0,0
-3327,melilla,DPL,0,0
-3328,almeria,IZAR,0,0
-3329,cadiz,IZAR,0,0
-3330,cordoba,IZAR,0,0
-3331,granada,IZAR,113,0
-3332,huelva,IZAR,0,0
-3333,jaen,IZAR,0,0
-3334,malaga,IZAR,0,0
-3335,sevilla,IZAR,0,0
-3336,huesca,IZAR,0,0
-3337,teruel,IZAR,0,0
-3338,zaragoza,IZAR,0,0
-3339,asturias,IZAR,0,0
-3340,illesbalears,IZAR,0,0
-3341,laspalmas,IZAR,0,0
-3342,santacruzdetenerife,IZAR,0,0
-3343,cantabria,IZAR,0,0
-3344,albacete,IZAR,0,0
-3345,ciudadreal,IZAR,0,0
-3346,cuenca,IZAR,0,0
-3347,guadalajara,IZAR,0,0
-3348,toledo,IZAR,0,0
-3349,avila,IZAR,0,0
-3350,burgos,IZAR,0,0
-3351,leon,IZAR,0,0
-3352,palencia,IZAR,0,0
-3353,salamanca,IZAR,0,0
-3354,segovia,IZAR,0,0
-3355,soria,IZAR,0,0
-3356,valladolid,IZAR,0,0
-3357,zamora,IZAR,0,0
-3358,barcelona,IZAR,0,0
-3359,girona,IZAR,0,0
-3360,lleida,IZAR,0,0
-3361,tarragona,IZAR,0,0
-3362,badajoz,IZAR,0,0
-3363,caceres,IZAR,0,0
-3364,acoruña,IZAR,0,0
-3365,lugo,IZAR,0,0
-3366,ourense,IZAR,0,0
-3367,pontevedra,IZAR,0,0
-3368,madrid,IZAR,0,0
-3369,navarra,IZAR,0,0
-3370,araba_alava,IZAR,0,0
-3371,gipuzkoa,IZAR,0,0
-3372,bizkaia,IZAR,0,0
-3373,murcia,IZAR,0,0
-3374,larioja,IZAR,0,0
-3375,alicante_alacant,IZAR,0,0
-3376,castellon_castello,IZAR,0,0
-3377,valencia_valencia,IZAR,0,0
-3378,ceuta,IZAR,0,0
-3379,melilla,IZAR,0,0
-3380,almeria,C 21,0,0
-3381,cadiz,C 21,0,0
-3382,cordoba,C 21,0,0
-3383,granada,C 21,0,0
-3384,huelva,C 21,0,0
-3385,jaen,C 21,0,0
-3386,malaga,C 21,0,0
-3387,sevilla,C 21,0,0
-3388,huesca,C 21,0,0
-3389,teruel,C 21,0,0
-3390,zaragoza,C 21,0,0
-3391,asturias,C 21,0,0
-3392,illesbalears,C 21,0,0
-3393,laspalmas,C 21,0,0
-3394,santacruzdetenerife,C 21,0,0
-3395,cantabria,C 21,0,0
-3396,albacete,C 21,0,0
-3397,ciudadreal,C 21,0,0
-3398,cuenca,C 21,0,0
-3399,guadalajara,C 21,0,0
-3400,toledo,C 21,0,0
-3401,avila,C 21,0,0
-3402,burgos,C 21,0,0
-3403,leon,C 21,0,0
-3404,palencia,C 21,0,0
-3405,salamanca,C 21,0,0
-3406,segovia,C 21,0,0
-3407,soria,C 21,0,0
-3408,valladolid,C 21,0,0
-3409,zamora,C 21,0,0
-3410,barcelona,C 21,0,0
-3411,girona,C 21,0,0
-3412,lleida,C 21,0,0
-3413,tarragona,C 21,0,0
-3414,badajoz,C 21,0,0
-3415,caceres,C 21,0,0
-3416,acoruña,C 21,0,0
-3417,lugo,C 21,72,0
-3418,ourense,C 21,0,0
-3419,pontevedra,C 21,0,0
-3420,madrid,C 21,0,0
-3421,navarra,C 21,0,0
-3422,araba_alava,C 21,0,0
-3423,gipuzkoa,C 21,0,0
-3424,bizkaia,C 21,0,0
-3425,murcia,C 21,0,0
-3426,larioja,C 21,0,0
-3427,alicante_alacant,C 21,0,0
-3428,castellon_castello,C 21,0,0
-3429,valencia_valencia,C 21,0,0
-3430,ceuta,C 21,0,0
-3431,melilla,C 21,0,0
-3432,almeria,UDT,0,0
-3433,cadiz,UDT,0,0
-3434,cordoba,UDT,0,0
-3435,granada,UDT,0,0
-3436,huelva,UDT,0,0
-3437,jaen,UDT,0,0
-3438,malaga,UDT,0,0
-3439,sevilla,UDT,0,0
-3440,huesca,UDT,0,0
-3441,teruel,UDT,26,0
-3442,zaragoza,UDT,0,0
-3443,asturias,UDT,0,0
-3444,illesbalears,UDT,0,0
-3445,laspalmas,UDT,0,0
-3446,santacruzdetenerife,UDT,0,0
-3447,cantabria,UDT,0,0
-3448,albacete,UDT,0,0
-3449,ciudadreal,UDT,0,0
-3450,cuenca,UDT,0,0
-3451,guadalajara,UDT,0,0
-3452,toledo,UDT,0,0
-3453,avila,UDT,0,0
-3454,burgos,UDT,0,0
-3455,leon,UDT,0,0
-3456,palencia,UDT,0,0
-3457,salamanca,UDT,0,0
-3458,segovia,UDT,0,0
-3459,soria,UDT,0,0
-3460,valladolid,UDT,0,0
-3461,zamora,UDT,0,0
-3462,barcelona,UDT,0,0
-3463,girona,UDT,0,0
-3464,lleida,UDT,0,0
-3465,tarragona,UDT,0,0
-3466,badajoz,UDT,0,0
-3467,caceres,UDT,0,0
-3468,acoruña,UDT,0,0
-3469,lugo,UDT,0,0
-3470,ourense,UDT,0,0
-3471,pontevedra,UDT,0,0
-3472,madrid,UDT,0,0
-3473,navarra,UDT,0,0
-3474,araba_alava,UDT,0,0
-3475,gipuzkoa,UDT,0,0
-3476,bizkaia,UDT,0,0
-3477,murcia,UDT,0,0
-3478,larioja,UDT,0,0
-3479,alicante_alacant,UDT,0,0
-3480,castellon_castello,UDT,0,0
-3481,valencia_valencia,UDT,0,0
-3482,ceuta,UDT,0,0
-3483,melilla,UDT,0,0
+,codename,political_parties,votes
+0,almeria,PSOE,89295
+1,cadiz,PSOE,188271
+2,cordoba,PSOE,146761
+3,granada,PSOE,160190
+4,huelva,PSOE,91656
+5,jaen,PSOE,141737
+6,malaga,PSOE,226831
+7,sevilla,PSOE,380385
+8,huesca,PSOE,38101
+9,teruel,PSOE,18934
+10,zaragoza,PSOE,158326
+11,asturias,PSOE,186211
+12,illesbalears,PSOE,115567
+13,laspalmas,PSOE,141078
+14,santacruzdetenerife,PSOE,132518
+15,cantabria,PSOE,76028
+16,albacete,PSOE,69848
+17,ciudadreal,PSOE,92046
+18,cuenca,PSOE,40670
+19,guadalajara,PSOE,41167
+20,toledo,PSOE,116282
+21,avila,PSOE,24474
+22,burgos,PSOE,64182
+23,leon,PSOE,87896
+24,palencia,PSOE,31847
+25,salamanca,PSOE,57481
+26,segovia,PSOE,25233
+27,soria,PSOE,16043
+28,valladolid,PSOE,94384
+29,zamora,PSOE,32747
+30,barcelona,PSOE,638319
+31,girona,PSOE,52723
+32,lleida,PSOE,29983
+33,tarragona,PSOE,73641
+34,badajoz,PSOE,142312
+35,caceres,PSOE,85135
+36,acoruña,PSOE,184178
+37,lugo,PSOE,57537
+38,ourense,PSOE,56934
+39,pontevedra,PSOE,166377
+40,madrid,PSOE,957401
+41,navarra,PSOE,83734
+42,araba_alava,PSOE,37488
+43,gipuzkoa,PSOE,69342
+44,bizkaia,PSOE,120566
+45,murcia,PSOE,177154
+46,larioja,PSOE,57485
+47,alicante_alacant,PSOE,240202
+48,castellon_castello,PSOE,84078
+49,valencia_valencia,PSOE,375879
+50,ceuta,PSOE,10455
+51,melilla,PSOE,5087
+52,almeria,PP,78072
+53,cadiz,PP,111089
+54,cordoba,PP,99999
+55,granada,PP,105192
+56,huelva,PP,49452
+57,jaen,PP,82055
+58,malaga,PP,163177
+59,sevilla,PP,188166
+60,huesca,PP,29804
+61,teruel,PP,17520
+62,zaragoza,PP,119909
+63,asturias,PP,129945
+64,illesbalears,PP,103722
+65,laspalmas,PP,103375
+66,santacruzdetenerife,PP,93434
+67,cantabria,PP,84583
+68,albacete,PP,58835
+69,ciudadreal,PP,74835
+70,cuenca,PP,33721
+71,guadalajara,PP,30443
+72,toledo,PP,94378
+73,avila,PP,32527
+74,burgos,PP,61228
+75,leon,PP,74672
+76,palencia,PP,34195
+77,salamanca,PP,67715
+78,segovia,PP,28057
+79,soria,PP,15247
+80,valladolid,PP,91857
+81,zamora,PP,33495
+82,barcelona,PP,225645
+83,girona,PP,17449
+84,lleida,PP,14697
+85,tarragona,PP,29923
+86,badajoz,PP,92742
+87,caceres,PP,61527
+88,acoruña,PP,187127
+89,lugo,PP,68530
+90,ourense,PP,67580
+91,pontevedra,PP,151961
+92,madrid,PP,887474
+93,navarra,PP,0
+94,araba_alava,PP,25506
+95,gipuzkoa,PP,23619
+96,bizkaia,PP,55621
+97,murcia,PP,189500
+98,larioja,PP,56450
+99,alicante_alacant,PP,207310
+100,castellon_castello,PP,70176
+101,valencia_valencia,PP,306929
+102,ceuta,PP,7439
+103,melilla,PP,9136
+104,almeria,VOX,80714
+105,cadiz,VOX,131205
+106,cordoba,VOX,82534
+107,granada,VOX,99928
+108,huelva,VOX,52485
+109,jaen,VOX,71950
+110,malaga,VOX,162280
+111,sevilla,VOX,188813
+112,huesca,VOX,17237
+113,teruel,VOX,9346
+114,zaragoza,VOX,92353
+115,asturias,VOX,88788
+116,illesbalears,VOX,77520
+117,laspalmas,VOX,64515
+118,santacruzdetenerife,VOX,53491
+119,cantabria,VOX,48827
+120,albacete,VOX,44306
+121,ciudadreal,VOX,56050
+122,cuenca,VOX,20108
+123,guadalajara,VOX,31683
+124,toledo,VOX,86049
+125,avila,VOX,17313
+126,burgos,VOX,29579
+127,leon,VOX,40884
+128,palencia,VOX,13816
+129,salamanca,VOX,34929
+130,segovia,VOX,14569
+131,soria,VOX,6264
+132,valladolid,VOX,56353
+133,zamora,VOX,17036
+134,barcelona,VOX,184715
+135,girona,VOX,18489
+136,lleida,VOX,9312
+137,tarragona,VOX,31124
+138,badajoz,VOX,64016
+139,caceres,VOX,35807
+140,acoruña,VOX,50325
+141,lugo,VOX,14652
+142,ourense,VOX,13285
+143,pontevedra,VOX,38119
+144,madrid,VOX,653476
+145,navarra,VOX,19440
+146,araba_alava,VOX,6421
+147,gipuzkoa,VOX,7274
+148,bizkaia,VOX,15284
+149,murcia,VOX,199829
+150,larioja,VOX,18908
+151,alicante_alacant,VOX,167395
+152,castellon_castello,VOX,54849
+153,valencia_valencia,VOX,245890
+154,ceuta,VOX,11752
+155,melilla,VOX,5692
+156,almeria,PODEMOS-IU,24400
+157,cadiz,PODEMOS-IU,93541
+158,cordoba,PODEMOS-IU,64769
+159,granada,PODEMOS-IU,59331
+160,huelva,PODEMOS-IU,30389
+161,jaen,PODEMOS-IU,35962
+162,malaga,PODEMOS-IU,97801
+163,sevilla,PODEMOS-IU,153435
+164,huesca,PODEMOS-IU,14035
+165,teruel,PODEMOS-IU,3982
+166,zaragoza,PODEMOS-IU,57875
+167,asturias,PODEMOS-IU,89301
+168,illesbalears,PODEMOS-IU,82225
+169,laspalmas,PODEMOS-IU,74648
+170,santacruzdetenerife,PODEMOS-IU,64613
+171,cantabria,PODEMOS-IU,28376
+172,albacete,PODEMOS-IU,20771
+173,ciudadreal,PODEMOS-IU,22250
+174,cuenca,PODEMOS-IU,7529
+175,guadalajara,PODEMOS-IU,14897
+176,toledo,PODEMOS-IU,34837
+177,avila,PODEMOS-IU,6059
+178,burgos,PODEMOS-IU,22058
+179,leon,PODEMOS-IU,27478
+180,palencia,PODEMOS-IU,7746
+181,salamanca,PODEMOS-IU,13608
+182,segovia,PODEMOS-IU,7901
+183,soria,PODEMOS-IU,3517
+184,valladolid,PODEMOS-IU,34313
+185,zamora,PODEMOS-IU,7001
+186,barcelona,PODEMOS-IU,0
+187,girona,PODEMOS-IU,0
+188,lleida,PODEMOS-IU,0
+189,tarragona,PODEMOS-IU,0
+190,badajoz,PODEMOS-IU,33971
+191,caceres,PODEMOS-IU,20101
+192,acoruña,PODEMOS-IU,0
+193,lugo,PODEMOS-IU,0
+194,ourense,PODEMOS-IU,0
+195,pontevedra,PODEMOS-IU,0
+196,madrid,PODEMOS-IU,463629
+197,navarra,PODEMOS-IU,55498
+198,araba_alava,PODEMOS-IU,28186
+199,gipuzkoa,PODEMOS-IU,57363
+200,bizkaia,PODEMOS-IU,97125
+201,murcia,PODEMOS-IU,63461
+202,larioja,PODEMOS-IU,16273
+203,alicante_alacant,PODEMOS-IU,108533
+204,castellon_castello,PODEMOS-IU,39251
+205,valencia_valencia,PODEMOS-IU,191812
+206,ceuta,PODEMOS-IU,1300
+207,melilla,PODEMOS-IU,809
+208,almeria,ERC-SOBIRANISTES,0
+209,cadiz,ERC-SOBIRANISTES,0
+210,cordoba,ERC-SOBIRANISTES,0
+211,granada,ERC-SOBIRANISTES,0
+212,huelva,ERC-SOBIRANISTES,0
+213,jaen,ERC-SOBIRANISTES,0
+214,malaga,ERC-SOBIRANISTES,0
+215,sevilla,ERC-SOBIRANISTES,0
+216,huesca,ERC-SOBIRANISTES,0
+217,teruel,ERC-SOBIRANISTES,0
+218,zaragoza,ERC-SOBIRANISTES,0
+219,asturias,ERC-SOBIRANISTES,0
+220,illesbalears,ERC-SOBIRANISTES,0
+221,laspalmas,ERC-SOBIRANISTES,0
+222,santacruzdetenerife,ERC-SOBIRANISTES,0
+223,cantabria,ERC-SOBIRANISTES,0
+224,albacete,ERC-SOBIRANISTES,0
+225,ciudadreal,ERC-SOBIRANISTES,0
+226,cuenca,ERC-SOBIRANISTES,0
+227,guadalajara,ERC-SOBIRANISTES,0
+228,toledo,ERC-SOBIRANISTES,0
+229,avila,ERC-SOBIRANISTES,0
+230,burgos,ERC-SOBIRANISTES,0
+231,leon,ERC-SOBIRANISTES,0
+232,palencia,ERC-SOBIRANISTES,0
+233,salamanca,ERC-SOBIRANISTES,0
+234,segovia,ERC-SOBIRANISTES,0
+235,soria,ERC-SOBIRANISTES,0
+236,valladolid,ERC-SOBIRANISTES,0
+237,zamora,ERC-SOBIRANISTES,0
+238,barcelona,ERC-SOBIRANISTES,618909
+239,girona,ERC-SOBIRANISTES,91932
+240,lleida,ERC-SOBIRANISTES,65236
+241,tarragona,ERC-SOBIRANISTES,98782
+242,badajoz,ERC-SOBIRANISTES,0
+243,caceres,ERC-SOBIRANISTES,0
+244,acoruña,ERC-SOBIRANISTES,0
+245,lugo,ERC-SOBIRANISTES,0
+246,ourense,ERC-SOBIRANISTES,0
+247,pontevedra,ERC-SOBIRANISTES,0
+248,madrid,ERC-SOBIRANISTES,0
+249,navarra,ERC-SOBIRANISTES,0
+250,araba_alava,ERC-SOBIRANISTES,0
+251,gipuzkoa,ERC-SOBIRANISTES,0
+252,bizkaia,ERC-SOBIRANISTES,0
+253,murcia,ERC-SOBIRANISTES,0
+254,larioja,ERC-SOBIRANISTES,0
+255,alicante_alacant,ERC-SOBIRANISTES,0
+256,castellon_castello,ERC-SOBIRANISTES,0
+257,valencia_valencia,ERC-SOBIRANISTES,0
+258,ceuta,ERC-SOBIRANISTES,0
+259,melilla,ERC-SOBIRANISTES,0
+260,almeria,Cs,22835
+261,cadiz,Cs,55490
+262,cordoba,Cs,36229
+263,granada,Cs,37772
+264,huelva,Cs,18382
+265,jaen,Cs,24816
+266,malaga,Cs,66995
+267,sevilla,Cs,83575
+268,huesca,Cs,9244
+269,teruel,Cs,3732
+270,zaragoza,Cs,47001
+271,asturias,Cs,37374
+272,illesbalears,Cs,33451
+273,laspalmas,Cs,28018
+274,santacruzdetenerife,Cs,22979
+275,cantabria,Cs,15609
+276,albacete,Cs,15947
+277,ciudadreal,Cs,18337
+278,cuenca,Cs,5094
+279,guadalajara,Cs,10169
+280,toledo,Cs,24871
+281,avila,Cs,6119
+282,burgos,Cs,16214
+283,leon,Cs,16731
+284,palencia,Cs,5937
+285,salamanca,Cs,16886
+286,segovia,Cs,6861
+287,soria,Cs,2670
+288,valladolid,Cs,26947
+289,zamora,Cs,6835
+290,barcelona,Cs,174124
+291,girona,Cs,13869
+292,lleida,Cs,7128
+293,tarragona,Cs,22814
+294,badajoz,Cs,29520
+295,caceres,Cs,15533
+296,acoruña,Cs,28469
+297,lugo,Cs,5811
+298,ourense,Cs,6397
+299,pontevedra,Cs,23984
+300,madrid,Cs,323076
+301,navarra,Cs,0
+302,araba_alava,Cs,2526
+303,gipuzkoa,Cs,3824
+304,bizkaia,Cs,6929
+305,murcia,Cs,53201
+306,larioja,Cs,11673
+307,alicante_alacant,Cs,69143
+308,castellon_castello,Cs,20302
+309,valencia_valencia,Cs,106820
+310,ceuta,Cs,1138
+311,melilla,Cs,917
+312,almeria,JxCAT-JUNTS,0
+313,cadiz,JxCAT-JUNTS,0
+314,cordoba,JxCAT-JUNTS,0
+315,granada,JxCAT-JUNTS,0
+316,huelva,JxCAT-JUNTS,0
+317,jaen,JxCAT-JUNTS,0
+318,malaga,JxCAT-JUNTS,0
+319,sevilla,JxCAT-JUNTS,0
+320,huesca,JxCAT-JUNTS,0
+321,teruel,JxCAT-JUNTS,0
+322,zaragoza,JxCAT-JUNTS,0
+323,asturias,JxCAT-JUNTS,0
+324,illesbalears,JxCAT-JUNTS,0
+325,laspalmas,JxCAT-JUNTS,0
+326,santacruzdetenerife,JxCAT-JUNTS,0
+327,cantabria,JxCAT-JUNTS,0
+328,albacete,JxCAT-JUNTS,0
+329,ciudadreal,JxCAT-JUNTS,0
+330,cuenca,JxCAT-JUNTS,0
+331,guadalajara,JxCAT-JUNTS,0
+332,toledo,JxCAT-JUNTS,0
+333,avila,JxCAT-JUNTS,0
+334,burgos,JxCAT-JUNTS,0
+335,leon,JxCAT-JUNTS,0
+336,palencia,JxCAT-JUNTS,0
+337,salamanca,JxCAT-JUNTS,0
+338,segovia,JxCAT-JUNTS,0
+339,soria,JxCAT-JUNTS,0
+340,valladolid,JxCAT-JUNTS,0
+341,zamora,JxCAT-JUNTS,0
+342,barcelona,JxCAT-JUNTS,343931
+343,girona,JxCAT-JUNTS,88060
+344,lleida,JxCAT-JUNTS,46773
+345,tarragona,JxCAT-JUNTS,51461
+346,badajoz,JxCAT-JUNTS,0
+347,caceres,JxCAT-JUNTS,0
+348,acoruña,JxCAT-JUNTS,0
+349,lugo,JxCAT-JUNTS,0
+350,ourense,JxCAT-JUNTS,0
+351,pontevedra,JxCAT-JUNTS,0
+352,madrid,JxCAT-JUNTS,0
+353,navarra,JxCAT-JUNTS,0
+354,araba_alava,JxCAT-JUNTS,0
+355,gipuzkoa,JxCAT-JUNTS,0
+356,bizkaia,JxCAT-JUNTS,0
+357,murcia,JxCAT-JUNTS,0
+358,larioja,JxCAT-JUNTS,0
+359,alicante_alacant,JxCAT-JUNTS,0
+360,castellon_castello,JxCAT-JUNTS,0
+361,valencia_valencia,JxCAT-JUNTS,0
+362,ceuta,JxCAT-JUNTS,0
+363,melilla,JxCAT-JUNTS,0
+364,almeria,ECP-GUANYEM EL CANVI,0
+365,cadiz,ECP-GUANYEM EL CANVI,0
+366,cordoba,ECP-GUANYEM EL CANVI,0
+367,granada,ECP-GUANYEM EL CANVI,0
+368,huelva,ECP-GUANYEM EL CANVI,0
+369,jaen,ECP-GUANYEM EL CANVI,0
+370,malaga,ECP-GUANYEM EL CANVI,0
+371,sevilla,ECP-GUANYEM EL CANVI,0
+372,huesca,ECP-GUANYEM EL CANVI,0
+373,teruel,ECP-GUANYEM EL CANVI,0
+374,zaragoza,ECP-GUANYEM EL CANVI,0
+375,asturias,ECP-GUANYEM EL CANVI,0
+376,illesbalears,ECP-GUANYEM EL CANVI,0
+377,laspalmas,ECP-GUANYEM EL CANVI,0
+378,santacruzdetenerife,ECP-GUANYEM EL CANVI,0
+379,cantabria,ECP-GUANYEM EL CANVI,0
+380,albacete,ECP-GUANYEM EL CANVI,0
+381,ciudadreal,ECP-GUANYEM EL CANVI,0
+382,cuenca,ECP-GUANYEM EL CANVI,0
+383,guadalajara,ECP-GUANYEM EL CANVI,0
+384,toledo,ECP-GUANYEM EL CANVI,0
+385,avila,ECP-GUANYEM EL CANVI,0
+386,burgos,ECP-GUANYEM EL CANVI,0
+387,leon,ECP-GUANYEM EL CANVI,0
+388,palencia,ECP-GUANYEM EL CANVI,0
+389,salamanca,ECP-GUANYEM EL CANVI,0
+390,segovia,ECP-GUANYEM EL CANVI,0
+391,soria,ECP-GUANYEM EL CANVI,0
+392,valladolid,ECP-GUANYEM EL CANVI,0
+393,zamora,ECP-GUANYEM EL CANVI,0
+394,barcelona,ECP-GUANYEM EL CANVI,452482
+395,girona,ECP-GUANYEM EL CANVI,33710
+396,lleida,ECP-GUANYEM EL CANVI,16337
+397,tarragona,ECP-GUANYEM EL CANVI,46644
+398,badajoz,ECP-GUANYEM EL CANVI,0
+399,caceres,ECP-GUANYEM EL CANVI,0
+400,acoruña,ECP-GUANYEM EL CANVI,0
+401,lugo,ECP-GUANYEM EL CANVI,0
+402,ourense,ECP-GUANYEM EL CANVI,0
+403,pontevedra,ECP-GUANYEM EL CANVI,0
+404,madrid,ECP-GUANYEM EL CANVI,0
+405,navarra,ECP-GUANYEM EL CANVI,0
+406,araba_alava,ECP-GUANYEM EL CANVI,0
+407,gipuzkoa,ECP-GUANYEM EL CANVI,0
+408,bizkaia,ECP-GUANYEM EL CANVI,0
+409,murcia,ECP-GUANYEM EL CANVI,0
+410,larioja,ECP-GUANYEM EL CANVI,0
+411,alicante_alacant,ECP-GUANYEM EL CANVI,0
+412,castellon_castello,ECP-GUANYEM EL CANVI,0
+413,valencia_valencia,ECP-GUANYEM EL CANVI,0
+414,ceuta,ECP-GUANYEM EL CANVI,0
+415,melilla,ECP-GUANYEM EL CANVI,0
+416,almeria,EAJ-PNV,0
+417,cadiz,EAJ-PNV,0
+418,cordoba,EAJ-PNV,0
+419,granada,EAJ-PNV,0
+420,huelva,EAJ-PNV,0
+421,jaen,EAJ-PNV,0
+422,malaga,EAJ-PNV,0
+423,sevilla,EAJ-PNV,0
+424,huesca,EAJ-PNV,0
+425,teruel,EAJ-PNV,0
+426,zaragoza,EAJ-PNV,0
+427,asturias,EAJ-PNV,0
+428,illesbalears,EAJ-PNV,0
+429,laspalmas,EAJ-PNV,0
+430,santacruzdetenerife,EAJ-PNV,0
+431,cantabria,EAJ-PNV,0
+432,albacete,EAJ-PNV,0
+433,ciudadreal,EAJ-PNV,0
+434,cuenca,EAJ-PNV,0
+435,guadalajara,EAJ-PNV,0
+436,toledo,EAJ-PNV,0
+437,avila,EAJ-PNV,0
+438,burgos,EAJ-PNV,0
+439,leon,EAJ-PNV,0
+440,palencia,EAJ-PNV,0
+441,salamanca,EAJ-PNV,0
+442,segovia,EAJ-PNV,0
+443,soria,EAJ-PNV,0
+444,valladolid,EAJ-PNV,0
+445,zamora,EAJ-PNV,0
+446,barcelona,EAJ-PNV,0
+447,girona,EAJ-PNV,0
+448,lleida,EAJ-PNV,0
+449,tarragona,EAJ-PNV,0
+450,badajoz,EAJ-PNV,0
+451,caceres,EAJ-PNV,0
+452,acoruña,EAJ-PNV,0
+453,lugo,EAJ-PNV,0
+454,ourense,EAJ-PNV,0
+455,pontevedra,EAJ-PNV,0
+456,madrid,EAJ-PNV,0
+457,navarra,EAJ-PNV,0
+458,araba_alava,EAJ-PNV,40262
+459,gipuzkoa,EAJ-PNV,116761
+460,bizkaia,EAJ-PNV,221979
+461,murcia,EAJ-PNV,0
+462,larioja,EAJ-PNV,0
+463,alicante_alacant,EAJ-PNV,0
+464,castellon_castello,EAJ-PNV,0
+465,valencia_valencia,EAJ-PNV,0
+466,ceuta,EAJ-PNV,0
+467,melilla,EAJ-PNV,0
+468,almeria,EH Bildu,0
+469,cadiz,EH Bildu,0
+470,cordoba,EH Bildu,0
+471,granada,EH Bildu,0
+472,huelva,EH Bildu,0
+473,jaen,EH Bildu,0
+474,malaga,EH Bildu,0
+475,sevilla,EH Bildu,0
+476,huesca,EH Bildu,0
+477,teruel,EH Bildu,0
+478,zaragoza,EH Bildu,0
+479,asturias,EH Bildu,0
+480,illesbalears,EH Bildu,0
+481,laspalmas,EH Bildu,0
+482,santacruzdetenerife,EH Bildu,0
+483,cantabria,EH Bildu,0
+484,albacete,EH Bildu,0
+485,ciudadreal,EH Bildu,0
+486,cuenca,EH Bildu,0
+487,guadalajara,EH Bildu,0
+488,toledo,EH Bildu,0
+489,avila,EH Bildu,0
+490,burgos,EH Bildu,0
+491,leon,EH Bildu,0
+492,palencia,EH Bildu,0
+493,salamanca,EH Bildu,0
+494,segovia,EH Bildu,0
+495,soria,EH Bildu,0
+496,valladolid,EH Bildu,0
+497,zamora,EH Bildu,0
+498,barcelona,EH Bildu,0
+499,girona,EH Bildu,0
+500,lleida,EH Bildu,0
+501,tarragona,EH Bildu,0
+502,badajoz,EH Bildu,0
+503,caceres,EH Bildu,0
+504,acoruña,EH Bildu,0
+505,lugo,EH Bildu,0
+506,ourense,EH Bildu,0
+507,pontevedra,EH Bildu,0
+508,madrid,EH Bildu,0
+509,navarra,EH Bildu,56548
+510,araba_alava,EH Bildu,27453
+511,gipuzkoa,EH Bildu,98951
+512,bizkaia,EH Bildu,94669
+513,murcia,EH Bildu,0
+514,larioja,EH Bildu,0
+515,alicante_alacant,EH Bildu,0
+516,castellon_castello,EH Bildu,0
+517,valencia_valencia,EH Bildu,0
+518,ceuta,EH Bildu,0
+519,melilla,EH Bildu,0
+520,almeria,MÁS PAÍS-EQUO,0
+521,cadiz,MÁS PAÍS-EQUO,11316
+522,cordoba,MÁS PAÍS-EQUO,0
+523,granada,MÁS PAÍS-EQUO,8629
+524,huelva,MÁS PAÍS-EQUO,0
+525,jaen,MÁS PAÍS-EQUO,0
+526,malaga,MÁS PAÍS-EQUO,14112
+527,sevilla,MÁS PAÍS-EQUO,22388
+528,huesca,MÁS PAÍS-EQUO,0
+529,teruel,MÁS PAÍS-EQUO,0
+530,zaragoza,MÁS PAÍS-EQUO,0
+531,asturias,MÁS PAÍS-EQUO,12732
+532,illesbalears,MÁS PAÍS-EQUO,0
+533,laspalmas,MÁS PAÍS-EQUO,8389
+534,santacruzdetenerife,MÁS PAÍS-EQUO,6583
+535,cantabria,MÁS PAÍS-EQUO,0
+536,albacete,MÁS PAÍS-EQUO,0
+537,ciudadreal,MÁS PAÍS-EQUO,0
+538,cuenca,MÁS PAÍS-EQUO,0
+539,guadalajara,MÁS PAÍS-EQUO,0
+540,toledo,MÁS PAÍS-EQUO,0
+541,avila,MÁS PAÍS-EQUO,0
+542,burgos,MÁS PAÍS-EQUO,0
+543,leon,MÁS PAÍS-EQUO,0
+544,palencia,MÁS PAÍS-EQUO,0
+545,salamanca,MÁS PAÍS-EQUO,0
+546,segovia,MÁS PAÍS-EQUO,0
+547,soria,MÁS PAÍS-EQUO,0
+548,valladolid,MÁS PAÍS-EQUO,0
+549,zamora,MÁS PAÍS-EQUO,0
+550,barcelona,MÁS PAÍS-EQUO,0
+551,girona,MÁS PAÍS-EQUO,0
+552,lleida,MÁS PAÍS-EQUO,0
+553,tarragona,MÁS PAÍS-EQUO,0
+554,badajoz,MÁS PAÍS-EQUO,0
+555,caceres,MÁS PAÍS-EQUO,0
+556,acoruña,MÁS PAÍS-EQUO,12619
+557,lugo,MÁS PAÍS-EQUO,0
+558,ourense,MÁS PAÍS-EQUO,0
+559,pontevedra,MÁS PAÍS-EQUO,10207
+560,madrid,MÁS PAÍS-EQUO,201389
+561,navarra,MÁS PAÍS-EQUO,0
+562,araba_alava,MÁS PAÍS-EQUO,0
+563,gipuzkoa,MÁS PAÍS-EQUO,0
+564,bizkaia,MÁS PAÍS-EQUO,8542
+565,murcia,MÁS PAÍS-EQUO,13439
+566,larioja,MÁS PAÍS-EQUO,0
+567,alicante_alacant,MÁS PAÍS-EQUO,0
+568,castellon_castello,MÁS PAÍS-EQUO,0
+569,valencia_valencia,MÁS PAÍS-EQUO,0
+570,ceuta,MÁS PAÍS-EQUO,0
+571,melilla,MÁS PAÍS-EQUO,0
+572,almeria,CUP-PR,0
+573,cadiz,CUP-PR,0
+574,cordoba,CUP-PR,0
+575,granada,CUP-PR,0
+576,huelva,CUP-PR,0
+577,jaen,CUP-PR,0
+578,malaga,CUP-PR,0
+579,sevilla,CUP-PR,0
+580,huesca,CUP-PR,0
+581,teruel,CUP-PR,0
+582,zaragoza,CUP-PR,0
+583,asturias,CUP-PR,0
+584,illesbalears,CUP-PR,0
+585,laspalmas,CUP-PR,0
+586,santacruzdetenerife,CUP-PR,0
+587,cantabria,CUP-PR,0
+588,albacete,CUP-PR,0
+589,ciudadreal,CUP-PR,0
+590,cuenca,CUP-PR,0
+591,guadalajara,CUP-PR,0
+592,toledo,CUP-PR,0
+593,avila,CUP-PR,0
+594,burgos,CUP-PR,0
+595,leon,CUP-PR,0
+596,palencia,CUP-PR,0
+597,salamanca,CUP-PR,0
+598,segovia,CUP-PR,0
+599,soria,CUP-PR,0
+600,valladolid,CUP-PR,0
+601,zamora,CUP-PR,0
+602,barcelona,CUP-PR,179041
+603,girona,CUP-PR,31703
+604,lleida,CUP-PR,14098
+605,tarragona,CUP-PR,22129
+606,badajoz,CUP-PR,0
+607,caceres,CUP-PR,0
+608,acoruña,CUP-PR,0
+609,lugo,CUP-PR,0
+610,ourense,CUP-PR,0
+611,pontevedra,CUP-PR,0
+612,madrid,CUP-PR,0
+613,navarra,CUP-PR,0
+614,araba_alava,CUP-PR,0
+615,gipuzkoa,CUP-PR,0
+616,bizkaia,CUP-PR,0
+617,murcia,CUP-PR,0
+618,larioja,CUP-PR,0
+619,alicante_alacant,CUP-PR,0
+620,castellon_castello,CUP-PR,0
+621,valencia_valencia,CUP-PR,0
+622,ceuta,CUP-PR,0
+623,melilla,CUP-PR,0
+624,almeria,PODEMOS-EU,0
+625,cadiz,PODEMOS-EU,0
+626,cordoba,PODEMOS-EU,0
+627,granada,PODEMOS-EU,0
+628,huelva,PODEMOS-EU,0
+629,jaen,PODEMOS-EU,0
+630,malaga,PODEMOS-EU,0
+631,sevilla,PODEMOS-EU,0
+632,huesca,PODEMOS-EU,0
+633,teruel,PODEMOS-EU,0
+634,zaragoza,PODEMOS-EU,0
+635,asturias,PODEMOS-EU,0
+636,illesbalears,PODEMOS-EU,0
+637,laspalmas,PODEMOS-EU,0
+638,santacruzdetenerife,PODEMOS-EU,0
+639,cantabria,PODEMOS-EU,0
+640,albacete,PODEMOS-EU,0
+641,ciudadreal,PODEMOS-EU,0
+642,cuenca,PODEMOS-EU,0
+643,guadalajara,PODEMOS-EU,0
+644,toledo,PODEMOS-EU,0
+645,avila,PODEMOS-EU,0
+646,burgos,PODEMOS-EU,0
+647,leon,PODEMOS-EU,0
+648,palencia,PODEMOS-EU,0
+649,salamanca,PODEMOS-EU,0
+650,segovia,PODEMOS-EU,0
+651,soria,PODEMOS-EU,0
+652,valladolid,PODEMOS-EU,0
+653,zamora,PODEMOS-EU,0
+654,barcelona,PODEMOS-EU,0
+655,girona,PODEMOS-EU,0
+656,lleida,PODEMOS-EU,0
+657,tarragona,PODEMOS-EU,0
+658,badajoz,PODEMOS-EU,0
+659,caceres,PODEMOS-EU,0
+660,acoruña,PODEMOS-EU,77069
+661,lugo,PODEMOS-EU,16548
+662,ourense,PODEMOS-EU,13573
+663,pontevedra,PODEMOS-EU,81041
+664,madrid,PODEMOS-EU,0
+665,navarra,PODEMOS-EU,0
+666,araba_alava,PODEMOS-EU,0
+667,gipuzkoa,PODEMOS-EU,0
+668,bizkaia,PODEMOS-EU,0
+669,murcia,PODEMOS-EU,0
+670,larioja,PODEMOS-EU,0
+671,alicante_alacant,PODEMOS-EU,0
+672,castellon_castello,PODEMOS-EU,0
+673,valencia_valencia,PODEMOS-EU,0
+674,ceuta,PODEMOS-EU,0
+675,melilla,PODEMOS-EU,0
+676,almeria,CCa-PNC-NC,0
+677,cadiz,CCa-PNC-NC,0
+678,cordoba,CCa-PNC-NC,0
+679,granada,CCa-PNC-NC,0
+680,huelva,CCa-PNC-NC,0
+681,jaen,CCa-PNC-NC,0
+682,malaga,CCa-PNC-NC,0
+683,sevilla,CCa-PNC-NC,0
+684,huesca,CCa-PNC-NC,0
+685,teruel,CCa-PNC-NC,0
+686,zaragoza,CCa-PNC-NC,0
+687,asturias,CCa-PNC-NC,0
+688,illesbalears,CCa-PNC-NC,0
+689,laspalmas,CCa-PNC-NC,48028
+690,santacruzdetenerife,CCa-PNC-NC,76261
+691,cantabria,CCa-PNC-NC,0
+692,albacete,CCa-PNC-NC,0
+693,ciudadreal,CCa-PNC-NC,0
+694,cuenca,CCa-PNC-NC,0
+695,guadalajara,CCa-PNC-NC,0
+696,toledo,CCa-PNC-NC,0
+697,avila,CCa-PNC-NC,0
+698,burgos,CCa-PNC-NC,0
+699,leon,CCa-PNC-NC,0
+700,palencia,CCa-PNC-NC,0
+701,salamanca,CCa-PNC-NC,0
+702,segovia,CCa-PNC-NC,0
+703,soria,CCa-PNC-NC,0
+704,valladolid,CCa-PNC-NC,0
+705,zamora,CCa-PNC-NC,0
+706,barcelona,CCa-PNC-NC,0
+707,girona,CCa-PNC-NC,0
+708,lleida,CCa-PNC-NC,0
+709,tarragona,CCa-PNC-NC,0
+710,badajoz,CCa-PNC-NC,0
+711,caceres,CCa-PNC-NC,0
+712,acoruña,CCa-PNC-NC,0
+713,lugo,CCa-PNC-NC,0
+714,ourense,CCa-PNC-NC,0
+715,pontevedra,CCa-PNC-NC,0
+716,madrid,CCa-PNC-NC,0
+717,navarra,CCa-PNC-NC,0
+718,araba_alava,CCa-PNC-NC,0
+719,gipuzkoa,CCa-PNC-NC,0
+720,bizkaia,CCa-PNC-NC,0
+721,murcia,CCa-PNC-NC,0
+722,larioja,CCa-PNC-NC,0
+723,alicante_alacant,CCa-PNC-NC,0
+724,castellon_castello,CCa-PNC-NC,0
+725,valencia_valencia,CCa-PNC-NC,0
+726,ceuta,CCa-PNC-NC,0
+727,melilla,CCa-PNC-NC,0
+728,almeria,NA+,0
+729,cadiz,NA+,0
+730,cordoba,NA+,0
+731,granada,NA+,0
+732,huelva,NA+,0
+733,jaen,NA+,0
+734,malaga,NA+,0
+735,sevilla,NA+,0
+736,huesca,NA+,0
+737,teruel,NA+,0
+738,zaragoza,NA+,0
+739,asturias,NA+,0
+740,illesbalears,NA+,0
+741,laspalmas,NA+,0
+742,santacruzdetenerife,NA+,0
+743,cantabria,NA+,0
+744,albacete,NA+,0
+745,ciudadreal,NA+,0
+746,cuenca,NA+,0
+747,guadalajara,NA+,0
+748,toledo,NA+,0
+749,avila,NA+,0
+750,burgos,NA+,0
+751,leon,NA+,0
+752,palencia,NA+,0
+753,salamanca,NA+,0
+754,segovia,NA+,0
+755,soria,NA+,0
+756,valladolid,NA+,0
+757,zamora,NA+,0
+758,barcelona,NA+,0
+759,girona,NA+,0
+760,lleida,NA+,0
+761,tarragona,NA+,0
+762,badajoz,NA+,0
+763,caceres,NA+,0
+764,acoruña,NA+,0
+765,lugo,NA+,0
+766,ourense,NA+,0
+767,pontevedra,NA+,0
+768,madrid,NA+,0
+769,navarra,NA+,99078
+770,araba_alava,NA+,0
+771,gipuzkoa,NA+,0
+772,bizkaia,NA+,0
+773,murcia,NA+,0
+774,larioja,NA+,0
+775,alicante_alacant,NA+,0
+776,castellon_castello,NA+,0
+777,valencia_valencia,NA+,0
+778,ceuta,NA+,0
+779,melilla,NA+,0
+780,almeria,MÉS COMPROMÍS,0
+781,cadiz,MÉS COMPROMÍS,0
+782,cordoba,MÉS COMPROMÍS,0
+783,granada,MÉS COMPROMÍS,0
+784,huelva,MÉS COMPROMÍS,0
+785,jaen,MÉS COMPROMÍS,0
+786,malaga,MÉS COMPROMÍS,0
+787,sevilla,MÉS COMPROMÍS,0
+788,huesca,MÉS COMPROMÍS,0
+789,teruel,MÉS COMPROMÍS,0
+790,zaragoza,MÉS COMPROMÍS,0
+791,asturias,MÉS COMPROMÍS,0
+792,illesbalears,MÉS COMPROMÍS,0
+793,laspalmas,MÉS COMPROMÍS,0
+794,santacruzdetenerife,MÉS COMPROMÍS,0
+795,cantabria,MÉS COMPROMÍS,0
+796,albacete,MÉS COMPROMÍS,0
+797,ciudadreal,MÉS COMPROMÍS,0
+798,cuenca,MÉS COMPROMÍS,0
+799,guadalajara,MÉS COMPROMÍS,0
+800,toledo,MÉS COMPROMÍS,0
+801,avila,MÉS COMPROMÍS,0
+802,burgos,MÉS COMPROMÍS,0
+803,leon,MÉS COMPROMÍS,0
+804,palencia,MÉS COMPROMÍS,0
+805,salamanca,MÉS COMPROMÍS,0
+806,segovia,MÉS COMPROMÍS,0
+807,soria,MÉS COMPROMÍS,0
+808,valladolid,MÉS COMPROMÍS,0
+809,zamora,MÉS COMPROMÍS,0
+810,barcelona,MÉS COMPROMÍS,0
+811,girona,MÉS COMPROMÍS,0
+812,lleida,MÉS COMPROMÍS,0
+813,tarragona,MÉS COMPROMÍS,0
+814,badajoz,MÉS COMPROMÍS,0
+815,caceres,MÉS COMPROMÍS,0
+816,acoruña,MÉS COMPROMÍS,0
+817,lugo,MÉS COMPROMÍS,0
+818,ourense,MÉS COMPROMÍS,0
+819,pontevedra,MÉS COMPROMÍS,0
+820,madrid,MÉS COMPROMÍS,0
+821,navarra,MÉS COMPROMÍS,0
+822,araba_alava,MÉS COMPROMÍS,0
+823,gipuzkoa,MÉS COMPROMÍS,0
+824,bizkaia,MÉS COMPROMÍS,0
+825,murcia,MÉS COMPROMÍS,0
+826,larioja,MÉS COMPROMÍS,0
+827,alicante_alacant,MÉS COMPROMÍS,35612
+828,castellon_castello,MÉS COMPROMÍS,18140
+829,valencia_valencia,MÉS COMPROMÍS,122535
+830,ceuta,MÉS COMPROMÍS,0
+831,melilla,MÉS COMPROMÍS,0
+832,almeria,BNG,0
+833,cadiz,BNG,0
+834,cordoba,BNG,0
+835,granada,BNG,0
+836,huelva,BNG,0
+837,jaen,BNG,0
+838,malaga,BNG,0
+839,sevilla,BNG,0
+840,huesca,BNG,0
+841,teruel,BNG,0
+842,zaragoza,BNG,0
+843,asturias,BNG,0
+844,illesbalears,BNG,0
+845,laspalmas,BNG,0
+846,santacruzdetenerife,BNG,0
+847,cantabria,BNG,0
+848,albacete,BNG,0
+849,ciudadreal,BNG,0
+850,cuenca,BNG,0
+851,guadalajara,BNG,0
+852,toledo,BNG,0
+853,avila,BNG,0
+854,burgos,BNG,0
+855,leon,BNG,0
+856,palencia,BNG,0
+857,salamanca,BNG,0
+858,segovia,BNG,0
+859,soria,BNG,0
+860,valladolid,BNG,0
+861,zamora,BNG,0
+862,barcelona,BNG,0
+863,girona,BNG,0
+864,lleida,BNG,0
+865,tarragona,BNG,0
+866,badajoz,BNG,0
+867,caceres,BNG,0
+868,acoruña,BNG,58135
+869,lugo,BNG,12940
+870,ourense,BNG,10256
+871,pontevedra,BNG,39125
+872,madrid,BNG,0
+873,navarra,BNG,0
+874,araba_alava,BNG,0
+875,gipuzkoa,BNG,0
+876,bizkaia,BNG,0
+877,murcia,BNG,0
+878,larioja,BNG,0
+879,alicante_alacant,BNG,0
+880,castellon_castello,BNG,0
+881,valencia_valencia,BNG,0
+882,ceuta,BNG,0
+883,melilla,BNG,0
+884,almeria,PRC,0
+885,cadiz,PRC,0
+886,cordoba,PRC,0
+887,granada,PRC,0
+888,huelva,PRC,0
+889,jaen,PRC,0
+890,malaga,PRC,0
+891,sevilla,PRC,0
+892,huesca,PRC,0
+893,teruel,PRC,0
+894,zaragoza,PRC,0
+895,asturias,PRC,0
+896,illesbalears,PRC,0
+897,laspalmas,PRC,0
+898,santacruzdetenerife,PRC,0
+899,cantabria,PRC,68830
+900,albacete,PRC,0
+901,ciudadreal,PRC,0
+902,cuenca,PRC,0
+903,guadalajara,PRC,0
+904,toledo,PRC,0
+905,avila,PRC,0
+906,burgos,PRC,0
+907,leon,PRC,0
+908,palencia,PRC,0
+909,salamanca,PRC,0
+910,segovia,PRC,0
+911,soria,PRC,0
+912,valladolid,PRC,0
+913,zamora,PRC,0
+914,barcelona,PRC,0
+915,girona,PRC,0
+916,lleida,PRC,0
+917,tarragona,PRC,0
+918,badajoz,PRC,0
+919,caceres,PRC,0
+920,acoruña,PRC,0
+921,lugo,PRC,0
+922,ourense,PRC,0
+923,pontevedra,PRC,0
+924,madrid,PRC,0
+925,navarra,PRC,0
+926,araba_alava,PRC,0
+927,gipuzkoa,PRC,0
+928,bizkaia,PRC,0
+929,murcia,PRC,0
+930,larioja,PRC,0
+931,alicante_alacant,PRC,0
+932,castellon_castello,PRC,0
+933,valencia_valencia,PRC,0
+934,ceuta,PRC,0
+935,melilla,PRC,0
+936,almeria,¡TERUEL EXISTE!,0
+937,cadiz,¡TERUEL EXISTE!,0
+938,cordoba,¡TERUEL EXISTE!,0
+939,granada,¡TERUEL EXISTE!,0
+940,huelva,¡TERUEL EXISTE!,0
+941,jaen,¡TERUEL EXISTE!,0
+942,malaga,¡TERUEL EXISTE!,0
+943,sevilla,¡TERUEL EXISTE!,0
+944,huesca,¡TERUEL EXISTE!,0
+945,teruel,¡TERUEL EXISTE!,19761
+946,zaragoza,¡TERUEL EXISTE!,0
+947,asturias,¡TERUEL EXISTE!,0
+948,illesbalears,¡TERUEL EXISTE!,0
+949,laspalmas,¡TERUEL EXISTE!,0
+950,santacruzdetenerife,¡TERUEL EXISTE!,0
+951,cantabria,¡TERUEL EXISTE!,0
+952,albacete,¡TERUEL EXISTE!,0
+953,ciudadreal,¡TERUEL EXISTE!,0
+954,cuenca,¡TERUEL EXISTE!,0
+955,guadalajara,¡TERUEL EXISTE!,0
+956,toledo,¡TERUEL EXISTE!,0
+957,avila,¡TERUEL EXISTE!,0
+958,burgos,¡TERUEL EXISTE!,0
+959,leon,¡TERUEL EXISTE!,0
+960,palencia,¡TERUEL EXISTE!,0
+961,salamanca,¡TERUEL EXISTE!,0
+962,segovia,¡TERUEL EXISTE!,0
+963,soria,¡TERUEL EXISTE!,0
+964,valladolid,¡TERUEL EXISTE!,0
+965,zamora,¡TERUEL EXISTE!,0
+966,barcelona,¡TERUEL EXISTE!,0
+967,girona,¡TERUEL EXISTE!,0
+968,lleida,¡TERUEL EXISTE!,0
+969,tarragona,¡TERUEL EXISTE!,0
+970,badajoz,¡TERUEL EXISTE!,0
+971,caceres,¡TERUEL EXISTE!,0
+972,acoruña,¡TERUEL EXISTE!,0
+973,lugo,¡TERUEL EXISTE!,0
+974,ourense,¡TERUEL EXISTE!,0
+975,pontevedra,¡TERUEL EXISTE!,0
+976,madrid,¡TERUEL EXISTE!,0
+977,navarra,¡TERUEL EXISTE!,0
+978,araba_alava,¡TERUEL EXISTE!,0
+979,gipuzkoa,¡TERUEL EXISTE!,0
+980,bizkaia,¡TERUEL EXISTE!,0
+981,murcia,¡TERUEL EXISTE!,0
+982,larioja,¡TERUEL EXISTE!,0
+983,alicante_alacant,¡TERUEL EXISTE!,0
+984,castellon_castello,¡TERUEL EXISTE!,0
+985,valencia_valencia,¡TERUEL EXISTE!,0
+986,ceuta,¡TERUEL EXISTE!,0
+987,melilla,¡TERUEL EXISTE!,0
+988,almeria,PACMA,2582
+989,cadiz,PACMA,8437
+990,cordoba,PACMA,3946
+991,granada,PACMA,4095
+992,huelva,PACMA,2535
+993,jaen,PACMA,2766
+994,malaga,PACMA,11089
+995,sevilla,PACMA,12035
+996,huesca,PACMA,735
+997,teruel,PACMA,212
+998,zaragoza,PACMA,3618
+999,asturias,PACMA,4412
+1000,illesbalears,PACMA,6207
+1001,laspalmas,PACMA,5796
+1002,santacruzdetenerife,PACMA,6150
+1003,cantabria,PACMA,1856
+1004,albacete,PACMA,1651
+1005,ciudadreal,PACMA,1788
+1006,cuenca,PACMA,545
+1007,guadalajara,PACMA,1266
+1008,toledo,PACMA,2680
+1009,avila,PACMA,432
+1010,burgos,PACMA,1415
+1011,leon,PACMA,1505
+1012,palencia,PACMA,582
+1013,salamanca,PACMA,964
+1014,segovia,PACMA,462
+1015,soria,PACMA,205
+1016,valladolid,PACMA,2088
+1017,zamora,PACMA,432
+1018,barcelona,PACMA,34752
+1019,girona,PACMA,3724
+1020,lleida,PACMA,1521
+1021,tarragona,PACMA,4588
+1022,badajoz,PACMA,2400
+1023,caceres,PACMA,1276
+1024,acoruña,PACMA,4572
+1025,lugo,PACMA,1190
+1026,ourense,PACMA,1094
+1027,pontevedra,PACMA,4619
+1028,madrid,PACMA,31983
+1029,navarra,PACMA,2250
+1030,araba_alava,PACMA,1152
+1031,gipuzkoa,PACMA,2070
+1032,bizkaia,PACMA,3783
+1033,murcia,PACMA,7005
+1034,larioja,PACMA,1096
+1035,alicante_alacant,PACMA,9417
+1036,castellon_castello,PACMA,2483
+1037,valencia_valencia,PACMA,15395
+1038,ceuta,PACMA,0
+1039,melilla,PACMA,0
+1040,almeria,MÁS PAÍS,0
+1041,cadiz,MÁS PAÍS,0
+1042,cordoba,MÁS PAÍS,0
+1043,granada,MÁS PAÍS,0
+1044,huelva,MÁS PAÍS,0
+1045,jaen,MÁS PAÍS,0
+1046,malaga,MÁS PAÍS,0
+1047,sevilla,MÁS PAÍS,0
+1048,huesca,MÁS PAÍS,0
+1049,teruel,MÁS PAÍS,0
+1050,zaragoza,MÁS PAÍS,0
+1051,asturias,MÁS PAÍS,0
+1052,illesbalears,MÁS PAÍS,10652
+1053,laspalmas,MÁS PAÍS,0
+1054,santacruzdetenerife,MÁS PAÍS,0
+1055,cantabria,MÁS PAÍS,0
+1056,albacete,MÁS PAÍS,0
+1057,ciudadreal,MÁS PAÍS,0
+1058,cuenca,MÁS PAÍS,0
+1059,guadalajara,MÁS PAÍS,0
+1060,toledo,MÁS PAÍS,0
+1061,avila,MÁS PAÍS,0
+1062,burgos,MÁS PAÍS,0
+1063,leon,MÁS PAÍS,0
+1064,palencia,MÁS PAÍS,0
+1065,salamanca,MÁS PAÍS,0
+1066,segovia,MÁS PAÍS,0
+1067,soria,MÁS PAÍS,0
+1068,valladolid,MÁS PAÍS,0
+1069,zamora,MÁS PAÍS,0
+1070,barcelona,MÁS PAÍS,41826
+1071,girona,MÁS PAÍS,0
+1072,lleida,MÁS PAÍS,0
+1073,tarragona,MÁS PAÍS,0
+1074,badajoz,MÁS PAÍS,0
+1075,caceres,MÁS PAÍS,0
+1076,acoruña,MÁS PAÍS,0
+1077,lugo,MÁS PAÍS,0
+1078,ourense,MÁS PAÍS,0
+1079,pontevedra,MÁS PAÍS,0
+1080,madrid,MÁS PAÍS,0
+1081,navarra,MÁS PAÍS,0
+1082,araba_alava,MÁS PAÍS,0
+1083,gipuzkoa,MÁS PAÍS,0
+1084,bizkaia,MÁS PAÍS,0
+1085,murcia,MÁS PAÍS,0
+1086,larioja,MÁS PAÍS,0
+1087,alicante_alacant,MÁS PAÍS,0
+1088,castellon_castello,MÁS PAÍS,0
+1089,valencia_valencia,MÁS PAÍS,0
+1090,ceuta,MÁS PAÍS,0
+1091,melilla,MÁS PAÍS,0
+1092,almeria,RECORTES CERO-GV,360
+1093,cadiz,RECORTES CERO-GV,915
+1094,cordoba,RECORTES CERO-GV,549
+1095,granada,RECORTES CERO-GV,545
+1096,huelva,RECORTES CERO-GV,495
+1097,jaen,RECORTES CERO-GV,464
+1098,malaga,RECORTES CERO-GV,1261
+1099,sevilla,RECORTES CERO-GV,1456
+1100,huesca,RECORTES CERO-GV,198
+1101,teruel,RECORTES CERO-GV,0
+1102,zaragoza,RECORTES CERO-GV,861
+1103,asturias,RECORTES CERO-GV,732
+1104,illesbalears,RECORTES CERO-GV,947
+1105,laspalmas,RECORTES CERO-GV,505
+1106,santacruzdetenerife,RECORTES CERO-GV,489
+1107,cantabria,RECORTES CERO-GV,232
+1108,albacete,RECORTES CERO-GV,222
+1109,ciudadreal,RECORTES CERO-GV,447
+1110,cuenca,RECORTES CERO-GV,125
+1111,guadalajara,RECORTES CERO-GV,287
+1112,toledo,RECORTES CERO-GV,556
+1113,avila,RECORTES CERO-GV,105
+1114,burgos,RECORTES CERO-GV,645
+1115,leon,RECORTES CERO-GV,178
+1116,palencia,RECORTES CERO-GV,256
+1117,salamanca,RECORTES CERO-GV,306
+1118,segovia,RECORTES CERO-GV,191
+1119,soria,RECORTES CERO-GV,95
+1120,valladolid,RECORTES CERO-GV,594
+1121,zamora,RECORTES CERO-GV,129
+1122,barcelona,RECORTES CERO-GV,4698
+1123,girona,RECORTES CERO-GV,508
+1124,lleida,RECORTES CERO-GV,183
+1125,tarragona,RECORTES CERO-GV,533
+1126,badajoz,RECORTES CERO-GV,674
+1127,caceres,RECORTES CERO-GV,342
+1128,acoruña,RECORTES CERO-GV,925
+1129,lugo,RECORTES CERO-GV,237
+1130,ourense,RECORTES CERO-GV,221
+1131,pontevedra,RECORTES CERO-GV,790
+1132,madrid,RECORTES CERO-GV,5129
+1133,navarra,RECORTES CERO-GV,965
+1134,araba_alava,RECORTES CERO-GV,409
+1135,gipuzkoa,RECORTES CERO-GV,510
+1136,bizkaia,RECORTES CERO-GV,753
+1137,murcia,RECORTES CERO-GV,881
+1138,larioja,RECORTES CERO-GV,307
+1139,alicante_alacant,RECORTES CERO-GV,891
+1140,castellon_castello,RECORTES CERO-GV,257
+1141,valencia_valencia,RECORTES CERO-GV,1540
+1142,ceuta,RECORTES CERO-GV,125
+1143,melilla,RECORTES CERO-GV,19
+1144,almeria,PUM+J,371
+1145,cadiz,PUM+J,707
+1146,cordoba,PUM+J,478
+1147,granada,PUM+J,624
+1148,huelva,PUM+J,351
+1149,jaen,PUM+J,419
+1150,malaga,PUM+J,904
+1151,sevilla,PUM+J,1402
+1152,huesca,PUM+J,153
+1153,teruel,PUM+J,35
+1154,zaragoza,PUM+J,485
+1155,asturias,PUM+J,487
+1156,illesbalears,PUM+J,573
+1157,laspalmas,PUM+J,552
+1158,santacruzdetenerife,PUM+J,319
+1159,cantabria,PUM+J,187
+1160,albacete,PUM+J,375
+1161,ciudadreal,PUM+J,484
+1162,cuenca,PUM+J,129
+1163,guadalajara,PUM+J,284
+1164,toledo,PUM+J,661
+1165,avila,PUM+J,102
+1166,burgos,PUM+J,620
+1167,leon,PUM+J,317
+1168,palencia,PUM+J,209
+1169,salamanca,PUM+J,266
+1170,segovia,PUM+J,133
+1171,soria,PUM+J,95
+1172,valladolid,PUM+J,586
+1173,zamora,PUM+J,143
+1174,barcelona,PUM+J,1577
+1175,girona,PUM+J,339
+1176,lleida,PUM+J,169
+1177,tarragona,PUM+J,351
+1178,badajoz,PUM+J,925
+1179,caceres,PUM+J,295
+1180,acoruña,PUM+J,607
+1181,lugo,PUM+J,221
+1182,ourense,PUM+J,307
+1183,pontevedra,PUM+J,447
+1184,madrid,PUM+J,4305
+1185,navarra,PUM+J,928
+1186,araba_alava,PUM+J,326
+1187,gipuzkoa,PUM+J,401
+1188,bizkaia,PUM+J,494
+1189,murcia,PUM+J,431
+1190,larioja,PUM+J,297
+1191,alicante_alacant,PUM+J,948
+1192,castellon_castello,PUM+J,370
+1193,valencia_valencia,PUM+J,1009
+1194,ceuta,PUM+J,43
+1195,melilla,PUM+J,31
+1196,almeria,M PAÍS-CHA-EQUO,0
+1197,cadiz,M PAÍS-CHA-EQUO,0
+1198,cordoba,M PAÍS-CHA-EQUO,0
+1199,granada,M PAÍS-CHA-EQUO,0
+1200,huelva,M PAÍS-CHA-EQUO,0
+1201,jaen,M PAÍS-CHA-EQUO,0
+1202,malaga,M PAÍS-CHA-EQUO,0
+1203,sevilla,M PAÍS-CHA-EQUO,0
+1204,huesca,M PAÍS-CHA-EQUO,0
+1205,teruel,M PAÍS-CHA-EQUO,0
+1206,zaragoza,M PAÍS-CHA-EQUO,23196
+1207,asturias,M PAÍS-CHA-EQUO,0
+1208,illesbalears,M PAÍS-CHA-EQUO,0
+1209,laspalmas,M PAÍS-CHA-EQUO,0
+1210,santacruzdetenerife,M PAÍS-CHA-EQUO,0
+1211,cantabria,M PAÍS-CHA-EQUO,0
+1212,albacete,M PAÍS-CHA-EQUO,0
+1213,ciudadreal,M PAÍS-CHA-EQUO,0
+1214,cuenca,M PAÍS-CHA-EQUO,0
+1215,guadalajara,M PAÍS-CHA-EQUO,0
+1216,toledo,M PAÍS-CHA-EQUO,0
+1217,avila,M PAÍS-CHA-EQUO,0
+1218,burgos,M PAÍS-CHA-EQUO,0
+1219,leon,M PAÍS-CHA-EQUO,0
+1220,palencia,M PAÍS-CHA-EQUO,0
+1221,salamanca,M PAÍS-CHA-EQUO,0
+1222,segovia,M PAÍS-CHA-EQUO,0
+1223,soria,M PAÍS-CHA-EQUO,0
+1224,valladolid,M PAÍS-CHA-EQUO,0
+1225,zamora,M PAÍS-CHA-EQUO,0
+1226,barcelona,M PAÍS-CHA-EQUO,0
+1227,girona,M PAÍS-CHA-EQUO,0
+1228,lleida,M PAÍS-CHA-EQUO,0
+1229,tarragona,M PAÍS-CHA-EQUO,0
+1230,badajoz,M PAÍS-CHA-EQUO,0
+1231,caceres,M PAÍS-CHA-EQUO,0
+1232,acoruña,M PAÍS-CHA-EQUO,0
+1233,lugo,M PAÍS-CHA-EQUO,0
+1234,ourense,M PAÍS-CHA-EQUO,0
+1235,pontevedra,M PAÍS-CHA-EQUO,0
+1236,madrid,M PAÍS-CHA-EQUO,0
+1237,navarra,M PAÍS-CHA-EQUO,0
+1238,araba_alava,M PAÍS-CHA-EQUO,0
+1239,gipuzkoa,M PAÍS-CHA-EQUO,0
+1240,bizkaia,M PAÍS-CHA-EQUO,0
+1241,murcia,M PAÍS-CHA-EQUO,0
+1242,larioja,M PAÍS-CHA-EQUO,0
+1243,alicante_alacant,M PAÍS-CHA-EQUO,0
+1244,castellon_castello,M PAÍS-CHA-EQUO,0
+1245,valencia_valencia,M PAÍS-CHA-EQUO,0
+1246,ceuta,M PAÍS-CHA-EQUO,0
+1247,melilla,M PAÍS-CHA-EQUO,0
+1248,almeria,MÉS-ESQUERRA,0
+1249,cadiz,MÉS-ESQUERRA,0
+1250,cordoba,MÉS-ESQUERRA,0
+1251,granada,MÉS-ESQUERRA,0
+1252,huelva,MÉS-ESQUERRA,0
+1253,jaen,MÉS-ESQUERRA,0
+1254,malaga,MÉS-ESQUERRA,0
+1255,sevilla,MÉS-ESQUERRA,0
+1256,huesca,MÉS-ESQUERRA,0
+1257,teruel,MÉS-ESQUERRA,0
+1258,zaragoza,MÉS-ESQUERRA,0
+1259,asturias,MÉS-ESQUERRA,0
+1260,illesbalears,MÉS-ESQUERRA,18295
+1261,laspalmas,MÉS-ESQUERRA,0
+1262,santacruzdetenerife,MÉS-ESQUERRA,0
+1263,cantabria,MÉS-ESQUERRA,0
+1264,albacete,MÉS-ESQUERRA,0
+1265,ciudadreal,MÉS-ESQUERRA,0
+1266,cuenca,MÉS-ESQUERRA,0
+1267,guadalajara,MÉS-ESQUERRA,0
+1268,toledo,MÉS-ESQUERRA,0
+1269,avila,MÉS-ESQUERRA,0
+1270,burgos,MÉS-ESQUERRA,0
+1271,leon,MÉS-ESQUERRA,0
+1272,palencia,MÉS-ESQUERRA,0
+1273,salamanca,MÉS-ESQUERRA,0
+1274,segovia,MÉS-ESQUERRA,0
+1275,soria,MÉS-ESQUERRA,0
+1276,valladolid,MÉS-ESQUERRA,0
+1277,zamora,MÉS-ESQUERRA,0
+1278,barcelona,MÉS-ESQUERRA,0
+1279,girona,MÉS-ESQUERRA,0
+1280,lleida,MÉS-ESQUERRA,0
+1281,tarragona,MÉS-ESQUERRA,0
+1282,badajoz,MÉS-ESQUERRA,0
+1283,caceres,MÉS-ESQUERRA,0
+1284,acoruña,MÉS-ESQUERRA,0
+1285,lugo,MÉS-ESQUERRA,0
+1286,ourense,MÉS-ESQUERRA,0
+1287,pontevedra,MÉS-ESQUERRA,0
+1288,madrid,MÉS-ESQUERRA,0
+1289,navarra,MÉS-ESQUERRA,0
+1290,araba_alava,MÉS-ESQUERRA,0
+1291,gipuzkoa,MÉS-ESQUERRA,0
+1292,bizkaia,MÉS-ESQUERRA,0
+1293,murcia,MÉS-ESQUERRA,0
+1294,larioja,MÉS-ESQUERRA,0
+1295,alicante_alacant,MÉS-ESQUERRA,0
+1296,castellon_castello,MÉS-ESQUERRA,0
+1297,valencia_valencia,MÉS-ESQUERRA,0
+1298,ceuta,MÉS-ESQUERRA,0
+1299,melilla,MÉS-ESQUERRA,0
+1300,almeria,AxSÍ,318
+1301,cadiz,AxSÍ,3509
+1302,cordoba,AxSÍ,1019
+1303,granada,AxSÍ,619
+1304,huelva,AxSÍ,856
+1305,jaen,AxSÍ,856
+1306,malaga,AxSÍ,1686
+1307,sevilla,AxSÍ,5183
+1308,huesca,AxSÍ,0
+1309,teruel,AxSÍ,0
+1310,zaragoza,AxSÍ,0
+1311,asturias,AxSÍ,0
+1312,illesbalears,AxSÍ,0
+1313,laspalmas,AxSÍ,0
+1314,santacruzdetenerife,AxSÍ,0
+1315,cantabria,AxSÍ,0
+1316,albacete,AxSÍ,0
+1317,ciudadreal,AxSÍ,0
+1318,cuenca,AxSÍ,0
+1319,guadalajara,AxSÍ,0
+1320,toledo,AxSÍ,0
+1321,avila,AxSÍ,0
+1322,burgos,AxSÍ,0
+1323,leon,AxSÍ,0
+1324,palencia,AxSÍ,0
+1325,salamanca,AxSÍ,0
+1326,segovia,AxSÍ,0
+1327,soria,AxSÍ,0
+1328,valladolid,AxSÍ,0
+1329,zamora,AxSÍ,0
+1330,barcelona,AxSÍ,0
+1331,girona,AxSÍ,0
+1332,lleida,AxSÍ,0
+1333,tarragona,AxSÍ,0
+1334,badajoz,AxSÍ,0
+1335,caceres,AxSÍ,0
+1336,acoruña,AxSÍ,0
+1337,lugo,AxSÍ,0
+1338,ourense,AxSÍ,0
+1339,pontevedra,AxSÍ,0
+1340,madrid,AxSÍ,0
+1341,navarra,AxSÍ,0
+1342,araba_alava,AxSÍ,0
+1343,gipuzkoa,AxSÍ,0
+1344,bizkaia,AxSÍ,0
+1345,murcia,AxSÍ,0
+1346,larioja,AxSÍ,0
+1347,alicante_alacant,AxSÍ,0
+1348,castellon_castello,AxSÍ,0
+1349,valencia_valencia,AxSÍ,0
+1350,ceuta,AxSÍ,0
+1351,melilla,AxSÍ,0
+1352,almeria,PCPE,303
+1353,cadiz,PCPE,639
+1354,cordoba,PCPE,544
+1355,granada,PCPE,371
+1356,huelva,PCPE,159
+1357,jaen,PCPE,0
+1358,malaga,PCPE,581
+1359,sevilla,PCPE,842
+1360,huesca,PCPE,100
+1361,teruel,PCPE,45
+1362,zaragoza,PCPE,331
+1363,asturias,PCPE,626
+1364,illesbalears,PCPE,0
+1365,laspalmas,PCPE,728
+1366,santacruzdetenerife,PCPE,464
+1367,cantabria,PCPE,262
+1368,albacete,PCPE,177
+1369,ciudadreal,PCPE,0
+1370,cuenca,PCPE,83
+1371,guadalajara,PCPE,87
+1372,toledo,PCPE,282
+1373,avila,PCPE,0
+1374,burgos,PCPE,0
+1375,leon,PCPE,0
+1376,palencia,PCPE,0
+1377,salamanca,PCPE,0
+1378,segovia,PCPE,0
+1379,soria,PCPE,0
+1380,valladolid,PCPE,223
+1381,zamora,PCPE,0
+1382,barcelona,PCPE,1509
+1383,girona,PCPE,327
+1384,lleida,PCPE,129
+1385,tarragona,PCPE,180
+1386,badajoz,PCPE,0
+1387,caceres,PCPE,0
+1388,acoruña,PCPE,0
+1389,lugo,PCPE,0
+1390,ourense,PCPE,0
+1391,pontevedra,PCPE,0
+1392,madrid,PCPE,2099
+1393,navarra,PCPE,0
+1394,araba_alava,PCPE,0
+1395,gipuzkoa,PCPE,0
+1396,bizkaia,PCPE,0
+1397,murcia,PCPE,490
+1398,larioja,PCPE,0
+1399,alicante_alacant,PCPE,911
+1400,castellon_castello,PCPE,194
+1401,valencia_valencia,PCPE,1142
+1402,ceuta,PCPE,0
+1403,melilla,PCPE,0
+1404,almeria,PCTE,0
+1405,cadiz,PCTE,0
+1406,cordoba,PCTE,321
+1407,granada,PCTE,322
+1408,huelva,PCTE,112
+1409,jaen,PCTE,471
+1410,malaga,PCTE,381
+1411,sevilla,PCTE,550
+1412,huesca,PCTE,86
+1413,teruel,PCTE,0
+1414,zaragoza,PCTE,414
+1415,asturias,PCTE,843
+1416,illesbalears,PCTE,0
+1417,laspalmas,PCTE,0
+1418,santacruzdetenerife,PCTE,0
+1419,cantabria,PCTE,247
+1420,albacete,PCTE,153
+1421,ciudadreal,PCTE,0
+1422,cuenca,PCTE,66
+1423,guadalajara,PCTE,106
+1424,toledo,PCTE,217
+1425,avila,PCTE,101
+1426,burgos,PCTE,404
+1427,leon,PCTE,379
+1428,palencia,PCTE,106
+1429,salamanca,PCTE,196
+1430,segovia,PCTE,67
+1431,soria,PCTE,87
+1432,valladolid,PCTE,281
+1433,zamora,PCTE,120
+1434,barcelona,PCTE,1587
+1435,girona,PCTE,316
+1436,lleida,PCTE,126
+1437,tarragona,PCTE,191
+1438,badajoz,PCTE,0
+1439,caceres,PCTE,0
+1440,acoruña,PCTE,472
+1441,lugo,PCTE,135
+1442,ourense,PCTE,158
+1443,pontevedra,PCTE,493
+1444,madrid,PCTE,1895
+1445,navarra,PCTE,381
+1446,araba_alava,PCTE,215
+1447,gipuzkoa,PCTE,276
+1448,bizkaia,PCTE,491
+1449,murcia,PCTE,0
+1450,larioja,PCTE,263
+1451,alicante_alacant,PCTE,0
+1452,castellon_castello,PCTE,0
+1453,valencia_valencia,PCTE,0
+1454,ceuta,PCTE,0
+1455,melilla,PCTE,0
+1456,almeria,GBAI,0
+1457,cadiz,GBAI,0
+1458,cordoba,GBAI,0
+1459,granada,GBAI,0
+1460,huelva,GBAI,0
+1461,jaen,GBAI,0
+1462,malaga,GBAI,0
+1463,sevilla,GBAI,0
+1464,huesca,GBAI,0
+1465,teruel,GBAI,0
+1466,zaragoza,GBAI,0
+1467,asturias,GBAI,0
+1468,illesbalears,GBAI,0
+1469,laspalmas,GBAI,0
+1470,santacruzdetenerife,GBAI,0
+1471,cantabria,GBAI,0
+1472,albacete,GBAI,0
+1473,ciudadreal,GBAI,0
+1474,cuenca,GBAI,0
+1475,guadalajara,GBAI,0
+1476,toledo,GBAI,0
+1477,avila,GBAI,0
+1478,burgos,GBAI,0
+1479,leon,GBAI,0
+1480,palencia,GBAI,0
+1481,salamanca,GBAI,0
+1482,segovia,GBAI,0
+1483,soria,GBAI,0
+1484,valladolid,GBAI,0
+1485,zamora,GBAI,0
+1486,barcelona,GBAI,0
+1487,girona,GBAI,0
+1488,lleida,GBAI,0
+1489,tarragona,GBAI,0
+1490,badajoz,GBAI,0
+1491,caceres,GBAI,0
+1492,acoruña,GBAI,0
+1493,lugo,GBAI,0
+1494,ourense,GBAI,0
+1495,pontevedra,GBAI,0
+1496,madrid,GBAI,0
+1497,navarra,GBAI,12709
+1498,araba_alava,GBAI,0
+1499,gipuzkoa,GBAI,0
+1500,bizkaia,GBAI,0
+1501,murcia,GBAI,0
+1502,larioja,GBAI,0
+1503,alicante_alacant,GBAI,0
+1504,castellon_castello,GBAI,0
+1505,valencia_valencia,GBAI,0
+1506,ceuta,GBAI,0
+1507,melilla,GBAI,0
+1508,almeria,UPL,0
+1509,cadiz,UPL,0
+1510,cordoba,UPL,0
+1511,granada,UPL,0
+1512,huelva,UPL,0
+1513,jaen,UPL,0
+1514,malaga,UPL,0
+1515,sevilla,UPL,0
+1516,huesca,UPL,0
+1517,teruel,UPL,0
+1518,zaragoza,UPL,0
+1519,asturias,UPL,0
+1520,illesbalears,UPL,0
+1521,laspalmas,UPL,0
+1522,santacruzdetenerife,UPL,0
+1523,cantabria,UPL,0
+1524,albacete,UPL,0
+1525,ciudadreal,UPL,0
+1526,cuenca,UPL,0
+1527,guadalajara,UPL,0
+1528,toledo,UPL,0
+1529,avila,UPL,0
+1530,burgos,UPL,0
+1531,leon,UPL,9588
+1532,palencia,UPL,0
+1533,salamanca,UPL,286
+1534,segovia,UPL,0
+1535,soria,UPL,0
+1536,valladolid,UPL,0
+1537,zamora,UPL,369
+1538,barcelona,UPL,0
+1539,girona,UPL,0
+1540,lleida,UPL,0
+1541,tarragona,UPL,0
+1542,badajoz,UPL,0
+1543,caceres,UPL,0
+1544,acoruña,UPL,0
+1545,lugo,UPL,0
+1546,ourense,UPL,0
+1547,pontevedra,UPL,0
+1548,madrid,UPL,0
+1549,navarra,UPL,0
+1550,araba_alava,UPL,0
+1551,gipuzkoa,UPL,0
+1552,bizkaia,UPL,0
+1553,murcia,UPL,0
+1554,larioja,UPL,0
+1555,alicante_alacant,UPL,0
+1556,castellon_castello,UPL,0
+1557,valencia_valencia,UPL,0
+1558,ceuta,UPL,0
+1559,melilla,UPL,0
+1560,almeria,PCOE,0
+1561,cadiz,PCOE,1739
+1562,cordoba,PCOE,1062
+1563,granada,PCOE,0
+1564,huelva,PCOE,464
+1565,jaen,PCOE,0
+1566,malaga,PCOE,1265
+1567,sevilla,PCOE,1495
+1568,huesca,PCOE,0
+1569,teruel,PCOE,96
+1570,zaragoza,PCOE,0
+1571,asturias,PCOE,0
+1572,illesbalears,PCOE,0
+1573,laspalmas,PCOE,0
+1574,santacruzdetenerife,PCOE,0
+1575,cantabria,PCOE,0
+1576,albacete,PCOE,0
+1577,ciudadreal,PCOE,0
+1578,cuenca,PCOE,0
+1579,guadalajara,PCOE,195
+1580,toledo,PCOE,0
+1581,avila,PCOE,0
+1582,burgos,PCOE,0
+1583,leon,PCOE,0
+1584,palencia,PCOE,0
+1585,salamanca,PCOE,0
+1586,segovia,PCOE,173
+1587,soria,PCOE,0
+1588,valladolid,PCOE,0
+1589,zamora,PCOE,0
+1590,barcelona,PCOE,0
+1591,girona,PCOE,0
+1592,lleida,PCOE,0
+1593,tarragona,PCOE,0
+1594,badajoz,PCOE,0
+1595,caceres,PCOE,0
+1596,acoruña,PCOE,1689
+1597,lugo,PCOE,178
+1598,ourense,PCOE,0
+1599,pontevedra,PCOE,0
+1600,madrid,PCOE,0
+1601,navarra,PCOE,0
+1602,araba_alava,PCOE,0
+1603,gipuzkoa,PCOE,0
+1604,bizkaia,PCOE,0
+1605,murcia,PCOE,990
+1606,larioja,PCOE,0
+1607,alicante_alacant,PCOE,0
+1608,castellon_castello,PCOE,379
+1609,valencia_valencia,PCOE,0
+1610,ceuta,PCOE,0
+1611,melilla,PCOE,0
+1612,almeria,CpM,0
+1613,cadiz,CpM,0
+1614,cordoba,CpM,0
+1615,granada,CpM,0
+1616,huelva,CpM,0
+1617,jaen,CpM,0
+1618,malaga,CpM,0
+1619,sevilla,CpM,0
+1620,huesca,CpM,0
+1621,teruel,CpM,0
+1622,zaragoza,CpM,0
+1623,asturias,CpM,0
+1624,illesbalears,CpM,0
+1625,laspalmas,CpM,0
+1626,santacruzdetenerife,CpM,0
+1627,cantabria,CpM,0
+1628,albacete,CpM,0
+1629,ciudadreal,CpM,0
+1630,cuenca,CpM,0
+1631,guadalajara,CpM,0
+1632,toledo,CpM,0
+1633,avila,CpM,0
+1634,burgos,CpM,0
+1635,leon,CpM,0
+1636,palencia,CpM,0
+1637,salamanca,CpM,0
+1638,segovia,CpM,0
+1639,soria,CpM,0
+1640,valladolid,CpM,0
+1641,zamora,CpM,0
+1642,barcelona,CpM,0
+1643,girona,CpM,0
+1644,lleida,CpM,0
+1645,tarragona,CpM,0
+1646,badajoz,CpM,0
+1647,caceres,CpM,0
+1648,acoruña,CpM,0
+1649,lugo,CpM,0
+1650,ourense,CpM,0
+1651,pontevedra,CpM,0
+1652,madrid,CpM,0
+1653,navarra,CpM,0
+1654,araba_alava,CpM,0
+1655,gipuzkoa,CpM,0
+1656,bizkaia,CpM,0
+1657,murcia,CpM,0
+1658,larioja,CpM,0
+1659,alicante_alacant,CpM,0
+1660,castellon_castello,CpM,0
+1661,valencia_valencia,CpM,0
+1662,ceuta,CpM,0
+1663,melilla,CpM,8955
+1664,almeria,EB,513
+1665,cadiz,EB,0
+1666,cordoba,EB,760
+1667,granada,EB,0
+1668,huelva,EB,0
+1669,jaen,EB,0
+1670,malaga,EB,0
+1671,sevilla,EB,0
+1672,huesca,EB,393
+1673,teruel,EB,0
+1674,zaragoza,EB,1940
+1675,asturias,EB,0
+1676,illesbalears,EB,0
+1677,laspalmas,EB,0
+1678,santacruzdetenerife,EB,418
+1679,cantabria,EB,259
+1680,albacete,EB,0
+1681,ciudadreal,EB,0
+1682,cuenca,EB,0
+1683,guadalajara,EB,0
+1684,toledo,EB,0
+1685,avila,EB,0
+1686,burgos,EB,0
+1687,leon,EB,0
+1688,palencia,EB,0
+1689,salamanca,EB,0
+1690,segovia,EB,0
+1691,soria,EB,0
+1692,valladolid,EB,0
+1693,zamora,EB,0
+1694,barcelona,EB,0
+1695,girona,EB,0
+1696,lleida,EB,0
+1697,tarragona,EB,0
+1698,badajoz,EB,0
+1699,caceres,EB,0
+1700,acoruña,EB,0
+1701,lugo,EB,0
+1702,ourense,EB,0
+1703,pontevedra,EB,692
+1704,madrid,EB,0
+1705,navarra,EB,0
+1706,araba_alava,EB,0
+1707,gipuzkoa,EB,570
+1708,bizkaia,EB,0
+1709,murcia,EB,0
+1710,larioja,EB,425
+1711,alicante_alacant,EB,0
+1712,castellon_castello,EB,0
+1713,valencia_valencia,EB,0
+1714,ceuta,EB,0
+1715,melilla,EB,0
+1716,almeria,ERPV,0
+1717,cadiz,ERPV,0
+1718,cordoba,ERPV,0
+1719,granada,ERPV,0
+1720,huelva,ERPV,0
+1721,jaen,ERPV,0
+1722,malaga,ERPV,0
+1723,sevilla,ERPV,0
+1724,huesca,ERPV,0
+1725,teruel,ERPV,0
+1726,zaragoza,ERPV,0
+1727,asturias,ERPV,0
+1728,illesbalears,ERPV,0
+1729,laspalmas,ERPV,0
+1730,santacruzdetenerife,ERPV,0
+1731,cantabria,ERPV,0
+1732,albacete,ERPV,0
+1733,ciudadreal,ERPV,0
+1734,cuenca,ERPV,0
+1735,guadalajara,ERPV,0
+1736,toledo,ERPV,0
+1737,avila,ERPV,0
+1738,burgos,ERPV,0
+1739,leon,ERPV,0
+1740,palencia,ERPV,0
+1741,salamanca,ERPV,0
+1742,segovia,ERPV,0
+1743,soria,ERPV,0
+1744,valladolid,ERPV,0
+1745,zamora,ERPV,0
+1746,barcelona,ERPV,0
+1747,girona,ERPV,0
+1748,lleida,ERPV,0
+1749,tarragona,ERPV,0
+1750,badajoz,ERPV,0
+1751,caceres,ERPV,0
+1752,acoruña,ERPV,0
+1753,lugo,ERPV,0
+1754,ourense,ERPV,0
+1755,pontevedra,ERPV,0
+1756,madrid,ERPV,0
+1757,navarra,ERPV,0
+1758,araba_alava,ERPV,0
+1759,gipuzkoa,ERPV,0
+1760,bizkaia,ERPV,0
+1761,murcia,ERPV,0
+1762,larioja,ERPV,0
+1763,alicante_alacant,ERPV,1683
+1764,castellon_castello,ERPV,1106
+1765,valencia_valencia,ERPV,3086
+1766,ceuta,ERPV,0
+1767,melilla,ERPV,0
+1768,almeria,XAV,0
+1769,cadiz,XAV,0
+1770,cordoba,XAV,0
+1771,granada,XAV,0
+1772,huelva,XAV,0
+1773,jaen,XAV,0
+1774,malaga,XAV,0
+1775,sevilla,XAV,0
+1776,huesca,XAV,0
+1777,teruel,XAV,0
+1778,zaragoza,XAV,0
+1779,asturias,XAV,0
+1780,illesbalears,XAV,0
+1781,laspalmas,XAV,0
+1782,santacruzdetenerife,XAV,0
+1783,cantabria,XAV,0
+1784,albacete,XAV,0
+1785,ciudadreal,XAV,0
+1786,cuenca,XAV,0
+1787,guadalajara,XAV,0
+1788,toledo,XAV,0
+1789,avila,XAV,5416
+1790,burgos,XAV,0
+1791,leon,XAV,0
+1792,palencia,XAV,0
+1793,salamanca,XAV,0
+1794,segovia,XAV,0
+1795,soria,XAV,0
+1796,valladolid,XAV,0
+1797,zamora,XAV,0
+1798,barcelona,XAV,0
+1799,girona,XAV,0
+1800,lleida,XAV,0
+1801,tarragona,XAV,0
+1802,badajoz,XAV,0
+1803,caceres,XAV,0
+1804,acoruña,XAV,0
+1805,lugo,XAV,0
+1806,ourense,XAV,0
+1807,pontevedra,XAV,0
+1808,madrid,XAV,0
+1809,navarra,XAV,0
+1810,araba_alava,XAV,0
+1811,gipuzkoa,XAV,0
+1812,bizkaia,XAV,0
+1813,murcia,XAV,0
+1814,larioja,XAV,0
+1815,alicante_alacant,XAV,0
+1816,castellon_castello,XAV,0
+1817,valencia_valencia,XAV,0
+1818,ceuta,XAV,0
+1819,melilla,XAV,0
+1820,almeria,AVANT ADELANTE LOS VERDES,0
+1821,cadiz,AVANT ADELANTE LOS VERDES,0
+1822,cordoba,AVANT ADELANTE LOS VERDES,0
+1823,granada,AVANT ADELANTE LOS VERDES,0
+1824,huelva,AVANT ADELANTE LOS VERDES,0
+1825,jaen,AVANT ADELANTE LOS VERDES,0
+1826,malaga,AVANT ADELANTE LOS VERDES,0
+1827,sevilla,AVANT ADELANTE LOS VERDES,0
+1828,huesca,AVANT ADELANTE LOS VERDES,0
+1829,teruel,AVANT ADELANTE LOS VERDES,0
+1830,zaragoza,AVANT ADELANTE LOS VERDES,0
+1831,asturias,AVANT ADELANTE LOS VERDES,0
+1832,illesbalears,AVANT ADELANTE LOS VERDES,0
+1833,laspalmas,AVANT ADELANTE LOS VERDES,0
+1834,santacruzdetenerife,AVANT ADELANTE LOS VERDES,0
+1835,cantabria,AVANT ADELANTE LOS VERDES,0
+1836,albacete,AVANT ADELANTE LOS VERDES,0
+1837,ciudadreal,AVANT ADELANTE LOS VERDES,0
+1838,cuenca,AVANT ADELANTE LOS VERDES,0
+1839,guadalajara,AVANT ADELANTE LOS VERDES,0
+1840,toledo,AVANT ADELANTE LOS VERDES,0
+1841,avila,AVANT ADELANTE LOS VERDES,0
+1842,burgos,AVANT ADELANTE LOS VERDES,0
+1843,leon,AVANT ADELANTE LOS VERDES,0
+1844,palencia,AVANT ADELANTE LOS VERDES,0
+1845,salamanca,AVANT ADELANTE LOS VERDES,0
+1846,segovia,AVANT ADELANTE LOS VERDES,0
+1847,soria,AVANT ADELANTE LOS VERDES,0
+1848,valladolid,AVANT ADELANTE LOS VERDES,0
+1849,zamora,AVANT ADELANTE LOS VERDES,0
+1850,barcelona,AVANT ADELANTE LOS VERDES,0
+1851,girona,AVANT ADELANTE LOS VERDES,0
+1852,lleida,AVANT ADELANTE LOS VERDES,0
+1853,tarragona,AVANT ADELANTE LOS VERDES,0
+1854,badajoz,AVANT ADELANTE LOS VERDES,0
+1855,caceres,AVANT ADELANTE LOS VERDES,0
+1856,acoruña,AVANT ADELANTE LOS VERDES,0
+1857,lugo,AVANT ADELANTE LOS VERDES,0
+1858,ourense,AVANT ADELANTE LOS VERDES,0
+1859,pontevedra,AVANT ADELANTE LOS VERDES,0
+1860,madrid,AVANT ADELANTE LOS VERDES,0
+1861,navarra,AVANT ADELANTE LOS VERDES,0
+1862,araba_alava,AVANT ADELANTE LOS VERDES,0
+1863,gipuzkoa,AVANT ADELANTE LOS VERDES,0
+1864,bizkaia,AVANT ADELANTE LOS VERDES,0
+1865,murcia,AVANT ADELANTE LOS VERDES,0
+1866,larioja,AVANT ADELANTE LOS VERDES,0
+1867,alicante_alacant,AVANT ADELANTE LOS VERDES,2337
+1868,castellon_castello,AVANT ADELANTE LOS VERDES,405
+1869,valencia_valencia,AVANT ADELANTE LOS VERDES,2674
+1870,ceuta,AVANT ADELANTE LOS VERDES,0
+1871,melilla,AVANT ADELANTE LOS VERDES,0
+1872,almeria,VERDES,0
+1873,cadiz,VERDES,0
+1874,cordoba,VERDES,0
+1875,granada,VERDES,0
+1876,huelva,VERDES,0
+1877,jaen,VERDES,0
+1878,malaga,VERDES,0
+1879,sevilla,VERDES,0
+1880,huesca,VERDES,0
+1881,teruel,VERDES,0
+1882,zaragoza,VERDES,0
+1883,asturias,VERDES,0
+1884,illesbalears,VERDES,0
+1885,laspalmas,VERDES,1864
+1886,santacruzdetenerife,VERDES,1322
+1887,cantabria,VERDES,0
+1888,albacete,VERDES,0
+1889,ciudadreal,VERDES,0
+1890,cuenca,VERDES,0
+1891,guadalajara,VERDES,0
+1892,toledo,VERDES,0
+1893,avila,VERDES,0
+1894,burgos,VERDES,0
+1895,leon,VERDES,0
+1896,palencia,VERDES,0
+1897,salamanca,VERDES,0
+1898,segovia,VERDES,0
+1899,soria,VERDES,0
+1900,valladolid,VERDES,0
+1901,zamora,VERDES,0
+1902,barcelona,VERDES,0
+1903,girona,VERDES,0
+1904,lleida,VERDES,0
+1905,tarragona,VERDES,0
+1906,badajoz,VERDES,0
+1907,caceres,VERDES,0
+1908,acoruña,VERDES,0
+1909,lugo,VERDES,0
+1910,ourense,VERDES,0
+1911,pontevedra,VERDES,0
+1912,madrid,VERDES,0
+1913,navarra,VERDES,0
+1914,araba_alava,VERDES,0
+1915,gipuzkoa,VERDES,0
+1916,bizkaia,VERDES,0
+1917,murcia,VERDES,0
+1918,larioja,VERDES,0
+1919,alicante_alacant,VERDES,0
+1920,castellon_castello,VERDES,0
+1921,valencia_valencia,VERDES,0
+1922,ceuta,VERDES,0
+1923,melilla,VERDES,101
+1924,almeria,PH,0
+1925,cadiz,PH,0
+1926,cordoba,PH,0
+1927,granada,PH,0
+1928,huelva,PH,0
+1929,jaen,PH,0
+1930,malaga,PH,0
+1931,sevilla,PH,0
+1932,huesca,PH,0
+1933,teruel,PH,0
+1934,zaragoza,PH,0
+1935,asturias,PH,366
+1936,illesbalears,PH,0
+1937,laspalmas,PH,276
+1938,santacruzdetenerife,PH,0
+1939,cantabria,PH,0
+1940,albacete,PH,0
+1941,ciudadreal,PH,0
+1942,cuenca,PH,0
+1943,guadalajara,PH,0
+1944,toledo,PH,0
+1945,avila,PH,0
+1946,burgos,PH,0
+1947,leon,PH,0
+1948,palencia,PH,0
+1949,salamanca,PH,0
+1950,segovia,PH,0
+1951,soria,PH,0
+1952,valladolid,PH,0
+1953,zamora,PH,0
+1954,barcelona,PH,0
+1955,girona,PH,0
+1956,lleida,PH,0
+1957,tarragona,PH,0
+1958,badajoz,PH,0
+1959,caceres,PH,0
+1960,acoruña,PH,0
+1961,lugo,PH,0
+1962,ourense,PH,0
+1963,pontevedra,PH,0
+1964,madrid,PH,2508
+1965,navarra,PH,0
+1966,araba_alava,PH,0
+1967,gipuzkoa,PH,0
+1968,bizkaia,PH,0
+1969,murcia,PH,0
+1970,larioja,PH,0
+1971,alicante_alacant,PH,0
+1972,castellon_castello,PH,0
+1973,valencia_valencia,PH,0
+1974,ceuta,PH,0
+1975,melilla,PH,0
+1976,almeria,I.Fem,0
+1977,cadiz,I.Fem,0
+1978,cordoba,I.Fem,0
+1979,granada,I.Fem,0
+1980,huelva,I.Fem,0
+1981,jaen,I.Fem,0
+1982,malaga,I.Fem,0
+1983,sevilla,I.Fem,0
+1984,huesca,I.Fem,0
+1985,teruel,I.Fem,0
+1986,zaragoza,I.Fem,0
+1987,asturias,I.Fem,0
+1988,illesbalears,I.Fem,0
+1989,laspalmas,I.Fem,0
+1990,santacruzdetenerife,I.Fem,0
+1991,cantabria,I.Fem,0
+1992,albacete,I.Fem,0
+1993,ciudadreal,I.Fem,0
+1994,cuenca,I.Fem,0
+1995,guadalajara,I.Fem,0
+1996,toledo,I.Fem,0
+1997,avila,I.Fem,0
+1998,burgos,I.Fem,0
+1999,leon,I.Fem,0
+2000,palencia,I.Fem,0
+2001,salamanca,I.Fem,0
+2002,segovia,I.Fem,0
+2003,soria,I.Fem,0
+2004,valladolid,I.Fem,0
+2005,zamora,I.Fem,0
+2006,barcelona,I.Fem,3005
+2007,girona,I.Fem,0
+2008,lleida,I.Fem,0
+2009,tarragona,I.Fem,0
+2010,badajoz,I.Fem,0
+2011,caceres,I.Fem,0
+2012,acoruña,I.Fem,0
+2013,lugo,I.Fem,0
+2014,ourense,I.Fem,0
+2015,pontevedra,I.Fem,0
+2016,madrid,I.Fem,0
+2017,navarra,I.Fem,0
+2018,araba_alava,I.Fem,0
+2019,gipuzkoa,I.Fem,0
+2020,bizkaia,I.Fem,0
+2021,murcia,I.Fem,0
+2022,larioja,I.Fem,0
+2023,alicante_alacant,I.Fem,0
+2024,castellon_castello,I.Fem,0
+2025,valencia_valencia,I.Fem,0
+2026,ceuta,I.Fem,0
+2027,melilla,I.Fem,0
+2028,almeria,UIG-SOM-CUIDES,0
+2029,cadiz,UIG-SOM-CUIDES,0
+2030,cordoba,UIG-SOM-CUIDES,0
+2031,granada,UIG-SOM-CUIDES,0
+2032,huelva,UIG-SOM-CUIDES,0
+2033,jaen,UIG-SOM-CUIDES,0
+2034,malaga,UIG-SOM-CUIDES,0
+2035,sevilla,UIG-SOM-CUIDES,0
+2036,huesca,UIG-SOM-CUIDES,0
+2037,teruel,UIG-SOM-CUIDES,0
+2038,zaragoza,UIG-SOM-CUIDES,0
+2039,asturias,UIG-SOM-CUIDES,0
+2040,illesbalears,UIG-SOM-CUIDES,0
+2041,laspalmas,UIG-SOM-CUIDES,0
+2042,santacruzdetenerife,UIG-SOM-CUIDES,0
+2043,cantabria,UIG-SOM-CUIDES,0
+2044,albacete,UIG-SOM-CUIDES,0
+2045,ciudadreal,UIG-SOM-CUIDES,0
+2046,cuenca,UIG-SOM-CUIDES,0
+2047,guadalajara,UIG-SOM-CUIDES,0
+2048,toledo,UIG-SOM-CUIDES,0
+2049,avila,UIG-SOM-CUIDES,0
+2050,burgos,UIG-SOM-CUIDES,0
+2051,leon,UIG-SOM-CUIDES,0
+2052,palencia,UIG-SOM-CUIDES,0
+2053,salamanca,UIG-SOM-CUIDES,0
+2054,segovia,UIG-SOM-CUIDES,0
+2055,soria,UIG-SOM-CUIDES,0
+2056,valladolid,UIG-SOM-CUIDES,0
+2057,zamora,UIG-SOM-CUIDES,0
+2058,barcelona,UIG-SOM-CUIDES,0
+2059,girona,UIG-SOM-CUIDES,0
+2060,lleida,UIG-SOM-CUIDES,0
+2061,tarragona,UIG-SOM-CUIDES,0
+2062,badajoz,UIG-SOM-CUIDES,0
+2063,caceres,UIG-SOM-CUIDES,0
+2064,acoruña,UIG-SOM-CUIDES,0
+2065,lugo,UIG-SOM-CUIDES,0
+2066,ourense,UIG-SOM-CUIDES,0
+2067,pontevedra,UIG-SOM-CUIDES,0
+2068,madrid,UIG-SOM-CUIDES,0
+2069,navarra,UIG-SOM-CUIDES,0
+2070,araba_alava,UIG-SOM-CUIDES,0
+2071,gipuzkoa,UIG-SOM-CUIDES,0
+2072,bizkaia,UIG-SOM-CUIDES,0
+2073,murcia,UIG-SOM-CUIDES,0
+2074,larioja,UIG-SOM-CUIDES,0
+2075,alicante_alacant,UIG-SOM-CUIDES,0
+2076,castellon_castello,UIG-SOM-CUIDES,0
+2077,valencia_valencia,UIG-SOM-CUIDES,2339
+2078,ceuta,UIG-SOM-CUIDES,0
+2079,melilla,UIG-SOM-CUIDES,0
+2080,almeria,SOMOS REGIÓN,0
+2081,cadiz,SOMOS REGIÓN,0
+2082,cordoba,SOMOS REGIÓN,0
+2083,granada,SOMOS REGIÓN,0
+2084,huelva,SOMOS REGIÓN,0
+2085,jaen,SOMOS REGIÓN,0
+2086,malaga,SOMOS REGIÓN,0
+2087,sevilla,SOMOS REGIÓN,0
+2088,huesca,SOMOS REGIÓN,0
+2089,teruel,SOMOS REGIÓN,0
+2090,zaragoza,SOMOS REGIÓN,0
+2091,asturias,SOMOS REGIÓN,0
+2092,illesbalears,SOMOS REGIÓN,0
+2093,laspalmas,SOMOS REGIÓN,0
+2094,santacruzdetenerife,SOMOS REGIÓN,0
+2095,cantabria,SOMOS REGIÓN,0
+2096,albacete,SOMOS REGIÓN,0
+2097,ciudadreal,SOMOS REGIÓN,0
+2098,cuenca,SOMOS REGIÓN,0
+2099,guadalajara,SOMOS REGIÓN,0
+2100,toledo,SOMOS REGIÓN,0
+2101,avila,SOMOS REGIÓN,0
+2102,burgos,SOMOS REGIÓN,0
+2103,leon,SOMOS REGIÓN,0
+2104,palencia,SOMOS REGIÓN,0
+2105,salamanca,SOMOS REGIÓN,0
+2106,segovia,SOMOS REGIÓN,0
+2107,soria,SOMOS REGIÓN,0
+2108,valladolid,SOMOS REGIÓN,0
+2109,zamora,SOMOS REGIÓN,0
+2110,barcelona,SOMOS REGIÓN,0
+2111,girona,SOMOS REGIÓN,0
+2112,lleida,SOMOS REGIÓN,0
+2113,tarragona,SOMOS REGIÓN,0
+2114,badajoz,SOMOS REGIÓN,0
+2115,caceres,SOMOS REGIÓN,0
+2116,acoruña,SOMOS REGIÓN,0
+2117,lugo,SOMOS REGIÓN,0
+2118,ourense,SOMOS REGIÓN,0
+2119,pontevedra,SOMOS REGIÓN,0
+2120,madrid,SOMOS REGIÓN,0
+2121,navarra,SOMOS REGIÓN,0
+2122,araba_alava,SOMOS REGIÓN,0
+2123,gipuzkoa,SOMOS REGIÓN,0
+2124,bizkaia,SOMOS REGIÓN,0
+2125,murcia,SOMOS REGIÓN,2328
+2126,larioja,SOMOS REGIÓN,0
+2127,alicante_alacant,SOMOS REGIÓN,0
+2128,castellon_castello,SOMOS REGIÓN,0
+2129,valencia_valencia,SOMOS REGIÓN,0
+2130,ceuta,SOMOS REGIÓN,0
+2131,melilla,SOMOS REGIÓN,0
+2132,almeria,IZQP,0
+2133,cadiz,IZQP,0
+2134,cordoba,IZQP,0
+2135,granada,IZQP,0
+2136,huelva,IZQP,0
+2137,jaen,IZQP,0
+2138,malaga,IZQP,0
+2139,sevilla,IZQP,0
+2140,huesca,IZQP,0
+2141,teruel,IZQP,0
+2142,zaragoza,IZQP,0
+2143,asturias,IZQP,0
+2144,illesbalears,IZQP,0
+2145,laspalmas,IZQP,0
+2146,santacruzdetenerife,IZQP,0
+2147,cantabria,IZQP,0
+2148,albacete,IZQP,0
+2149,ciudadreal,IZQP,0
+2150,cuenca,IZQP,0
+2151,guadalajara,IZQP,0
+2152,toledo,IZQP,0
+2153,avila,IZQP,0
+2154,burgos,IZQP,0
+2155,leon,IZQP,0
+2156,palencia,IZQP,0
+2157,salamanca,IZQP,0
+2158,segovia,IZQP,0
+2159,soria,IZQP,0
+2160,valladolid,IZQP,0
+2161,zamora,IZQP,0
+2162,barcelona,IZQP,1178
+2163,girona,IZQP,246
+2164,lleida,IZQP,124
+2165,tarragona,IZQP,343
+2166,badajoz,IZQP,0
+2167,caceres,IZQP,0
+2168,acoruña,IZQP,0
+2169,lugo,IZQP,0
+2170,ourense,IZQP,0
+2171,pontevedra,IZQP,0
+2172,madrid,IZQP,0
+2173,navarra,IZQP,0
+2174,araba_alava,IZQP,0
+2175,gipuzkoa,IZQP,0
+2176,bizkaia,IZQP,0
+2177,murcia,IZQP,434
+2178,larioja,IZQP,0
+2179,alicante_alacant,IZQP,0
+2180,castellon_castello,IZQP,0
+2181,valencia_valencia,IZQP,0
+2182,ceuta,IZQP,0
+2183,melilla,IZQP,0
+2184,almeria,AHORA CANARIAS,0
+2185,cadiz,AHORA CANARIAS,0
+2186,cordoba,AHORA CANARIAS,0
+2187,granada,AHORA CANARIAS,0
+2188,huelva,AHORA CANARIAS,0
+2189,jaen,AHORA CANARIAS,0
+2190,malaga,AHORA CANARIAS,0
+2191,sevilla,AHORA CANARIAS,0
+2192,huesca,AHORA CANARIAS,0
+2193,teruel,AHORA CANARIAS,0
+2194,zaragoza,AHORA CANARIAS,0
+2195,asturias,AHORA CANARIAS,0
+2196,illesbalears,AHORA CANARIAS,0
+2197,laspalmas,AHORA CANARIAS,1110
+2198,santacruzdetenerife,AHORA CANARIAS,922
+2199,cantabria,AHORA CANARIAS,0
+2200,albacete,AHORA CANARIAS,0
+2201,ciudadreal,AHORA CANARIAS,0
+2202,cuenca,AHORA CANARIAS,0
+2203,guadalajara,AHORA CANARIAS,0
+2204,toledo,AHORA CANARIAS,0
+2205,avila,AHORA CANARIAS,0
+2206,burgos,AHORA CANARIAS,0
+2207,leon,AHORA CANARIAS,0
+2208,palencia,AHORA CANARIAS,0
+2209,salamanca,AHORA CANARIAS,0
+2210,segovia,AHORA CANARIAS,0
+2211,soria,AHORA CANARIAS,0
+2212,valladolid,AHORA CANARIAS,0
+2213,zamora,AHORA CANARIAS,0
+2214,barcelona,AHORA CANARIAS,0
+2215,girona,AHORA CANARIAS,0
+2216,lleida,AHORA CANARIAS,0
+2217,tarragona,AHORA CANARIAS,0
+2218,badajoz,AHORA CANARIAS,0
+2219,caceres,AHORA CANARIAS,0
+2220,acoruña,AHORA CANARIAS,0
+2221,lugo,AHORA CANARIAS,0
+2222,ourense,AHORA CANARIAS,0
+2223,pontevedra,AHORA CANARIAS,0
+2224,madrid,AHORA CANARIAS,0
+2225,navarra,AHORA CANARIAS,0
+2226,araba_alava,AHORA CANARIAS,0
+2227,gipuzkoa,AHORA CANARIAS,0
+2228,bizkaia,AHORA CANARIAS,0
+2229,murcia,AHORA CANARIAS,0
+2230,larioja,AHORA CANARIAS,0
+2231,alicante_alacant,AHORA CANARIAS,0
+2232,castellon_castello,AHORA CANARIAS,0
+2233,valencia_valencia,AHORA CANARIAS,0
+2234,ceuta,AHORA CANARIAS,0
+2235,melilla,AHORA CANARIAS,0
+2236,almeria,CONTIGO,0
+2237,cadiz,CONTIGO,0
+2238,cordoba,CONTIGO,0
+2239,granada,CONTIGO,0
+2240,huelva,CONTIGO,0
+2241,jaen,CONTIGO,0
+2242,malaga,CONTIGO,0
+2243,sevilla,CONTIGO,0
+2244,huesca,CONTIGO,0
+2245,teruel,CONTIGO,0
+2246,zaragoza,CONTIGO,0
+2247,asturias,CONTIGO,0
+2248,illesbalears,CONTIGO,0
+2249,laspalmas,CONTIGO,358
+2250,santacruzdetenerife,CONTIGO,236
+2251,cantabria,CONTIGO,0
+2252,albacete,CONTIGO,0
+2253,ciudadreal,CONTIGO,0
+2254,cuenca,CONTIGO,0
+2255,guadalajara,CONTIGO,0
+2256,toledo,CONTIGO,0
+2257,avila,CONTIGO,0
+2258,burgos,CONTIGO,0
+2259,leon,CONTIGO,0
+2260,palencia,CONTIGO,0
+2261,salamanca,CONTIGO,229
+2262,segovia,CONTIGO,0
+2263,soria,CONTIGO,0
+2264,valladolid,CONTIGO,0
+2265,zamora,CONTIGO,0
+2266,barcelona,CONTIGO,0
+2267,girona,CONTIGO,0
+2268,lleida,CONTIGO,0
+2269,tarragona,CONTIGO,0
+2270,badajoz,CONTIGO,0
+2271,caceres,CONTIGO,0
+2272,acoruña,CONTIGO,0
+2273,lugo,CONTIGO,0
+2274,ourense,CONTIGO,0
+2275,pontevedra,CONTIGO,0
+2276,madrid,CONTIGO,0
+2277,navarra,CONTIGO,0
+2278,araba_alava,CONTIGO,0
+2279,gipuzkoa,CONTIGO,0
+2280,bizkaia,CONTIGO,0
+2281,murcia,CONTIGO,317
+2282,larioja,CONTIGO,0
+2283,alicante_alacant,CONTIGO,0
+2284,castellon_castello,CONTIGO,0
+2285,valencia_valencia,CONTIGO,875
+2286,ceuta,CONTIGO,0
+2287,melilla,CONTIGO,0
+2288,almeria,CHA,0
+2289,cadiz,CHA,0
+2290,cordoba,CHA,0
+2291,granada,CHA,0
+2292,huelva,CHA,0
+2293,jaen,CHA,0
+2294,malaga,CHA,0
+2295,sevilla,CHA,0
+2296,huesca,CHA,2000
+2297,teruel,CHA,0
+2298,zaragoza,CHA,0
+2299,asturias,CHA,0
+2300,illesbalears,CHA,0
+2301,laspalmas,CHA,0
+2302,santacruzdetenerife,CHA,0
+2303,cantabria,CHA,0
+2304,albacete,CHA,0
+2305,ciudadreal,CHA,0
+2306,cuenca,CHA,0
+2307,guadalajara,CHA,0
+2308,toledo,CHA,0
+2309,avila,CHA,0
+2310,burgos,CHA,0
+2311,leon,CHA,0
+2312,palencia,CHA,0
+2313,salamanca,CHA,0
+2314,segovia,CHA,0
+2315,soria,CHA,0
+2316,valladolid,CHA,0
+2317,zamora,CHA,0
+2318,barcelona,CHA,0
+2319,girona,CHA,0
+2320,lleida,CHA,0
+2321,tarragona,CHA,0
+2322,badajoz,CHA,0
+2323,caceres,CHA,0
+2324,acoruña,CHA,0
+2325,lugo,CHA,0
+2326,ourense,CHA,0
+2327,pontevedra,CHA,0
+2328,madrid,CHA,0
+2329,navarra,CHA,0
+2330,araba_alava,CHA,0
+2331,gipuzkoa,CHA,0
+2332,bizkaia,CHA,0
+2333,murcia,CHA,0
+2334,larioja,CHA,0
+2335,alicante_alacant,CHA,0
+2336,castellon_castello,CHA,0
+2337,valencia_valencia,CHA,0
+2338,ceuta,CHA,0
+2339,melilla,CHA,0
+2340,almeria,PPSO,0
+2341,cadiz,PPSO,0
+2342,cordoba,PPSO,0
+2343,granada,PPSO,0
+2344,huelva,PPSO,0
+2345,jaen,PPSO,0
+2346,malaga,PPSO,0
+2347,sevilla,PPSO,0
+2348,huesca,PPSO,0
+2349,teruel,PPSO,0
+2350,zaragoza,PPSO,0
+2351,asturias,PPSO,0
+2352,illesbalears,PPSO,0
+2353,laspalmas,PPSO,0
+2354,santacruzdetenerife,PPSO,0
+2355,cantabria,PPSO,0
+2356,albacete,PPSO,0
+2357,ciudadreal,PPSO,0
+2358,cuenca,PPSO,0
+2359,guadalajara,PPSO,0
+2360,toledo,PPSO,0
+2361,avila,PPSO,0
+2362,burgos,PPSO,0
+2363,leon,PPSO,0
+2364,palencia,PPSO,0
+2365,salamanca,PPSO,0
+2366,segovia,PPSO,0
+2367,soria,PPSO,1466
+2368,valladolid,PPSO,0
+2369,zamora,PPSO,0
+2370,barcelona,PPSO,0
+2371,girona,PPSO,0
+2372,lleida,PPSO,0
+2373,tarragona,PPSO,0
+2374,badajoz,PPSO,0
+2375,caceres,PPSO,0
+2376,acoruña,PPSO,0
+2377,lugo,PPSO,0
+2378,ourense,PPSO,0
+2379,pontevedra,PPSO,0
+2380,madrid,PPSO,0
+2381,navarra,PPSO,0
+2382,araba_alava,PPSO,0
+2383,gipuzkoa,PPSO,0
+2384,bizkaia,PPSO,0
+2385,murcia,PPSO,0
+2386,larioja,PPSO,0
+2387,alicante_alacant,PPSO,0
+2388,castellon_castello,PPSO,0
+2389,valencia_valencia,PPSO,0
+2390,ceuta,PPSO,0
+2391,melilla,PPSO,0
+2392,almeria,EXTREMADURA UNIDA,0
+2393,cadiz,EXTREMADURA UNIDA,0
+2394,cordoba,EXTREMADURA UNIDA,0
+2395,granada,EXTREMADURA UNIDA,0
+2396,huelva,EXTREMADURA UNIDA,0
+2397,jaen,EXTREMADURA UNIDA,0
+2398,malaga,EXTREMADURA UNIDA,0
+2399,sevilla,EXTREMADURA UNIDA,0
+2400,huesca,EXTREMADURA UNIDA,0
+2401,teruel,EXTREMADURA UNIDA,0
+2402,zaragoza,EXTREMADURA UNIDA,0
+2403,asturias,EXTREMADURA UNIDA,0
+2404,illesbalears,EXTREMADURA UNIDA,0
+2405,laspalmas,EXTREMADURA UNIDA,0
+2406,santacruzdetenerife,EXTREMADURA UNIDA,0
+2407,cantabria,EXTREMADURA UNIDA,0
+2408,albacete,EXTREMADURA UNIDA,0
+2409,ciudadreal,EXTREMADURA UNIDA,0
+2410,cuenca,EXTREMADURA UNIDA,0
+2411,guadalajara,EXTREMADURA UNIDA,0
+2412,toledo,EXTREMADURA UNIDA,0
+2413,avila,EXTREMADURA UNIDA,0
+2414,burgos,EXTREMADURA UNIDA,0
+2415,leon,EXTREMADURA UNIDA,0
+2416,palencia,EXTREMADURA UNIDA,0
+2417,salamanca,EXTREMADURA UNIDA,0
+2418,segovia,EXTREMADURA UNIDA,0
+2419,soria,EXTREMADURA UNIDA,0
+2420,valladolid,EXTREMADURA UNIDA,0
+2421,zamora,EXTREMADURA UNIDA,0
+2422,barcelona,EXTREMADURA UNIDA,0
+2423,girona,EXTREMADURA UNIDA,0
+2424,lleida,EXTREMADURA UNIDA,0
+2425,tarragona,EXTREMADURA UNIDA,0
+2426,badajoz,EXTREMADURA UNIDA,0
+2427,caceres,EXTREMADURA UNIDA,1347
+2428,acoruña,EXTREMADURA UNIDA,0
+2429,lugo,EXTREMADURA UNIDA,0
+2430,ourense,EXTREMADURA UNIDA,0
+2431,pontevedra,EXTREMADURA UNIDA,0
+2432,madrid,EXTREMADURA UNIDA,0
+2433,navarra,EXTREMADURA UNIDA,0
+2434,araba_alava,EXTREMADURA UNIDA,0
+2435,gipuzkoa,EXTREMADURA UNIDA,0
+2436,bizkaia,EXTREMADURA UNIDA,0
+2437,murcia,EXTREMADURA UNIDA,0
+2438,larioja,EXTREMADURA UNIDA,0
+2439,alicante_alacant,EXTREMADURA UNIDA,0
+2440,castellon_castello,EXTREMADURA UNIDA,0
+2441,valencia_valencia,EXTREMADURA UNIDA,0
+2442,ceuta,EXTREMADURA UNIDA,0
+2443,melilla,EXTREMADURA UNIDA,0
+2444,almeria,PDSJE,0
+2445,cadiz,PDSJE,0
+2446,cordoba,PDSJE,0
+2447,granada,PDSJE,0
+2448,huelva,PDSJE,0
+2449,jaen,PDSJE,0
+2450,malaga,PDSJE,0
+2451,sevilla,PDSJE,0
+2452,huesca,PDSJE,0
+2453,teruel,PDSJE,0
+2454,zaragoza,PDSJE,0
+2455,asturias,PDSJE,0
+2456,illesbalears,PDSJE,0
+2457,laspalmas,PDSJE,713
+2458,santacruzdetenerife,PDSJE,0
+2459,cantabria,PDSJE,0
+2460,albacete,PDSJE,197
+2461,ciudadreal,PDSJE,0
+2462,cuenca,PDSJE,0
+2463,guadalajara,PDSJE,234
+2464,toledo,PDSJE,0
+2465,avila,PDSJE,0
+2466,burgos,PDSJE,0
+2467,leon,PDSJE,0
+2468,palencia,PDSJE,0
+2469,salamanca,PDSJE,0
+2470,segovia,PDSJE,115
+2471,soria,PDSJE,0
+2472,valladolid,PDSJE,0
+2473,zamora,PDSJE,0
+2474,barcelona,PDSJE,0
+2475,girona,PDSJE,0
+2476,lleida,PDSJE,0
+2477,tarragona,PDSJE,0
+2478,badajoz,PDSJE,0
+2479,caceres,PDSJE,0
+2480,acoruña,PDSJE,0
+2481,lugo,PDSJE,0
+2482,ourense,PDSJE,0
+2483,pontevedra,PDSJE,0
+2484,madrid,PDSJE,0
+2485,navarra,PDSJE,0
+2486,araba_alava,PDSJE,0
+2487,gipuzkoa,PDSJE,0
+2488,bizkaia,PDSJE,0
+2489,murcia,PDSJE,0
+2490,larioja,PDSJE,0
+2491,alicante_alacant,PDSJE,0
+2492,castellon_castello,PDSJE,0
+2493,valencia_valencia,PDSJE,0
+2494,ceuta,PDSJE,0
+2495,melilla,PDSJE,0
+2496,almeria,P-LIB,0
+2497,cadiz,P-LIB,0
+2498,cordoba,P-LIB,0
+2499,granada,P-LIB,0
+2500,huelva,P-LIB,0
+2501,jaen,P-LIB,0
+2502,malaga,P-LIB,0
+2503,sevilla,P-LIB,0
+2504,huesca,P-LIB,0
+2505,teruel,P-LIB,0
+2506,zaragoza,P-LIB,0
+2507,asturias,P-LIB,0
+2508,illesbalears,P-LIB,372
+2509,laspalmas,P-LIB,0
+2510,santacruzdetenerife,P-LIB,0
+2511,cantabria,P-LIB,126
+2512,albacete,P-LIB,0
+2513,ciudadreal,P-LIB,0
+2514,cuenca,P-LIB,47
+2515,guadalajara,P-LIB,0
+2516,toledo,P-LIB,0
+2517,avila,P-LIB,32
+2518,burgos,P-LIB,0
+2519,leon,P-LIB,0
+2520,palencia,P-LIB,0
+2521,salamanca,P-LIB,0
+2522,segovia,P-LIB,38
+2523,soria,P-LIB,0
+2524,valladolid,P-LIB,0
+2525,zamora,P-LIB,0
+2526,barcelona,P-LIB,0
+2527,girona,P-LIB,0
+2528,lleida,P-LIB,0
+2529,tarragona,P-LIB,0
+2530,badajoz,P-LIB,0
+2531,caceres,P-LIB,0
+2532,acoruña,P-LIB,0
+2533,lugo,P-LIB,0
+2534,ourense,P-LIB,0
+2535,pontevedra,P-LIB,0
+2536,madrid,P-LIB,0
+2537,navarra,P-LIB,0
+2538,araba_alava,P-LIB,0
+2539,gipuzkoa,P-LIB,0
+2540,bizkaia,P-LIB,0
+2541,murcia,P-LIB,0
+2542,larioja,P-LIB,0
+2543,alicante_alacant,P-LIB,556
+2544,castellon_castello,P-LIB,0
+2545,valencia_valencia,P-LIB,0
+2546,ceuta,P-LIB,0
+2547,melilla,P-LIB,0
+2548,almeria,MAS,0
+2549,cadiz,MAS,0
+2550,cordoba,MAS,0
+2551,granada,MAS,0
+2552,huelva,MAS,0
+2553,jaen,MAS,0
+2554,malaga,MAS,0
+2555,sevilla,MAS,0
+2556,huesca,MAS,0
+2557,teruel,MAS,0
+2558,zaragoza,MAS,1068
+2559,asturias,MAS,0
+2560,illesbalears,MAS,0
+2561,laspalmas,MAS,0
+2562,santacruzdetenerife,MAS,0
+2563,cantabria,MAS,0
+2564,albacete,MAS,0
+2565,ciudadreal,MAS,0
+2566,cuenca,MAS,0
+2567,guadalajara,MAS,0
+2568,toledo,MAS,0
+2569,avila,MAS,0
+2570,burgos,MAS,0
+2571,leon,MAS,0
+2572,palencia,MAS,0
+2573,salamanca,MAS,0
+2574,segovia,MAS,0
+2575,soria,MAS,0
+2576,valladolid,MAS,0
+2577,zamora,MAS,0
+2578,barcelona,MAS,0
+2579,girona,MAS,0
+2580,lleida,MAS,0
+2581,tarragona,MAS,0
+2582,badajoz,MAS,0
+2583,caceres,MAS,0
+2584,acoruña,MAS,0
+2585,lugo,MAS,0
+2586,ourense,MAS,0
+2587,pontevedra,MAS,0
+2588,madrid,MAS,0
+2589,navarra,MAS,0
+2590,araba_alava,MAS,0
+2591,gipuzkoa,MAS,0
+2592,bizkaia,MAS,0
+2593,murcia,MAS,0
+2594,larioja,MAS,0
+2595,alicante_alacant,MAS,0
+2596,castellon_castello,MAS,0
+2597,valencia_valencia,MAS,0
+2598,ceuta,MAS,0
+2599,melilla,MAS,0
+2600,almeria,UNIDOS SÍ-ACPS-Def,0
+2601,cadiz,UNIDOS SÍ-ACPS-Def,0
+2602,cordoba,UNIDOS SÍ-ACPS-Def,0
+2603,granada,UNIDOS SÍ-ACPS-Def,0
+2604,huelva,UNIDOS SÍ-ACPS-Def,0
+2605,jaen,UNIDOS SÍ-ACPS-Def,0
+2606,malaga,UNIDOS SÍ-ACPS-Def,0
+2607,sevilla,UNIDOS SÍ-ACPS-Def,0
+2608,huesca,UNIDOS SÍ-ACPS-Def,0
+2609,teruel,UNIDOS SÍ-ACPS-Def,0
+2610,zaragoza,UNIDOS SÍ-ACPS-Def,0
+2611,asturias,UNIDOS SÍ-ACPS-Def,0
+2612,illesbalears,UNIDOS SÍ-ACPS-Def,0
+2613,laspalmas,UNIDOS SÍ-ACPS-Def,0
+2614,santacruzdetenerife,UNIDOS SÍ-ACPS-Def,0
+2615,cantabria,UNIDOS SÍ-ACPS-Def,0
+2616,albacete,UNIDOS SÍ-ACPS-Def,0
+2617,ciudadreal,UNIDOS SÍ-ACPS-Def,0
+2618,cuenca,UNIDOS SÍ-ACPS-Def,0
+2619,guadalajara,UNIDOS SÍ-ACPS-Def,0
+2620,toledo,UNIDOS SÍ-ACPS-Def,0
+2621,avila,UNIDOS SÍ-ACPS-Def,0
+2622,burgos,UNIDOS SÍ-ACPS-Def,0
+2623,leon,UNIDOS SÍ-ACPS-Def,0
+2624,palencia,UNIDOS SÍ-ACPS-Def,0
+2625,salamanca,UNIDOS SÍ-ACPS-Def,0
+2626,segovia,UNIDOS SÍ-ACPS-Def,0
+2627,soria,UNIDOS SÍ-ACPS-Def,0
+2628,valladolid,UNIDOS SÍ-ACPS-Def,0
+2629,zamora,UNIDOS SÍ-ACPS-Def,0
+2630,barcelona,UNIDOS SÍ-ACPS-Def,0
+2631,girona,UNIDOS SÍ-ACPS-Def,0
+2632,lleida,UNIDOS SÍ-ACPS-Def,0
+2633,tarragona,UNIDOS SÍ-ACPS-Def,0
+2634,badajoz,UNIDOS SÍ-ACPS-Def,0
+2635,caceres,UNIDOS SÍ-ACPS-Def,0
+2636,acoruña,UNIDOS SÍ-ACPS-Def,0
+2637,lugo,UNIDOS SÍ-ACPS-Def,0
+2638,ourense,UNIDOS SÍ-ACPS-Def,0
+2639,pontevedra,UNIDOS SÍ-ACPS-Def,0
+2640,madrid,UNIDOS SÍ-ACPS-Def,0
+2641,navarra,UNIDOS SÍ-ACPS-Def,0
+2642,araba_alava,UNIDOS SÍ-ACPS-Def,0
+2643,gipuzkoa,UNIDOS SÍ-ACPS-Def,0
+2644,bizkaia,UNIDOS SÍ-ACPS-Def,0
+2645,murcia,UNIDOS SÍ-ACPS-Def,0
+2646,larioja,UNIDOS SÍ-ACPS-Def,0
+2647,alicante_alacant,UNIDOS SÍ-ACPS-Def,0
+2648,castellon_castello,UNIDOS SÍ-ACPS-Def,0
+2649,valencia_valencia,UNIDOS SÍ-ACPS-Def,1067
+2650,ceuta,UNIDOS SÍ-ACPS-Def,0
+2651,melilla,UNIDOS SÍ-ACPS-Def,0
+2652,almeria,PREPAL,0
+2653,cadiz,PREPAL,0
+2654,cordoba,PREPAL,0
+2655,granada,PREPAL,0
+2656,huelva,PREPAL,0
+2657,jaen,PREPAL,0
+2658,malaga,PREPAL,0
+2659,sevilla,PREPAL,0
+2660,huesca,PREPAL,0
+2661,teruel,PREPAL,0
+2662,zaragoza,PREPAL,0
+2663,asturias,PREPAL,0
+2664,illesbalears,PREPAL,0
+2665,laspalmas,PREPAL,0
+2666,santacruzdetenerife,PREPAL,0
+2667,cantabria,PREPAL,0
+2668,albacete,PREPAL,0
+2669,ciudadreal,PREPAL,0
+2670,cuenca,PREPAL,0
+2671,guadalajara,PREPAL,0
+2672,toledo,PREPAL,0
+2673,avila,PREPAL,0
+2674,burgos,PREPAL,0
+2675,leon,PREPAL,341
+2676,palencia,PREPAL,0
+2677,salamanca,PREPAL,322
+2678,segovia,PREPAL,0
+2679,soria,PREPAL,0
+2680,valladolid,PREPAL,0
+2681,zamora,PREPAL,278
+2682,barcelona,PREPAL,0
+2683,girona,PREPAL,0
+2684,lleida,PREPAL,0
+2685,tarragona,PREPAL,0
+2686,badajoz,PREPAL,0
+2687,caceres,PREPAL,0
+2688,acoruña,PREPAL,0
+2689,lugo,PREPAL,0
+2690,ourense,PREPAL,0
+2691,pontevedra,PREPAL,0
+2692,madrid,PREPAL,0
+2693,navarra,PREPAL,0
+2694,araba_alava,PREPAL,0
+2695,gipuzkoa,PREPAL,0
+2696,bizkaia,PREPAL,0
+2697,murcia,PREPAL,0
+2698,larioja,PREPAL,0
+2699,alicante_alacant,PREPAL,0
+2700,castellon_castello,PREPAL,0
+2701,valencia_valencia,PREPAL,0
+2702,ceuta,PREPAL,0
+2703,melilla,PREPAL,0
+2704,almeria,ANDECHA,0
+2705,cadiz,ANDECHA,0
+2706,cordoba,ANDECHA,0
+2707,granada,ANDECHA,0
+2708,huelva,ANDECHA,0
+2709,jaen,ANDECHA,0
+2710,malaga,ANDECHA,0
+2711,sevilla,ANDECHA,0
+2712,huesca,ANDECHA,0
+2713,teruel,ANDECHA,0
+2714,zaragoza,ANDECHA,0
+2715,asturias,ANDECHA,887
+2716,illesbalears,ANDECHA,0
+2717,laspalmas,ANDECHA,0
+2718,santacruzdetenerife,ANDECHA,0
+2719,cantabria,ANDECHA,0
+2720,albacete,ANDECHA,0
+2721,ciudadreal,ANDECHA,0
+2722,cuenca,ANDECHA,0
+2723,guadalajara,ANDECHA,0
+2724,toledo,ANDECHA,0
+2725,avila,ANDECHA,0
+2726,burgos,ANDECHA,0
+2727,leon,ANDECHA,0
+2728,palencia,ANDECHA,0
+2729,salamanca,ANDECHA,0
+2730,segovia,ANDECHA,0
+2731,soria,ANDECHA,0
+2732,valladolid,ANDECHA,0
+2733,zamora,ANDECHA,0
+2734,barcelona,ANDECHA,0
+2735,girona,ANDECHA,0
+2736,lleida,ANDECHA,0
+2737,tarragona,ANDECHA,0
+2738,badajoz,ANDECHA,0
+2739,caceres,ANDECHA,0
+2740,acoruña,ANDECHA,0
+2741,lugo,ANDECHA,0
+2742,ourense,ANDECHA,0
+2743,pontevedra,ANDECHA,0
+2744,madrid,ANDECHA,0
+2745,navarra,ANDECHA,0
+2746,araba_alava,ANDECHA,0
+2747,gipuzkoa,ANDECHA,0
+2748,bizkaia,ANDECHA,0
+2749,murcia,ANDECHA,0
+2750,larioja,ANDECHA,0
+2751,alicante_alacant,ANDECHA,0
+2752,castellon_castello,ANDECHA,0
+2753,valencia_valencia,ANDECHA,0
+2754,ceuta,ANDECHA,0
+2755,melilla,ANDECHA,0
+2756,almeria,MDyC,0
+2757,cadiz,MDyC,0
+2758,cordoba,MDyC,0
+2759,granada,MDyC,0
+2760,huelva,MDyC,0
+2761,jaen,MDyC,0
+2762,malaga,MDyC,0
+2763,sevilla,MDyC,0
+2764,huesca,MDyC,0
+2765,teruel,MDyC,0
+2766,zaragoza,MDyC,0
+2767,asturias,MDyC,0
+2768,illesbalears,MDyC,0
+2769,laspalmas,MDyC,0
+2770,santacruzdetenerife,MDyC,0
+2771,cantabria,MDyC,0
+2772,albacete,MDyC,0
+2773,ciudadreal,MDyC,0
+2774,cuenca,MDyC,0
+2775,guadalajara,MDyC,0
+2776,toledo,MDyC,0
+2777,avila,MDyC,0
+2778,burgos,MDyC,0
+2779,leon,MDyC,0
+2780,palencia,MDyC,0
+2781,salamanca,MDyC,0
+2782,segovia,MDyC,0
+2783,soria,MDyC,0
+2784,valladolid,MDyC,0
+2785,zamora,MDyC,0
+2786,barcelona,MDyC,0
+2787,girona,MDyC,0
+2788,lleida,MDyC,0
+2789,tarragona,MDyC,0
+2790,badajoz,MDyC,0
+2791,caceres,MDyC,0
+2792,acoruña,MDyC,0
+2793,lugo,MDyC,0
+2794,ourense,MDyC,0
+2795,pontevedra,MDyC,0
+2796,madrid,MDyC,0
+2797,navarra,MDyC,0
+2798,araba_alava,MDyC,0
+2799,gipuzkoa,MDyC,0
+2800,bizkaia,MDyC,0
+2801,murcia,MDyC,0
+2802,larioja,MDyC,0
+2803,alicante_alacant,MDyC,0
+2804,castellon_castello,MDyC,0
+2805,valencia_valencia,MDyC,0
+2806,ceuta,MDyC,819
+2807,melilla,MDyC,0
+2808,almeria,PYLN,0
+2809,cadiz,PYLN,0
+2810,cordoba,PYLN,0
+2811,granada,PYLN,0
+2812,huelva,PYLN,0
+2813,jaen,PYLN,0
+2814,malaga,PYLN,0
+2815,sevilla,PYLN,0
+2816,huesca,PYLN,73
+2817,teruel,PYLN,25
+2818,zaragoza,PYLN,532
+2819,asturias,PYLN,0
+2820,illesbalears,PYLN,0
+2821,laspalmas,PYLN,0
+2822,santacruzdetenerife,PYLN,0
+2823,cantabria,PYLN,0
+2824,albacete,PYLN,0
+2825,ciudadreal,PYLN,0
+2826,cuenca,PYLN,0
+2827,guadalajara,PYLN,0
+2828,toledo,PYLN,0
+2829,avila,PYLN,0
+2830,burgos,PYLN,0
+2831,leon,PYLN,0
+2832,palencia,PYLN,0
+2833,salamanca,PYLN,0
+2834,segovia,PYLN,0
+2835,soria,PYLN,0
+2836,valladolid,PYLN,0
+2837,zamora,PYLN,0
+2838,barcelona,PYLN,0
+2839,girona,PYLN,0
+2840,lleida,PYLN,0
+2841,tarragona,PYLN,0
+2842,badajoz,PYLN,0
+2843,caceres,PYLN,0
+2844,acoruña,PYLN,0
+2845,lugo,PYLN,0
+2846,ourense,PYLN,0
+2847,pontevedra,PYLN,0
+2848,madrid,PYLN,0
+2849,navarra,PYLN,0
+2850,araba_alava,PYLN,0
+2851,gipuzkoa,PYLN,0
+2852,bizkaia,PYLN,0
+2853,murcia,PYLN,0
+2854,larioja,PYLN,0
+2855,alicante_alacant,PYLN,0
+2856,castellon_castello,PYLN,0
+2857,valencia_valencia,PYLN,0
+2858,ceuta,PYLN,0
+2859,melilla,PYLN,0
+2860,almeria,FE de las JONS,0
+2861,cadiz,FE de las JONS,0
+2862,cordoba,FE de las JONS,0
+2863,granada,FE de las JONS,0
+2864,huelva,FE de las JONS,0
+2865,jaen,FE de las JONS,0
+2866,malaga,FE de las JONS,0
+2867,sevilla,FE de las JONS,0
+2868,huesca,FE de las JONS,0
+2869,teruel,FE de las JONS,0
+2870,zaragoza,FE de las JONS,0
+2871,asturias,FE de las JONS,0
+2872,illesbalears,FE de las JONS,0
+2873,laspalmas,FE de las JONS,0
+2874,santacruzdetenerife,FE de las JONS,0
+2875,cantabria,FE de las JONS,0
+2876,albacete,FE de las JONS,0
+2877,ciudadreal,FE de las JONS,0
+2878,cuenca,FE de las JONS,0
+2879,guadalajara,FE de las JONS,188
+2880,toledo,FE de las JONS,0
+2881,avila,FE de las JONS,61
+2882,burgos,FE de las JONS,0
+2883,leon,FE de las JONS,0
+2884,palencia,FE de las JONS,79
+2885,salamanca,FE de las JONS,0
+2886,segovia,FE de las JONS,0
+2887,soria,FE de las JONS,0
+2888,valladolid,FE de las JONS,151
+2889,zamora,FE de las JONS,0
+2890,barcelona,FE de las JONS,0
+2891,girona,FE de las JONS,0
+2892,lleida,FE de las JONS,0
+2893,tarragona,FE de las JONS,0
+2894,badajoz,FE de las JONS,0
+2895,caceres,FE de las JONS,0
+2896,acoruña,FE de las JONS,0
+2897,lugo,FE de las JONS,0
+2898,ourense,FE de las JONS,0
+2899,pontevedra,FE de las JONS,0
+2900,madrid,FE de las JONS,0
+2901,navarra,FE de las JONS,0
+2902,araba_alava,FE de las JONS,0
+2903,gipuzkoa,FE de las JONS,0
+2904,bizkaia,FE de las JONS,0
+2905,murcia,FE de las JONS,0
+2906,larioja,FE de las JONS,0
+2907,alicante_alacant,FE de las JONS,0
+2908,castellon_castello,FE de las JONS,137
+2909,valencia_valencia,FE de las JONS,0
+2910,ceuta,FE de las JONS,0
+2911,melilla,FE de las JONS,0
+2912,almeria,AUNACV,0
+2913,cadiz,AUNACV,0
+2914,cordoba,AUNACV,0
+2915,granada,AUNACV,0
+2916,huelva,AUNACV,0
+2917,jaen,AUNACV,0
+2918,malaga,AUNACV,0
+2919,sevilla,AUNACV,0
+2920,huesca,AUNACV,0
+2921,teruel,AUNACV,13
+2922,zaragoza,AUNACV,0
+2923,asturias,AUNACV,0
+2924,illesbalears,AUNACV,0
+2925,laspalmas,AUNACV,0
+2926,santacruzdetenerife,AUNACV,0
+2927,cantabria,AUNACV,0
+2928,albacete,AUNACV,0
+2929,ciudadreal,AUNACV,0
+2930,cuenca,AUNACV,0
+2931,guadalajara,AUNACV,0
+2932,toledo,AUNACV,0
+2933,avila,AUNACV,0
+2934,burgos,AUNACV,0
+2935,leon,AUNACV,0
+2936,palencia,AUNACV,0
+2937,salamanca,AUNACV,0
+2938,segovia,AUNACV,0
+2939,soria,AUNACV,0
+2940,valladolid,AUNACV,0
+2941,zamora,AUNACV,0
+2942,barcelona,AUNACV,0
+2943,girona,AUNACV,0
+2944,lleida,AUNACV,0
+2945,tarragona,AUNACV,0
+2946,badajoz,AUNACV,0
+2947,caceres,AUNACV,0
+2948,acoruña,AUNACV,0
+2949,lugo,AUNACV,0
+2950,ourense,AUNACV,0
+2951,pontevedra,AUNACV,0
+2952,madrid,AUNACV,0
+2953,navarra,AUNACV,0
+2954,araba_alava,AUNACV,0
+2955,gipuzkoa,AUNACV,0
+2956,bizkaia,AUNACV,0
+2957,murcia,AUNACV,0
+2958,larioja,AUNACV,0
+2959,alicante_alacant,AUNACV,0
+2960,castellon_castello,AUNACV,104
+2961,valencia_valencia,AUNACV,468
+2962,ceuta,AUNACV,0
+2963,melilla,AUNACV,0
+2964,almeria,UNIÓN REGIONALISTA,0
+2965,cadiz,UNIÓN REGIONALISTA,0
+2966,cordoba,UNIÓN REGIONALISTA,0
+2967,granada,UNIÓN REGIONALISTA,0
+2968,huelva,UNIÓN REGIONALISTA,0
+2969,jaen,UNIÓN REGIONALISTA,0
+2970,malaga,UNIÓN REGIONALISTA,0
+2971,sevilla,UNIÓN REGIONALISTA,0
+2972,huesca,UNIÓN REGIONALISTA,0
+2973,teruel,UNIÓN REGIONALISTA,0
+2974,zaragoza,UNIÓN REGIONALISTA,0
+2975,asturias,UNIÓN REGIONALISTA,0
+2976,illesbalears,UNIÓN REGIONALISTA,0
+2977,laspalmas,UNIÓN REGIONALISTA,0
+2978,santacruzdetenerife,UNIÓN REGIONALISTA,0
+2979,cantabria,UNIÓN REGIONALISTA,0
+2980,albacete,UNIÓN REGIONALISTA,0
+2981,ciudadreal,UNIÓN REGIONALISTA,0
+2982,cuenca,UNIÓN REGIONALISTA,0
+2983,guadalajara,UNIÓN REGIONALISTA,0
+2984,toledo,UNIÓN REGIONALISTA,0
+2985,avila,UNIÓN REGIONALISTA,0
+2986,burgos,UNIÓN REGIONALISTA,0
+2987,leon,UNIÓN REGIONALISTA,0
+2988,palencia,UNIÓN REGIONALISTA,0
+2989,salamanca,UNIÓN REGIONALISTA,0
+2990,segovia,UNIÓN REGIONALISTA,0
+2991,soria,UNIÓN REGIONALISTA,0
+2992,valladolid,UNIÓN REGIONALISTA,530
+2993,zamora,UNIÓN REGIONALISTA,0
+2994,barcelona,UNIÓN REGIONALISTA,0
+2995,girona,UNIÓN REGIONALISTA,0
+2996,lleida,UNIÓN REGIONALISTA,0
+2997,tarragona,UNIÓN REGIONALISTA,0
+2998,badajoz,UNIÓN REGIONALISTA,0
+2999,caceres,UNIÓN REGIONALISTA,0
+3000,acoruña,UNIÓN REGIONALISTA,0
+3001,lugo,UNIÓN REGIONALISTA,0
+3002,ourense,UNIÓN REGIONALISTA,0
+3003,pontevedra,UNIÓN REGIONALISTA,0
+3004,madrid,UNIÓN REGIONALISTA,0
+3005,navarra,UNIÓN REGIONALISTA,0
+3006,araba_alava,UNIÓN REGIONALISTA,0
+3007,gipuzkoa,UNIÓN REGIONALISTA,0
+3008,bizkaia,UNIÓN REGIONALISTA,0
+3009,murcia,UNIÓN REGIONALISTA,0
+3010,larioja,UNIÓN REGIONALISTA,0
+3011,alicante_alacant,UNIÓN REGIONALISTA,0
+3012,castellon_castello,UNIÓN REGIONALISTA,0
+3013,valencia_valencia,UNIÓN REGIONALISTA,0
+3014,ceuta,UNIÓN REGIONALISTA,0
+3015,melilla,UNIÓN REGIONALISTA,0
+3016,almeria,Canda,0
+3017,cadiz,Canda,0
+3018,cordoba,Canda,0
+3019,granada,Canda,520
+3020,huelva,Canda,0
+3021,jaen,Canda,0
+3022,malaga,Canda,0
+3023,sevilla,Canda,0
+3024,huesca,Canda,0
+3025,teruel,Canda,0
+3026,zaragoza,Canda,0
+3027,asturias,Canda,0
+3028,illesbalears,Canda,0
+3029,laspalmas,Canda,0
+3030,santacruzdetenerife,Canda,0
+3031,cantabria,Canda,0
+3032,albacete,Canda,0
+3033,ciudadreal,Canda,0
+3034,cuenca,Canda,0
+3035,guadalajara,Canda,0
+3036,toledo,Canda,0
+3037,avila,Canda,0
+3038,burgos,Canda,0
+3039,leon,Canda,0
+3040,palencia,Canda,0
+3041,salamanca,Canda,0
+3042,segovia,Canda,0
+3043,soria,Canda,0
+3044,valladolid,Canda,0
+3045,zamora,Canda,0
+3046,barcelona,Canda,0
+3047,girona,Canda,0
+3048,lleida,Canda,0
+3049,tarragona,Canda,0
+3050,badajoz,Canda,0
+3051,caceres,Canda,0
+3052,acoruña,Canda,0
+3053,lugo,Canda,0
+3054,ourense,Canda,0
+3055,pontevedra,Canda,0
+3056,madrid,Canda,0
+3057,navarra,Canda,0
+3058,araba_alava,Canda,0
+3059,gipuzkoa,Canda,0
+3060,bizkaia,Canda,0
+3061,murcia,Canda,0
+3062,larioja,Canda,0
+3063,alicante_alacant,Canda,0
+3064,castellon_castello,Canda,0
+3065,valencia_valencia,Canda,0
+3066,ceuta,Canda,0
+3067,melilla,Canda,0
+3068,almeria,FIA,0
+3069,cadiz,FIA,0
+3070,cordoba,FIA,0
+3071,granada,FIA,0
+3072,huelva,FIA,0
+3073,jaen,FIA,0
+3074,malaga,FIA,0
+3075,sevilla,FIA,0
+3076,huesca,FIA,75
+3077,teruel,FIA,0
+3078,zaragoza,FIA,386
+3079,asturias,FIA,0
+3080,illesbalears,FIA,0
+3081,laspalmas,FIA,0
+3082,santacruzdetenerife,FIA,0
+3083,cantabria,FIA,0
+3084,albacete,FIA,0
+3085,ciudadreal,FIA,0
+3086,cuenca,FIA,0
+3087,guadalajara,FIA,0
+3088,toledo,FIA,0
+3089,avila,FIA,0
+3090,burgos,FIA,0
+3091,leon,FIA,0
+3092,palencia,FIA,0
+3093,salamanca,FIA,0
+3094,segovia,FIA,0
+3095,soria,FIA,0
+3096,valladolid,FIA,0
+3097,zamora,FIA,0
+3098,barcelona,FIA,0
+3099,girona,FIA,0
+3100,lleida,FIA,0
+3101,tarragona,FIA,0
+3102,badajoz,FIA,0
+3103,caceres,FIA,0
+3104,acoruña,FIA,0
+3105,lugo,FIA,0
+3106,ourense,FIA,0
+3107,pontevedra,FIA,0
+3108,madrid,FIA,0
+3109,navarra,FIA,0
+3110,araba_alava,FIA,0
+3111,gipuzkoa,FIA,0
+3112,bizkaia,FIA,0
+3113,murcia,FIA,0
+3114,larioja,FIA,0
+3115,alicante_alacant,FIA,0
+3116,castellon_castello,FIA,0
+3117,valencia_valencia,FIA,0
+3118,ceuta,FIA,0
+3119,melilla,FIA,0
+3120,almeria,SOLIDARIA,0
+3121,cadiz,SOLIDARIA,0
+3122,cordoba,SOLIDARIA,0
+3123,granada,SOLIDARIA,0
+3124,huelva,SOLIDARIA,0
+3125,jaen,SOLIDARIA,0
+3126,malaga,SOLIDARIA,0
+3127,sevilla,SOLIDARIA,0
+3128,huesca,SOLIDARIA,0
+3129,teruel,SOLIDARIA,0
+3130,zaragoza,SOLIDARIA,0
+3131,asturias,SOLIDARIA,0
+3132,illesbalears,SOLIDARIA,0
+3133,laspalmas,SOLIDARIA,0
+3134,santacruzdetenerife,SOLIDARIA,0
+3135,cantabria,SOLIDARIA,0
+3136,albacete,SOLIDARIA,0
+3137,ciudadreal,SOLIDARIA,0
+3138,cuenca,SOLIDARIA,0
+3139,guadalajara,SOLIDARIA,0
+3140,toledo,SOLIDARIA,0
+3141,avila,SOLIDARIA,0
+3142,burgos,SOLIDARIA,0
+3143,leon,SOLIDARIA,0
+3144,palencia,SOLIDARIA,0
+3145,salamanca,SOLIDARIA,0
+3146,segovia,SOLIDARIA,0
+3147,soria,SOLIDARIA,0
+3148,valladolid,SOLIDARIA,0
+3149,zamora,SOLIDARIA,0
+3150,barcelona,SOLIDARIA,0
+3151,girona,SOLIDARIA,0
+3152,lleida,SOLIDARIA,0
+3153,tarragona,SOLIDARIA,0
+3154,badajoz,SOLIDARIA,0
+3155,caceres,SOLIDARIA,0
+3156,acoruña,SOLIDARIA,0
+3157,lugo,SOLIDARIA,0
+3158,ourense,SOLIDARIA,0
+3159,pontevedra,SOLIDARIA,0
+3160,madrid,SOLIDARIA,0
+3161,navarra,SOLIDARIA,0
+3162,araba_alava,SOLIDARIA,0
+3163,gipuzkoa,SOLIDARIA,0
+3164,bizkaia,SOLIDARIA,270
+3165,murcia,SOLIDARIA,0
+3166,larioja,SOLIDARIA,0
+3167,alicante_alacant,SOLIDARIA,0
+3168,castellon_castello,SOLIDARIA,0
+3169,valencia_valencia,SOLIDARIA,0
+3170,ceuta,SOLIDARIA,0
+3171,melilla,SOLIDARIA,0
+3172,almeria,RISA,0
+3173,cadiz,RISA,0
+3174,cordoba,RISA,0
+3175,granada,RISA,0
+3176,huelva,RISA,0
+3177,jaen,RISA,249
+3178,malaga,RISA,0
+3179,sevilla,RISA,0
+3180,huesca,RISA,0
+3181,teruel,RISA,0
+3182,zaragoza,RISA,0
+3183,asturias,RISA,0
+3184,illesbalears,RISA,0
+3185,laspalmas,RISA,0
+3186,santacruzdetenerife,RISA,0
+3187,cantabria,RISA,0
+3188,albacete,RISA,0
+3189,ciudadreal,RISA,0
+3190,cuenca,RISA,0
+3191,guadalajara,RISA,0
+3192,toledo,RISA,0
+3193,avila,RISA,0
+3194,burgos,RISA,0
+3195,leon,RISA,0
+3196,palencia,RISA,0
+3197,salamanca,RISA,0
+3198,segovia,RISA,0
+3199,soria,RISA,0
+3200,valladolid,RISA,0
+3201,zamora,RISA,0
+3202,barcelona,RISA,0
+3203,girona,RISA,0
+3204,lleida,RISA,0
+3205,tarragona,RISA,0
+3206,badajoz,RISA,0
+3207,caceres,RISA,0
+3208,acoruña,RISA,0
+3209,lugo,RISA,0
+3210,ourense,RISA,0
+3211,pontevedra,RISA,0
+3212,madrid,RISA,0
+3213,navarra,RISA,0
+3214,araba_alava,RISA,0
+3215,gipuzkoa,RISA,0
+3216,bizkaia,RISA,0
+3217,murcia,RISA,0
+3218,larioja,RISA,0
+3219,alicante_alacant,RISA,0
+3220,castellon_castello,RISA,0
+3221,valencia_valencia,RISA,0
+3222,ceuta,RISA,0
+3223,melilla,RISA,0
+3224,almeria,centrados,0
+3225,cadiz,centrados,0
+3226,cordoba,centrados,0
+3227,granada,centrados,0
+3228,huelva,centrados,0
+3229,jaen,centrados,0
+3230,malaga,centrados,0
+3231,sevilla,centrados,0
+3232,huesca,centrados,0
+3233,teruel,centrados,0
+3234,zaragoza,centrados,0
+3235,asturias,centrados,0
+3236,illesbalears,centrados,0
+3237,laspalmas,centrados,0
+3238,santacruzdetenerife,centrados,0
+3239,cantabria,centrados,0
+3240,albacete,centrados,0
+3241,ciudadreal,centrados,0
+3242,cuenca,centrados,0
+3243,guadalajara,centrados,0
+3244,toledo,centrados,0
+3245,avila,centrados,0
+3246,burgos,centrados,0
+3247,leon,centrados,0
+3248,palencia,centrados,0
+3249,salamanca,centrados,0
+3250,segovia,centrados,234
+3251,soria,centrados,0
+3252,valladolid,centrados,0
+3253,zamora,centrados,0
+3254,barcelona,centrados,0
+3255,girona,centrados,0
+3256,lleida,centrados,0
+3257,tarragona,centrados,0
+3258,badajoz,centrados,0
+3259,caceres,centrados,0
+3260,acoruña,centrados,0
+3261,lugo,centrados,0
+3262,ourense,centrados,0
+3263,pontevedra,centrados,0
+3264,madrid,centrados,0
+3265,navarra,centrados,0
+3266,araba_alava,centrados,0
+3267,gipuzkoa,centrados,0
+3268,bizkaia,centrados,0
+3269,murcia,centrados,0
+3270,larioja,centrados,0
+3271,alicante_alacant,centrados,0
+3272,castellon_castello,centrados,0
+3273,valencia_valencia,centrados,0
+3274,ceuta,centrados,0
+3275,melilla,centrados,0
+3276,almeria,DPL,0
+3277,cadiz,DPL,0
+3278,cordoba,DPL,0
+3279,granada,DPL,0
+3280,huelva,DPL,0
+3281,jaen,DPL,0
+3282,malaga,DPL,0
+3283,sevilla,DPL,0
+3284,huesca,DPL,0
+3285,teruel,DPL,0
+3286,zaragoza,DPL,0
+3287,asturias,DPL,0
+3288,illesbalears,DPL,0
+3289,laspalmas,DPL,0
+3290,santacruzdetenerife,DPL,0
+3291,cantabria,DPL,0
+3292,albacete,DPL,0
+3293,ciudadreal,DPL,0
+3294,cuenca,DPL,0
+3295,guadalajara,DPL,0
+3296,toledo,DPL,0
+3297,avila,DPL,0
+3298,burgos,DPL,0
+3299,leon,DPL,0
+3300,palencia,DPL,0
+3301,salamanca,DPL,0
+3302,segovia,DPL,0
+3303,soria,DPL,0
+3304,valladolid,DPL,0
+3305,zamora,DPL,0
+3306,barcelona,DPL,0
+3307,girona,DPL,0
+3308,lleida,DPL,0
+3309,tarragona,DPL,0
+3310,badajoz,DPL,0
+3311,caceres,DPL,0
+3312,acoruña,DPL,0
+3313,lugo,DPL,0
+3314,ourense,DPL,0
+3315,pontevedra,DPL,0
+3316,madrid,DPL,0
+3317,navarra,DPL,0
+3318,araba_alava,DPL,0
+3319,gipuzkoa,DPL,0
+3320,bizkaia,DPL,0
+3321,murcia,DPL,214
+3322,larioja,DPL,0
+3323,alicante_alacant,DPL,0
+3324,castellon_castello,DPL,0
+3325,valencia_valencia,DPL,0
+3326,ceuta,DPL,0
+3327,melilla,DPL,0
+3328,almeria,IZAR,0
+3329,cadiz,IZAR,0
+3330,cordoba,IZAR,0
+3331,granada,IZAR,113
+3332,huelva,IZAR,0
+3333,jaen,IZAR,0
+3334,malaga,IZAR,0
+3335,sevilla,IZAR,0
+3336,huesca,IZAR,0
+3337,teruel,IZAR,0
+3338,zaragoza,IZAR,0
+3339,asturias,IZAR,0
+3340,illesbalears,IZAR,0
+3341,laspalmas,IZAR,0
+3342,santacruzdetenerife,IZAR,0
+3343,cantabria,IZAR,0
+3344,albacete,IZAR,0
+3345,ciudadreal,IZAR,0
+3346,cuenca,IZAR,0
+3347,guadalajara,IZAR,0
+3348,toledo,IZAR,0
+3349,avila,IZAR,0
+3350,burgos,IZAR,0
+3351,leon,IZAR,0
+3352,palencia,IZAR,0
+3353,salamanca,IZAR,0
+3354,segovia,IZAR,0
+3355,soria,IZAR,0
+3356,valladolid,IZAR,0
+3357,zamora,IZAR,0
+3358,barcelona,IZAR,0
+3359,girona,IZAR,0
+3360,lleida,IZAR,0
+3361,tarragona,IZAR,0
+3362,badajoz,IZAR,0
+3363,caceres,IZAR,0
+3364,acoruña,IZAR,0
+3365,lugo,IZAR,0
+3366,ourense,IZAR,0
+3367,pontevedra,IZAR,0
+3368,madrid,IZAR,0
+3369,navarra,IZAR,0
+3370,araba_alava,IZAR,0
+3371,gipuzkoa,IZAR,0
+3372,bizkaia,IZAR,0
+3373,murcia,IZAR,0
+3374,larioja,IZAR,0
+3375,alicante_alacant,IZAR,0
+3376,castellon_castello,IZAR,0
+3377,valencia_valencia,IZAR,0
+3378,ceuta,IZAR,0
+3379,melilla,IZAR,0
+3380,almeria,C 21,0
+3381,cadiz,C 21,0
+3382,cordoba,C 21,0
+3383,granada,C 21,0
+3384,huelva,C 21,0
+3385,jaen,C 21,0
+3386,malaga,C 21,0
+3387,sevilla,C 21,0
+3388,huesca,C 21,0
+3389,teruel,C 21,0
+3390,zaragoza,C 21,0
+3391,asturias,C 21,0
+3392,illesbalears,C 21,0
+3393,laspalmas,C 21,0
+3394,santacruzdetenerife,C 21,0
+3395,cantabria,C 21,0
+3396,albacete,C 21,0
+3397,ciudadreal,C 21,0
+3398,cuenca,C 21,0
+3399,guadalajara,C 21,0
+3400,toledo,C 21,0
+3401,avila,C 21,0
+3402,burgos,C 21,0
+3403,leon,C 21,0
+3404,palencia,C 21,0
+3405,salamanca,C 21,0
+3406,segovia,C 21,0
+3407,soria,C 21,0
+3408,valladolid,C 21,0
+3409,zamora,C 21,0
+3410,barcelona,C 21,0
+3411,girona,C 21,0
+3412,lleida,C 21,0
+3413,tarragona,C 21,0
+3414,badajoz,C 21,0
+3415,caceres,C 21,0
+3416,acoruña,C 21,0
+3417,lugo,C 21,72
+3418,ourense,C 21,0
+3419,pontevedra,C 21,0
+3420,madrid,C 21,0
+3421,navarra,C 21,0
+3422,araba_alava,C 21,0
+3423,gipuzkoa,C 21,0
+3424,bizkaia,C 21,0
+3425,murcia,C 21,0
+3426,larioja,C 21,0
+3427,alicante_alacant,C 21,0
+3428,castellon_castello,C 21,0
+3429,valencia_valencia,C 21,0
+3430,ceuta,C 21,0
+3431,melilla,C 21,0
+3432,almeria,UDT,0
+3433,cadiz,UDT,0
+3434,cordoba,UDT,0
+3435,granada,UDT,0
+3436,huelva,UDT,0
+3437,jaen,UDT,0
+3438,malaga,UDT,0
+3439,sevilla,UDT,0
+3440,huesca,UDT,0
+3441,teruel,UDT,26
+3442,zaragoza,UDT,0
+3443,asturias,UDT,0
+3444,illesbalears,UDT,0
+3445,laspalmas,UDT,0
+3446,santacruzdetenerife,UDT,0
+3447,cantabria,UDT,0
+3448,albacete,UDT,0
+3449,ciudadreal,UDT,0
+3450,cuenca,UDT,0
+3451,guadalajara,UDT,0
+3452,toledo,UDT,0
+3453,avila,UDT,0
+3454,burgos,UDT,0
+3455,leon,UDT,0
+3456,palencia,UDT,0
+3457,salamanca,UDT,0
+3458,segovia,UDT,0
+3459,soria,UDT,0
+3460,valladolid,UDT,0
+3461,zamora,UDT,0
+3462,barcelona,UDT,0
+3463,girona,UDT,0
+3464,lleida,UDT,0
+3465,tarragona,UDT,0
+3466,badajoz,UDT,0
+3467,caceres,UDT,0
+3468,acoruña,UDT,0
+3469,lugo,UDT,0
+3470,ourense,UDT,0
+3471,pontevedra,UDT,0
+3472,madrid,UDT,0
+3473,navarra,UDT,0
+3474,araba_alava,UDT,0
+3475,gipuzkoa,UDT,0
+3476,bizkaia,UDT,0
+3477,murcia,UDT,0
+3478,larioja,UDT,0
+3479,alicante_alacant,UDT,0
+3480,castellon_castello,UDT,0
+3481,valencia_valencia,UDT,0
+3482,ceuta,UDT,0
+3483,melilla,UDT,0

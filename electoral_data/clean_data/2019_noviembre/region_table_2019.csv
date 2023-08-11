@@ -1,0 +1,53 @@
+,id,name,codename,type_reg
+0,0,Almería,almeria,prov
+1,1,Cádiz,cadiz,prov
+2,2,Córdoba,cordoba,prov
+3,3,Granada,granada,prov
+4,4,Huelva,huelva,prov
+5,5,Jaén,jaen,prov
+6,6,Málaga,malaga,prov
+7,7,Sevilla,sevilla,prov
+8,8,Huesca,huesca,prov
+9,9,Teruel,teruel,prov
+10,10,Zaragoza,zaragoza,prov
+11,11,Asturias,asturias,prov
+12,12,Illes Balears,illesbalears,prov
+13,13,Las Palmas,laspalmas,prov
+14,14,Santa Cruz de Tenerife,santacruzdetenerife,prov
+15,15,Cantabria,cantabria,prov
+16,16,Albacete,albacete,prov
+17,17,Ciudad Real,ciudadreal,prov
+18,18,Cuenca,cuenca,prov
+19,19,Guadalajara,guadalajara,prov
+20,20,Toledo,toledo,prov
+21,21,Ávila,avila,prov
+22,22,Burgos,burgos,prov
+23,23,León,leon,prov
+24,24,Palencia,palencia,prov
+25,25,Salamanca,salamanca,prov
+26,26,Segovia,segovia,prov
+27,27,Soria,soria,prov
+28,28,Valladolid,valladolid,prov
+29,29,Zamora,zamora,prov
+30,30,Barcelona,barcelona,prov
+31,31,Girona,girona,prov
+32,32,Lleida,lleida,prov
+33,33,Tarragona,tarragona,prov
+34,34,Badajoz,badajoz,prov
+35,35,Cáceres,caceres,prov
+36,36,A Coruña,acoruña,prov
+37,37,Lugo,lugo,prov
+38,38,Ourense,ourense,prov
+39,39,Pontevedra,pontevedra,prov
+40,40,Madrid,madrid,prov
+41,41,Navarra,navarra,prov
+42,42,Araba / Álava,araba_alava,prov
+43,43,Gipuzkoa,gipuzkoa,prov
+44,44,Bizkaia,bizkaia,prov
+45,45,Murcia,murcia,prov
+46,46,La Rioja,larioja,prov
+47,47,Alicante / Alacant,alicante_alacant,prov
+48,48,Castellón / Castelló,castellon_castello,prov
+49,49,Valencia / València,valencia_valencia,prov
+50,50,Ceuta,ceuta,caut
+51,51,Melilla,melilla,caut
