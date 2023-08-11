@@ -1,6 +1,9 @@
-from typing import Tuple
+import os
+import re
+from typing import List, Tuple
 
 import pandas as pd
+from pypdf import PdfReader
 
 
 def format_serie_values(values: pd.Series) -> pd.Series:
@@ -46,28 +49,23 @@ def create_region_table(path_2019_file: str = None) -> pd.DataFrame:
     region_table = pd.read_excel(path_2019_file, skiprows=5, skipfooter=2, usecols=[2])
     region_table.columns = ["name"]
     region_table.name = region_table.name.str.strip()
-    region_table["codename"] = region_table.name.str.replace(" ", "")
-    region_table.codename = format_serie_values(region_table.codename)
+    region_table["codename"] = format_serie_values(region_table.name)
     region_table["type_reg"] = "prov"
     region_table.loc[region_table.codename.isin(["ceuta", "melilla"]), "type_reg"] = "caut"
     region_table = region_table.reset_index(names="id")
     return region_table
 
 
-def clean_november_2019(
-    path_file: str = None,
-    bbdd_parties: str = None,
-    bbdd_coalition: str = None,
-    bbdd_cp_rel: str = None,
-) -> Tuple[pd.DataFrame, pd.DataFrame]:
+def clean_2019(month: str) -> Tuple[pd.DataFrame, pd.DataFrame]:
     """
-    Función que limpia los datos electorales de las elecciones de noviembre de 2019.
+    Función que limpia los datos electorales de las elecciones generales de 2019. Los datos
+    electorales descargados desde:
+    https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
 
     Parameters
     ----------
-    path_file: str, default None
-        Ruta del archivo con los datos electorales descargados desde
-        https://infoelectoral.interior.gob.es/opencms/es/elecciones-celebradas/area-de-descargas/
+    month: str, ["april", "november"]
+        Mes de las elecciones
 
     Returns
     -------
@@ -76,15 +74,16 @@ def clean_november_2019(
     df_parties: pd.DataFrame
         Tabla con los datos de diputados y votos de los partidos.
     """
-    election_id = 0
-    if path_file is None:
+    if month == "november":
+        election_id = 0
         path_file = "electoral_data/raw_data/2019_noviembre/PROV_02_201911_1.xlsx"
-    if bbdd_parties is None:
-        bbdd_parties = "electoral_data/raw_data/2019_noviembre/bbdd_partidos.csv"
-    if bbdd_coalition is None:
-        bbdd_coalition = "electoral_data/raw_data/2019_noviembre/bbdd_coaliciones.csv"
-    if bbdd_cp_rel is None:
-        bbdd_cp_rel = "electoral_data/raw_data/2019_noviembre/bbdd_coaliciones_relaciones.csv"
+        path_to_write = "electoral_data/clean_data/2019_noviembre/"
+    elif month == "april":
+        election_id = 2
+        path_file = "electoral_data/raw_data/2019_abril/PROV_02_201904_1.xlsx"
+        path_to_write = "electoral_data/clean_data/2019_abril/"
+    else:
+        raise ValueError(f"El mes {month} no tiene elecciones. Usa 'april' o 'november'")
 
     # Formateo de columnas
     raw_data = pd.read_excel(path_file, skiprows=3, skipfooter=2)
@@ -98,21 +97,135 @@ def clean_november_2019(
     raw_data.columns = header.values
     diputados_cols = [c for c in raw_data.columns if "_Diputados" in c]
     raw_data["Diputados"] = raw_data[diputados_cols].sum(1)
-    regions_raw_data = raw_data[["Nombre de Provincia", "Total censo electoral", "Diputados"]]
-    regions_raw_data.columns = ["codename", "size", "n_representative"]
-    regions_raw_data["election_id"] = election_id
-    regions_raw_data.loc[:, "codename"] = format_serie_values(regions_raw_data.codename)
+    df_region = raw_data[["Nombre de Provincia", "Total censo electoral", "Diputados"]]
+    df_region.columns = ["codename", "size", "n_representative"]
+    df_region["election_id"] = election_id
+    df_region.loc[:, "codename"] = format_serie_values(df_region.codename)
 
     # Carga de los votos.
     columns_votes = [c for c in raw_data.columns if "_Votos" in c]
-    clean_data_votes = raw_data[["Nombre de Provincia"] + columns_votes].rename(
+    df_parties = raw_data[["Nombre de Provincia"] + columns_votes].rename(
         columns={"Nombre de Provincia": "codename"}
     )
-    clean_data_votes.loc[:, "codename"] = format_serie_values(clean_data_votes.codename)
-    clean_data_votes[columns_votes] = clean_data_votes[columns_votes].astype(int)
-    clean_data_votes.columns = clean_data_votes.columns.str.replace("_Votos", "")
-    clean_data_votes = pd.melt(
-        clean_data_votes, id_vars=["codename"], value_name="votes", var_name="political_parties"
+    df_parties.loc[:, "codename"] = format_serie_values(df_parties.codename)
+    df_parties[columns_votes] = df_parties[columns_votes].astype(int)
+    df_parties.columns = df_parties.columns.str.replace("_Votos", "")
+    df_parties = pd.melt(
+        df_parties, id_vars=["codename"], value_name="votes", var_name="political_parties"
     )
-    clean_data_votes["election_id"] = election_id
-    return regions_raw_data, clean_data_votes
+    df_parties["election_id"] = election_id
+
+    if not os.path.exists(path_to_write):
+        os.mkdir(path_to_write)
+
+    df_region.to_csv(os.path.join(path_to_write, "regions_raw_data.csv"))
+    df_parties.to_csv(os.path.join(path_to_write, "clean_data_votes.csv"))
+    return df_region, df_parties
+
+
+def read_data_2023(path: str) -> pd.DataFrame:
+    """
+    Función que lee los datos electorales de julio de 2023 de un pdf y los convierte a
+    tabla:
+    https://resultados.generales23j.es/assets/files/congreso.pdf
+    La función recorre los datos por provincias del documento. El resultado final
+    tiene datos de las elecciones de 2019 que se necesitan limpiar a mano.
+
+    Parameters
+    ----------
+    path: str
+        Ruta del archivo congreso.pdf descargado de:
+        https://resultados.generales23j.es/assets/files/congreso.pdf
+
+    Returns
+    -------
+    result: pd.DataFrame
+        Tabla con el documento formateado
+    """
+    reader = PdfReader(path)
+    number_of_pages = len(reader.pages)
+    start_page = 45  # Donde empiezan los datos de provincias.
+    result = pd.DataFrame(
+        {},
+        columns=["region", "total_votes", "valid_votes", "cand_votes", "party_initialis", "votes"],
+    )
+
+    for n_page in range(start_page, number_of_pages):
+        page = reader.pages[n_page]
+        text = page.extract_text().split("\n")
+        result_reg = format_pdf_data_2023(text)
+        result = pd.concat((result, result_reg)).reset_index(drop=True)
+
+    result.to_csv("electoral_data/clean_data/2023_julio/pre_clean_congreso.csv")
+    return result
+
+
+def format_pdf_data_2023(text: List[str]) -> pd.DataFrame:
+    """
+    Función que formatea las páginas de los datos provisionales de las elecciones generales
+    de 2023 https://resultados.generales23j.es/assets/files/congreso.pdf. Para ello se apoya
+    en el formato estandar de cada página
+
+    Parameters
+    ----------
+    text: List[str]
+        Lista con las líneas de una página del informe.
+
+    Returns
+    -------
+    result: pd.DataFrame
+        Tabla con la página formateado
+
+    """
+    result = pd.DataFrame(
+        {},
+        columns=["region", "total_votes", "valid_votes", "cand_votes", "party_initialis", "votes"],
+    )
+    region_name = "Unknown"
+    total_votes = 0
+    valid_votes = 0
+    cand_votes = 0
+    k_candidaturas = 0
+    for line in text:
+        if re.match("^España .* Congreso", line):
+            region_name = line.replace("España", "").replace("Congreso", "").strip()
+        elif re.match("^participación.*", line.lower()):
+            total_votes = int(line.strip().split(" ")[1].replace(".", "").replace(",", "."))
+        elif re.match("^votos válidos.*", line.lower()):
+            valid_votes = int(line.strip().split(" ")[2].replace(".", "").replace(",", "."))
+        elif re.match("^a candidatura.*", line.lower()):
+            cand_votes = int(line.strip().split(" ")[2].replace(".", "").replace(",", "."))
+        elif re.match("^candidaturas.*", line.lower()):
+            break
+        k_candidaturas += 1
+
+    index_row = 0
+    firs_part_name = ""
+
+    for k in range(k_candidaturas + 1, len(text)):
+        line = text[k]
+        row_party_name = re.split("\d", line)[0]
+        if row_party_name == "":
+            row_party_name = re.split(" ", line)[0]
+        party_name = firs_part_name + row_party_name
+        data = line.split(row_party_name)[1]
+        if data == "":
+            firs_part_name = party_name
+        else:
+            party_name = party_name.strip()
+            clean_data = re.sub("[+-]( )?\d", "", data).split(" ")
+            votes = int(clean_data[1].replace(".", ""))
+            if votes == 0:  # No hay datos de partidos con 0 votos.
+                votes = int(clean_data[2].replace(".", ""))
+            result.loc[index_row, :] = [
+                region_name,
+                total_votes,
+                valid_votes,
+                cand_votes,
+                party_name,
+                votes,
+            ]
+            index_row += 1
+            firs_part_name = ""
+
+    return result
