@@ -11,7 +11,7 @@ Los paquetes que utiliza estas funciones son:
 
 ### Instalación
 ```
-pip install electoral-systems-analysis
+pip install electoral-system-analysis
 ```
 
 ## Contenido
@@ -42,13 +42,7 @@ En `distribution_formulas` podemos encontrar diferentes fórmulas de reparto de 
 - Cociente de Hagenbach-Bischoff `hagenbach`: https://es.wikipedia.org/wiki/Cuota_Hagenbach-Bischoff
 
 Podemos acceder a los diferentes métodos a traves de la función `get_distribution_formula` mediante las keys que aparecen arriba.
-"dhondt": dhont_rule,
-        "sainte_lague": sainte_lague,
-        "sainte_lague_modificado": sainte_lague_modificado,
-        "hare": hare_coefficient,
-        "imperiali": imperiali_coefficient,
-        "droop": droop_coefficient,
-        "hagenbach": hagenbach_coefficient,
+
 ### Score de Proporcionalidad
 Para medir la proporcionalidad del sistema se ha creado una función que suma el valor absoluto de la diferencia del porcentaje de votos de cada partido y su porcentaje de representantes. Esta suma se la resta a 1, de tal manera que un sistema en el que coincida el porcentaje de votos y de escaños obtendrá una porporcionalidad del 100%.
 ```commandline
