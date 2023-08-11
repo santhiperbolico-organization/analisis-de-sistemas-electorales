@@ -14,9 +14,11 @@ setuptools.setup(
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
+        "License :: OSI Approved :: MIT License",
+        "Operating System :: OS Independent",
     ],
     python_requires=">=3.8",
     py_modules=["electoral_system_analysis"],
-    package_dir={"": "src/electoral_system_analysis/"},
+    package_dir={"": "src"},
     install_requires=["pandas"],
 )
