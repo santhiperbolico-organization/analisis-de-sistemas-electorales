@@ -1,5 +1,9 @@
-name: pre-commit
-on: [push]
+name: pre-commit and pytest
+on:
+  pull_request:
+    branches:
+      - main
+      - develop
 jobs:
   pre-commit:
     runs-on: ubuntu-latest
