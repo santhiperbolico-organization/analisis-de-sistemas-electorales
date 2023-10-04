@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="electoral_system_analysis",
-    version="1.0.1",
+    version="1.0.2",
     author="Santiago Arranz Sanz",
     description="Repositorio que recoge diferentes elementos de sistemas electorales "
     "para su comparación, dentro de los marcos de la constitución española de 1978.",
