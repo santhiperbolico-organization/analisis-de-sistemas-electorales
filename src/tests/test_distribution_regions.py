@@ -56,4 +56,5 @@ def test_get_representative_by_regions(
     result = get_representative_by_regions(
         df_regions, n_representative, min_representative, method
     )
+    result = result.sort_values("reg_el_id").reset_index(drop=True)
     assert (result.n_rep.values == expected).all()
