@@ -41,7 +41,7 @@ def get_representative_by_regions(
         raise RuntimeError(
             f"No existe el método {method}. " f"Elige el método {list(method_formula.keys())}."
         )
-    df_regions = df_regions[["reg_el_id", "n_rep"]].sort_values("reg_el_id").reset_index(drop=True)
+    df_regions = df_regions.reset_index(drop=True)
     return df_regions
 
 
