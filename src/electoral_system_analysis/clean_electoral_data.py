@@ -226,3 +226,29 @@ def format_pdf_data_2023(text: List[str]) -> pd.DataFrame:
             firs_part_name = ""
 
     return result
+
+
+def read_data_2023_rtve(path: str) -> pd.DataFrame:
+    """
+    Función que lee los datos de elecciones de 2023 sacados de la página de rtve.
+
+    Parameters
+    ----------
+    path: str
+        Ruta del archivo excel con la información dividida por regiones en cada hoja
+
+    Returns
+    -------
+    result: pd.DataFrame
+        Tabla que por cada circunscripción y partido recoge lso votos y escaños.
+    """
+    book = pd.ExcelFile(path)
+    circunscriptions = book.sheet_names
+    result = pd.DataFrame(
+        {}, columns=["Circunscription", "Partidos", "Escaños", "Votos", "Porcentaje"]
+    )
+    for c_name in circunscriptions:
+        df = book.parse(c_name)
+        df.insert(0, "Circunscription", c_name)
+        result = pd.concat((result, df))
+    return result.fillna(0)
